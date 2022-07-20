@@ -60,7 +60,7 @@ subcuadro11.rowconfigure(2, weight=1)
 def abrir_archivo():
     archivo = filedialog.askopenfilename(initialdir='/',
                                          title='Selecione archivo',
-                                         filetype=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
+                                         filetypes=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
     indica['text'] = archivo
 
 # def listadeHoja(list_sheet):
@@ -157,7 +157,7 @@ tab3.rowconfigure(0, weight=1)
 
 # estilo de Tabs
 s = ttk.Style()
-s.theme_use('xpnative')  # ('clam', 'alt', 'default', 'classic')
+s.theme_use('alt')  # ('clam', 'alt', 'default', 'classic')
 
 s.configure(".", font=('Arial', 14), foreground='red2')
 s.configure('TNotebook.Tab', font=('URW Gothic L','11','bold'), padding= [100, 10])
