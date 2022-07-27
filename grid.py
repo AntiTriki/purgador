@@ -46,15 +46,21 @@ subcuadro11.grid(column=0, row=0, sticky='nsew')
 # Secciones del cuadro de botones de forma horizontal del Tab1
 subcuadro11.columnconfigure(0, weight=1)
 subcuadro11.rowconfigure(0, weight=1)
-subcuadro11.columnconfigure(1, weight=1)
+subcuadro11.columnconfigure(1, weight=3)
+subcuadro11.rowconfigure(0, weight=3)
+subcuadro11.columnconfigure(2, weight=1)
 subcuadro11.rowconfigure(0, weight=1)
 subcuadro11.columnconfigure(0, weight=1)
 subcuadro11.rowconfigure(1, weight=1)
-subcuadro11.columnconfigure(1, weight=1)
+subcuadro11.columnconfigure(1, weight=3)
+subcuadro11.rowconfigure(1, weight=3)
+subcuadro11.columnconfigure(2, weight=1)
 subcuadro11.rowconfigure(1, weight=1)
 subcuadro11.columnconfigure(0, weight=1)
 subcuadro11.rowconfigure(2, weight=1)
-subcuadro11.columnconfigure(1, weight=1)
+subcuadro11.columnconfigure(1, weight=3)
+subcuadro11.rowconfigure(2, weight=3)
+subcuadro11.columnconfigure(2, weight=1)
 subcuadro11.rowconfigure(2, weight=1)
 
 def abrir_archivo():
@@ -102,19 +108,19 @@ def Limpiar():
 
 
 boton1 = Button(subcuadro11, text='Abrir', bg='green2', command=abrir_archivo)
-boton1.grid(column=0, row=0, sticky='nsew', padx=5, pady=5)
+boton1.grid(column=0, row=0, sticky='nse', padx=5, pady=5)
 
 boton2 = Button(subcuadro11, text='Mostrar', bg='magenta', command=datos_excel)
-boton2.grid(column=0, row=2, sticky='nsew', padx=5, pady=5)
+boton2.grid(column=2, row=2, sticky='nsew', padx=5, pady=5)
 
 boton3 = Button(subcuadro11, text='Limpiar', bg='red', command=Limpiar)
-boton3.grid(column=1, row=2, sticky='nsew', padx=5, pady=5)
+boton3.grid(column=0, row=2, sticky='nsw', padx=5, pady=5)
 
 indica = Label(subcuadro11, text='Ubicación del archivo', font=('Arial', 10, 'bold'))
 indica.grid(column=1, row=0, sticky='nsew', padx=5, pady=5)
 
 indica2 = Label(subcuadro11, text='Elegir Hoja', font=('Arial', 10, 'bold'))
-indica2.grid(column=0, row=1, sticky='nsew', padx=5, pady=5)
+indica2.grid(column=0, row=1, sticky='nse', padx=5, pady=5)
 
 
 combo_sheet = ttk.Combobox(subcuadro11, value=list_sheet, font=('Arial', 10, 'bold'))
@@ -148,7 +154,7 @@ tab2.rowconfigure(1, weight=25)
 
 # Creando Cuadro para los botones y entrada de datos del Tab2
 subcuadro21 = Frame(tab2, bg='red')
-subcuadro21.grid(column=0, row=0, sticky='nsew')
+subcuadro21.grid(column=0, row=0, sticky='nsew')  
 
 # Creando Tercer tab y configuracion
 tab3= ttk.Notebook(note)
