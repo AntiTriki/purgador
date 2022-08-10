@@ -1,14 +1,74 @@
 from tkinter import Tk, Entry, Label, Button, Frame, messagebox, filedialog, ttk, Scrollbar, VERTICAL, HORIZONTAL
 import pandas as pd
+import tkinter as tk
 
-list_sheet =[1,2,3]
+
+
+
+
+def seleccion_hoja(event=None):
+    global seleccion
+    seleccion = hoja.get()
+    print(archivoexcel)
+    print(seleccion)
+
+def abrir_archivo():
+    #editar ubicacion
+    archivo = filedialog.askopenfilename(initialdir='/home/pintog/Documents/proyecto/virtual1/v2/purgador',
+                                         title='Seleccione archivo',
+                                         filetypes=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
+    indica['text'] = archivo
+   
+    global archivoexcel
+    archivoexcel = r'{}'.format(archivo)
+
+    global list_sheet
+    xl = pd.ExcelFile(archivoexcel)
+    list_sheet =xl.sheet_names
+    combo_sheet['values'] =list_sheet
+    print(archivoexcel)
+
+# def listadeHoja(list_sheet):
+
+
+def datos_excel():
+    
+    try:
+        global df
+        df = pd.read_excel(archivoexcel,seleccion)
+
+    except ValueError:
+        messagebox.showerror('Informacion', 'Formato incorrecto')
+        return None
+
+    except FileNotFoundError:
+        messagebox.showerror('Informacion', 'El archivo esta \n malogrado')
+        return None
+
+    Limpiar()
+
+    tabla['column'] = list(df.columns)
+    tabla['show'] = "headings"  # encabezado
+
+    for columna in tabla['column']:
+        tabla.heading(columna, text=columna)
+
+    df_fila = df.to_numpy().tolist()
+    for fila in df_fila:
+        tabla.insert('', 'end', values=fila)
+
+
+def Limpiar():
+    tabla.delete(*tabla.get_children())
+
 # creando ventana principal
-ventana = Tk()
+ventana = tk.Tk()
 ventana.config(bg='yellow')
 ventana.geometry('800x600')
 ventana.minsize(width=800, height=600)
 ventana.title('Purgador')
 ventana.configure(background='black')
+ventana.focus_set()
 
 # Estructurando la ventana principal, 2 secciones
 ventana.columnconfigure(0, weight=25)
@@ -63,48 +123,7 @@ subcuadro11.rowconfigure(2, weight=3)
 subcuadro11.columnconfigure(2, weight=1)
 subcuadro11.rowconfigure(2, weight=1)
 
-def abrir_archivo():
-    archivo = filedialog.askopenfilename(initialdir='/',
-                                         title='Selecione archivo',
-                                         filetypes=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
-    indica['text'] = archivo
 
-# def listadeHoja(list_sheet):
-
-
-def datos_excel():
-    datos_obtenidos = indica['text']
-    global list_sheet
-    try:
-        archivoexcel = r'{}'.format(datos_obtenidos)
-
-        df = pd.read_excel(archivoexcel)
-        xl = pd.ExcelFile(archivoexcel)
-        list_sheet =xl.sheet_names
-
-    except ValueError:
-        messagebox.showerror('Informacion', 'Formato incorrecto')
-        return None
-
-    except FileNotFoundError:
-        messagebox.showerror('Informacion', 'El archivo esta \n malogrado')
-        return None
-
-    Limpiar()
-
-    tabla['column'] = list(df.columns)
-    tabla['show'] = "headings"  # encabezado
-
-    for columna in tabla['column']:
-        tabla.heading(columna, text=columna)
-
-    df_fila = df.to_numpy().tolist()
-    for fila in df_fila:
-        tabla.insert('', 'end', values=fila)
-
-
-def Limpiar():
-    tabla.delete(*tabla.get_children())
 
 
 boton1 = Button(subcuadro11, text='Abrir', bg='green2', command=abrir_archivo)
@@ -122,10 +141,12 @@ indica.grid(column=1, row=0, sticky='nsew', padx=5, pady=5)
 indica2 = Label(subcuadro11, text='Elegir Hoja', font=('Arial', 10, 'bold'))
 indica2.grid(column=0, row=1, sticky='nse', padx=5, pady=5)
 
+hoja = tk.StringVar()
+combo_sheet = ttk.Combobox(subcuadro11, textvariable=hoja, font=('Arial', 10, 'bold'))
 
-combo_sheet = ttk.Combobox(subcuadro11, value=list_sheet, font=('Arial', 10, 'bold'))
 combo_sheet.grid(column=1, row=1, sticky='nsew', padx=5, pady=5)
 
+combo_sheet.bind('<<ComboboxSelected>>', seleccion_hoja)
 # Creando cuadro para la cuadricula del Tab1
 subcuadro12 = Frame(tab1, bg='yellow')
 subcuadro12.grid(column=0, row=1, sticky='nsew')
@@ -134,7 +155,6 @@ subcuadro12.rowconfigure(0, weight=1)
 
 tabla = ttk.Treeview(subcuadro12, height=10)
 tabla.grid(column=0, row=0, sticky='nsew')
-
 ladox = Scrollbar(subcuadro12, orient=HORIZONTAL, command=tabla.xview)
 ladox.grid(column=0, row=1, sticky='ew')
 
