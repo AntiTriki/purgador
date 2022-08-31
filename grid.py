@@ -6,7 +6,7 @@ import psycopg2
 from sqlalchemy import create_engine
 import datetime
 
-def sqlcol(dfparam):    
+def sqlcol(dfparam):   #Creacion de columnas con su tipo correspondiente de acuerdo al tipo de dato entregado por el DataFrame 
     
     dtypedict = {}
     for i,j in zip(dfparam.columns, dfparam.dtypes):
@@ -33,7 +33,7 @@ def seleccion_excel(event=None):
     global seleccion_xcolumna
     seleccion_xcolumna = hojax.get()
     
-def seleccion_db(event=None):
+def seleccion_db(event=None): #Opcion DE COLUMNA escogida por el comboDB
     global seleccion_db
     seleccion_db = columna_combo.get()
 
@@ -436,7 +436,7 @@ tabla3.configure(xscrollcommand=ladox3.set, yscrollcommand=ladoy3.set)
 
 # estilo de Tabs
 s = ttk.Style()
-s.theme_use('alt')  # ('clam', 'alt', 'default', 'classic')
+s.theme_use('alt')
 
 s.configure(".", font=('Arial', 14), foreground='red2')
 s.configure('TNotebook.Tab', font=('URW Gothic L','11','bold'), padding= [100, 10])
