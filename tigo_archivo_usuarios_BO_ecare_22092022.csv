@@ -1,0 +1,610 @@
+ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO;ACCESO_2;ACCESO_CANAL;ACCESO_PAIS
+picoe@tigo.net.bo;picoe@tigo.net.bo;S;EUSTAQUIO ENRIQUE;PICO ANAYA;Agente;picoe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cacantev@tigo.net.bo;cacantev@tigo.net.bo;S;VANESSA;CACANTE LLANO;Agente;cacantev@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezjor@tigo.net.bo;gomezjor@tigo.net.bo;S;JORGE MARIO;GOMEZ LARA;Agente;gomezjor@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezcata@tigo.net.bo;lopezcata@tigo.net.bo;S;CATALINA;LOPEZ RODRIGUEZ;Agente;lopezcata@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezju@tigo.net.bo;hernandezju@tigo.net.bo;S;JUAN PABLO;HERNANDEZ ROJAS;Agente;hernandezju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pulgarink@tigo.net.bo;pulgarink@tigo.net.bo;S;KELLY JOHANA;PULGARIN MONTOYA;Agente;pulgarink@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arroyoj@tigo.net.bo;arroyoj@tigo.net.bo;S;JHOAN ANDRES;ARROYO PALACIO;Agente;arroyoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+trompizd@tigo.net.bo;trompizd@tigo.net.bo;S;DIOMER JESUS;TROMPIZ AGUIRRE;Agente;trompizd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lavayenev@tigo.net.bo;lavayenev@tigo.net.bo;S;EMMA VALERIA;LAVAYEN PERALES;Supervisor;lavayenev@tigo.net.bo;;eCare;Bolivia
+roldanro@tigo.net.bo;roldanro@tigo.net.bo;S;RODRIGO ESTIVEN;ROLDAN SILVA;Agente;roldanro@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gutierrezom@tigo.net.bo;gutierrezom@tigo.net.bo;S;ALBERIO;GUTIERREZ OMAR;Agente;gutierrezom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arangoa@tigo.net.bo;arangoa@tigo.net.bo;S;ANGIE SALOME;ARANGO MUNOZ;Agente;arangoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+duranh@tigo.net.bo;duranh@tigo.net.bo;S;HUGO ALBERTO;DURAN HERNANDEZ;Agente;duranh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rangelf@tigo.net.bo;rangelf@tigo.net.bo;S;FRANKLY JOSE;RANGEL QUINTERO;Agente;rangelf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanoma@tigo.net.bo;castanoma@tigo.net.bo;S;MARIAN;CASTANO CORREDOR;Agente;castanoma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mosquerag@tigo.net.bo;mosquerag@tigo.net.bo;S;GISELLE;MOSQUERA MURILLO;Agente;mosquerag@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mirandage@tigo.net.bo;mirandage@tigo.net.bo;S;GENNYS DE JESUS;MIRANDA ARGEL;Agente;mirandage@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardonalu@tigo.net.bo;cardonalu@tigo.net.bo;S;LUISA FERNANDA;CARDONA PANIAGUA;Supervisor;cardonalu@tigo.net.bo;;eCare;Bolivia
+cordobad@tigo.net.bo;cordobad@tigo.net.bo;S;DORIAN YESID;CORDOBA GARCIA;Agente;cordobad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jaramillole@tigo.net.bo;jaramillole@tigo.net.bo;S;LEIDY VANESSA;JARAMILLO SEPULVEDA;Agente;jaramillole@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valenciajo@tigo.net.bo;valenciajo@tigo.net.bo;S;JOHN WEIDMAR;VALENCIA AGUDELO;Agente;valenciajo@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guzmanger@tigo.net.bo;guzmanger@tigo.net.bo;S;GERALDINNE;GUZMAN GARZON;Agente;guzmanger@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+antonioe@tigo.net.bo;antonioe@tigo.net.bo;S;ELIDENZUL;ANTONIO CARDONA;Agente;antonioe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinma@tigo.net.bo;marinma@tigo.net.bo;S;MARIA DANIELA;MARIN GONZALEZ;Agente;marinma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acevedof@tigo.net.bo;acevedof@tigo.net.bo;S;FARLEY;ACEVEDO OSPINA;Agente;acevedof@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+chavarriai@tigo.net.bo;chavarriai@tigo.net.bo;S;ISABEL YURANY;CHAVARRIA TAPIAS;Agente;chavarriai@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pastorizof@tigo.net.bo;pastorizof@tigo.net.bo;S;FREDYS MANUEL;PASTORIZO LOBO;Agente;pastorizof@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salazarmarial@tigo.net.bo;salazarmarial@tigo.net.bo;S;MARIA LUCIA;SALAZAR ARISTIZABAL;Agente;salazarmarial@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+londonoma@tigo.net.bo;londonoma@tigo.net.bo;S;MARIANA;LONDOÑO MUÑOZ;Agente;londonoma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+carmonaju@tigo.net.bo;carmonaju@tigo.net.bo;S;JUAN CAMILO;CARMONA GUTIERREZ;Agente;carmonaju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arrublab@tigo.net.bo;arrublab@tigo.net.bo;S;BRAHIAN ALBERTO;ARRUBLA TOBON;Agente;arrublab@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatay@tigo.net.bo;zapatay@tigo.net.bo;S;YURLEY DAHIANA;ZAPATA MOLINA;Agente;zapatay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gaviriamar@tigo.net.bo;gaviriamar@tigo.net.bo;S;MARIANA VALENTINA;GAVIRIA HERRERA;Agente;gaviriamar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palaciost@tigo.net.bo;palaciost@tigo.net.bo;S;TULIO ANDRES;PALACIOS HURTADO;Agente;palaciost@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riobom@tigo.net.bo;riobom@tigo.net.bo;S;MARLON ANDRES;RIOBO GRANDA;Agente;riobom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezwil@tigo.net.bo;lopezwil@tigo.net.bo;S;WILLIAM ALEJANDRO;LOPEZ GUTIERREZ;Agente;lopezwil@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+londonoa@tigo.net.bo;londonoa@tigo.net.bo;S;ANDRES FELIPE;LONDOÑO VELASQUEZ;Agente;londonoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+betancurl@tigo.net.bo;betancurl@tigo.net.bo;S;LAURA CAROLINA;BETANCUR SUAREZ;Agente;betancurl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ariasan@tigo.net.bo;ariasan@tigo.net.bo;S;ANYELA VIVIANA;ARIAS PATIÑO;Agente;ariasan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arboledal@tigo.net.bo;arboledal@tigo.net.bo;S;LAURA CRISTINA;ARBOLEDA ALVARADO;Agente;arboledal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torrescl@tigo.net.bo;torrescl@tigo.net.bo;S;CLAUDIA MARCELA;TORRES PARRA;Agente;torrescl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tamayov@tigo.net.bo;tamayov@tigo.net.bo;S;VALENTINA;TAMAYO RESTREPO;Agente;tamayov@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castrillonv@tigo.net.bo;castrillonv@tigo.net.bo;S;VANESSA;CASTRILLON SALAZAR;Agente;castrillonv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+facettey@tigo.net.bo;facettey@tigo.net.bo;S;YEISON DAVID;FACETTE VERA;Agente;facettey@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+quijadaw@tigo.net.bo;quijadaw@tigo.net.bo;S;WILNIHECT JOSUE;QUIJADA VASQUEZ;Agente;quijadaw@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+diazja@tigo.net.bo;diazja@tigo.net.bo;S;JAIDER LUIS;DIAZ MONZON;Agente;diazja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pinedav@tigo.net.bo;pinedav@tigo.net.bo;S;VALENTINA;PINEDA OSPINA;Agente;pinedav@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+baldovinoh@tigo.net.bo;baldovinoh@tigo.net.bo;S;HEFZY SARAI;BALDOVINO HERNANDEZ;Agente;baldovinoh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cuestad@tigo.net.bo;cuestad@tigo.net.bo;S;DIANA PATRICIA;CUESTA ROMANA;Agente;cuestad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guzmanp@tigo.net.bo;guzmanp@tigo.net.bo;S;PAULA ANDREA;GUZMAN PEREZ;Agente;guzmanp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hinojosad@tigo.net.bo;hinojosad@tigo.net.bo;S;DALILA;HINOJOSA MORENO;Agente;hinojosad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guzmanju@tigo.net.bo;guzmanju@tigo.net.bo;S;JUAN PABLO;GUZMAN CARVAJAL;Agente;guzmanju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cifuentesm@tigo.net.bo;cifuentesm@tigo.net.bo;S;MIGUEL ANGEL;CIFUENTES GOMEZ;Agente;cifuentesm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirezy@tigo.net.bo;ramirezy@tigo.net.bo;S;YUCY YORLEIDIS;RAMIREZ TORRES;Agente;ramirezy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezl@tigo.net.bo;velezl@tigo.net.bo;S;LINA MARCELA;VELEZ PARRA;Agente;velezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezce@tigo.net.bo;hernandezce@tigo.net.bo;S;CESAR;DAVID HERNANDEZ;Agente;hernandezce@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatae@tigo.net.bo;zapatae@tigo.net.bo;S;ESTEFANIA;ZAPATA CORREA;Agente;zapatae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escobarcr@tigo.net.bo;escobarcr@tigo.net.bo;S;CRISTIAN;ESCOBAR OCHOA;Agente;escobarcr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gutierrezel@tigo.net.bo;gutierrezel@tigo.net.bo;S;ELIZABETH;GUTIERREZ ZAPATA;Agente;gutierrezel@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cortess@tigo.net.bo;cortess@tigo.net.bo;S;STEFANI;CORTES CARDONA;Agente;cortess@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+goezl@tigo.net.bo;goezl@tigo.net.bo;S;LUIS ALEXANDER;GOEZ BOHORQUEZ;Agente;goezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gild@tigo.net.bo;gild@tigo.net.bo;S;DIANA CAROLINA;GIL COSSIO;Agente;gild@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchezv@tigo.net.bo;sanchezv@tigo.net.bo;S;VALERIA;SANCHEZ MONTOYA;Agente;sanchezv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+possoi@tigo.net.bo;possoi@tigo.net.bo;S;IAN PAUL;POSSO GUILLOT;Agente;possoi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vargassa@tigo.net.bo;vargassa@tigo.net.bo;S;SANTIAGO;VARGAS GARCIA;Agente;vargassa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+juliod@tigo.net.bo;juliod@tigo.net.bo;S;DARLI;JULIO ROMERO;Agente;juliod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+molinalu@tigo.net.bo;molinalu@tigo.net.bo;S;LUISA FERNANDA;MOLINA ZULETA;Agente;molinalu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+villad@tigo.net.bo;villad@tigo.net.bo;S;DANIELA PATRICIA;VILLA CASAS;Agente;villad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+barrerap@tigo.net.bo;barrerap@tigo.net.bo;S;PABLO ANDRES;BARRERA GOMEZ;Agente;barrerap@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+martinezy@tigo.net.bo;martinezy@tigo.net.bo;S;YEFRY ALEXANDER;MARTINEZ ALVAREZ;Agente;martinezy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vallej@tigo.net.bo;vallej@tigo.net.bo;S;JERRYHT JASMIN;VALLE HIGUITA;Agente;vallej@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezalba@tigo.net.bo;alvarezalba@tigo.net.bo;S;ALBA CAROLINA;ALVAREZ RODRIGUEZ;Agente;alvarezalba@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gamboak@tigo.net.bo;gamboak@tigo.net.bo;S;KAREN MARIANA;GAMBOA CASAS;Agente;gamboak@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pinaj@tigo.net.bo;pinaj@tigo.net.bo;S;JEISON ALEXANDER;PIÑA MORALES;Agente;pinaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinca@tigo.net.bo;marinca@tigo.net.bo;S;CAMILO ANDREI;MARIN ZULUAGA;Agente;marinca@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+blandonj@tigo.net.bo;blandonj@tigo.net.bo;S;JEISON STIVEN;BLANDON PEREZ;Agente;blandonj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezbr@tigo.net.bo;vasquezbr@tigo.net.bo;S;BRENDA MARCELA;VASQUEZ MARIN;Agente;vasquezbr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanor@tigo.net.bo;castanor@tigo.net.bo;S;RUTH;CASTAÑO ARIAS;Agente;castanor@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+munerad@tigo.net.bo;munerad@tigo.net.bo;S;DAYANA;MUNERA GUTIERREZ;Agente;munerad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatas@tigo.net.bo;zapatas@tigo.net.bo;S;SAMUEL;ZAPATA TABORDA;Agente;zapatas@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyalo@tigo.net.bo;montoyalo@tigo.net.bo;S;LORENA;MONTOYA SANDRA;Agente;montoyalo@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+florezla@tigo.net.bo;florezla@tigo.net.bo;S;LAURA MELISA;FLOREZ ESCOBAR;Agente;florezla@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riosk@tigo.net.bo;riosk@tigo.net.bo;S;KIMBERLY JOHANA;RIOS CARDONA;Agente;riosk@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yabetak@tigo.net.bo;yabetak@tigo.net.bo;S;KIMBERLY;YABETA JUSTINIANO;Agente;yabetak@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+cedenon@tigo.net.bo;cedenon@tigo.net.bo;S;NEIZA ARACELY;CEDENO SALVATIERRA;Agente;cedenon@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+limonf@tigo.net.bo;limonf@tigo.net.bo;S;FABIOLA;LIMON BERNAL;Agente;limonf@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+arevalop@tigo.net.bo;arevalop@tigo.net.bo;S;PERCY DANIEL;AREVALO ORTIZ;Agente;arevalop@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+tercerosn@tigo.net.bo;tercerosn@tigo.net.bo;S;NADIA;TERCEROS MENDEZ;Agente;tercerosn@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+echeverriaj@tigo.net.bo;echeverriaj@tigo.net.bo;S;JULIO ANDRES;ECHEVERRIA CHOQUE;Agente;echeverriaj@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+ceballosv@tigo.net.bo;ceballosv@tigo.net.bo;S;VANESSA;CEBALLOS CALLE;Agente;ceballosv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ordonezb@tigo.net.bo;ordonezb@tigo.net.bo;S;BRAYAN ALEXANDER;ORDONEZ OLIVEROS;Agente;ordonezb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valenciaei@tigo.net.bo;valenciaei@tigo.net.bo;S;EIMY TATIANA;VALENCIA LONDONO;Agente;valenciaei@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rojom@tigo.net.bo;rojom@tigo.net.bo;S;MONICA MILENA;ROJO ARANGO;Agente;rojom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchedani@tigo.net.bo;sanchedani@tigo.net.bo;S;DANIEL;SANCHEZ CAICEDO;Agente;sanchedani@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tabaresm@tigo.net.bo;tabaresm@tigo.net.bo;S;MARIANA;TABARES PALACIO;Agente;tabaresm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+nivesl@tigo.net.bo;nivesl@tigo.net.bo;S;LAURA VALENTINA;NIVES MAHECHA;Agente;nivesl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+giraldob@tigo.net.bo;giraldob@tigo.net.bo;S;BLANCA MILELLY;GIRALDO NAVALES;Agente;giraldob@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arriagaa@tigo.net.bo;arriagaa@tigo.net.bo;S;ANGELA MARCELA;ARRIAGA CUESTA;Agente;arriagaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodriguezjes@tigo.net.bo;rodriguezjes@tigo.net.bo;S;JESUS ANGEL;RODRIGUEZ DURANGO;Agente;rodriguezjes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rojascat@tigo.net.bo;rojascat@tigo.net.bo;S;CATALINA;ROJAS QUINONES;Agente;rojascat@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yanezd@tigo.net.bo;yanezd@tigo.net.bo;S;DANIEL ISAAC;YANEZ SALGADO;Agente;yanezd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mirandami@tigo.net.bo;mirandami@tigo.net.bo;S;MILIAN MILED;MIRANDA BAENA;Agente;mirandami@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezau@tigo.net.bo;lopezau@tigo.net.bo;S;AURA CRISTINA;LOPEZ BRACAMONTE;Agente;lopezau@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cifuentesv@tigo.net.bo;cifuentesv@tigo.net.bo;S;VANNESA;CIFUENTES SUAREZ;Agente;cifuentesv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatav@tigo.net.bo;zapatav@tigo.net.bo;S;VICTOR MANUEL;ZAPATA VELEZ;Agente;zapatav@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pamplonas@tigo.net.bo;pamplonas@tigo.net.bo;S;SANDRA MILENA;PAMPLONA GIRALDO;Agente;pamplonas@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+buitragov@tigo.net.bo;buitragov@tigo.net.bo;S;VIVIANA PATRICIA;BUITRAGO RANGEL;Agente;buitragov@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+echavarriag@tigo.net.bo;echavarriag@tigo.net.bo;S;GERALDINNE;ECHAVARRIA ALVAREZ;Agente;echavarriag@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezan@tigo.net.bo;hernandezan@tigo.net.bo;S;ANA MILETH;HERNANDEZ WILCHES;Agente;hernandezan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+maciasm@tigo.net.bo;maciasm@tigo.net.bo;S;MARIA FERNANDA;MACIAS ORTEGA;Agente;maciasm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+silvapau@tigo.net.bo;silvapau@tigo.net.bo;S;PAULA ANDREA;SILVA ECHAVARRIA;Agente;silvapau@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodriguezle@tigo.net.bo;rodriguezle@tigo.net.bo;S;LEIDY PAOLA;RODRIGUEZ OLARTE;Agente;rodriguezle@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lealv@tigo.net.bo;lealv@tigo.net.bo;S;VALENTINA ;LEAL MESA;Agente;lealv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mesal@tigo.net.bo;mesal@tigo.net.bo;S;LAURA;MESA MARIN;Agente;mesal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valenciol@tigo.net.bo;valenciol@tigo.net.bo;S;LISBETH COROMOTO;VALENCIO BRISENO;Agente;valenciol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+herranm@tigo.net.bo;herranm@tigo.net.bo;S;MARIA CAMILA;HERRAN MARTINEZ;Agente;herranm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tejadad@tigo.net.bo;tejadad@tigo.net.bo;S;DANIELA;TEJADA CANAS;Agente;tejadad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+fuentesi@tigo.net.bo;fuentesi@tigo.net.bo;S;IDEL JOSE;FUENTES ROMERO;Agente;fuentesi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+celyb@tigo.net.bo;celyb@tigo.net.bo;S;BRANDON;CELY MORALES;Agente;celyb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+isazaj@tigo.net.bo;isazaj@tigo.net.bo;S;JOHAN SANTIAGO;ISAZA CASTANEDA;Agente;isazaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardonav@tigo.net.bo;cardonav@tigo.net.bo;S;VANESA;CARDONA MUNERA;Agente;cardonav@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yepest@tigo.net.bo;yepest@tigo.net.bo;S;TATIANA;YEPES BARRIENTOS;Agente;yepest@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alzates@tigo.net.bo;alzates@tigo.net.bo;S;SARA ISABEL;ALZATE ORLAS;Agente;alzates@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vanegasj@tigo.net.bo;vanegasj@tigo.net.bo;S;JUANITA;VANEGAS ELORZA;Agente;vanegasj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasqueznat@tigo.net.bo;vasqueznat@tigo.net.bo;S;NATALIA MARIA;VASQUEZ SALDARRIAGA;Agente;vasqueznat@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arnachea@tigo.net.bo;arnachea@tigo.net.bo;S;ALIRIO RAFAEL;ARNACHE MARTINEZ;Agente;arnachea@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+diazsa@tigo.net.bo;diazsa@tigo.net.bo;S;SARA ELI;DIAZ OSPINO;Agente;diazsa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acunas@tigo.net.bo;acunas@tigo.net.bo;S;SHIRLEY DAYANA;ACUNA PEREZ;Agente;acunas@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciajh@tigo.net.bo;garciajh@tigo.net.bo;S;JHOHANNA ALEXANDRA;GARCIA MONTOYA;Agente;garciajh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyala@tigo.net.bo;montoyala@tigo.net.bo;S;LAURA CRISTINA;MONTOYA RUIZ;Agente;montoyala@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatami@tigo.net.bo;zapatami@tigo.net.bo;S;MICHEL ANDREA;ZAPATA OCHOA;Agente;zapatami@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanom@tigo.net.bo;castanom@tigo.net.bo;S;MARIA FERNANDA;CASTAÑO CARVAJAL;Agente;castanom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+coloradoj@tigo.net.bo;coloradoj@tigo.net.bo;S;JULIAN;COLORADO MARTINEZ;Agente;coloradoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+padronj@tigo.net.bo;padronj@tigo.net.bo;S;JHOAN CAMILO;PADRON MARTINEZ;Agente;padronj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+espinosad@tigo.net.bo;espinosad@tigo.net.bo;S;DANIELA;ESPINOSA CARDONA;Agente;espinosad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gallegov@tigo.net.bo;gallegov@tigo.net.bo;S;VALERIA;GALLEGO ACEVEDO;Agente;gallegov@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gils@tigo.net.bo;gils@tigo.net.bo;S;SEBASTIAN;GIL MALDONADO;Agente;gils@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mejiae@tigo.net.bo;mejiae@tigo.net.bo;S;ESTEFANIA;MEJIA CADAVID;Agente;mejiae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezjh@tigo.net.bo;alvarezjh@tigo.net.bo;S;JHON ALEXANDER;ALVAREZ GALEANO;Agente;alvarezjh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+manyomah@tigo.net.bo;manyomah@tigo.net.bo;S;HELEN MICHEL;MANYOMA ZAPATA;Agente;manyomah@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+galvisv@tigo.net.bo;galvisv@tigo.net.bo;S;VERONICA;GALVIS MURILLO;Agente;galvisv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+kuryj@tigo.net.bo;kuryj@tigo.net.bo;S;JOHNNY ESTIVEN;KURY SALAMANDRA;Agente;kuryj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tapiaa@tigo.net.bo;tapiaa@tigo.net.bo;S;ANDREA;TAPIA PALACIO;Agente;tapiaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+muneras@tigo.net.bo;muneras@tigo.net.bo;S;SANTIAGO;MUNERA VILLADA;Agente;muneras@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+correama@tigo.net.bo;correama@tigo.net.bo;S;MANUELA;CORREA CANO;Agente;correama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ortizl@tigo.net.bo;ortizl@tigo.net.bo;S;LUISA FERNANDA;ORTIZ MONTIEL;Agente;ortizl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mosquerac@tigo.net.bo;mosquerac@tigo.net.bo;S;CLAUDIA;MOSQUERA LOBO;Agente;mosquerac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sepulvedama@tigo.net.bo;sepulvedama@tigo.net.bo;S;MANUELA;SEPULVEDA BURITICA;Agente;sepulvedama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arroyavey@tigo.net.bo;arroyavey@tigo.net.bo;S;YULAY GERILETT;ARROYAVE MORALES;Agente;arroyavey@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lujanlui@tigo.net.bo;lujanlui@tigo.net.bo;S;LUISA FERNANDA;LUJAN RUEDA;Agente;lujanlui@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mogollonf@tigo.net.bo;mogollonf@tigo.net.bo;S;FELIPE;MOGOLLON CASTRO;Agente;mogollonf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchezdan@tigo.net.bo;sanchezdan@tigo.net.bo;S;DANITZA PAOLA;SANCHEZ VILLAMIZAR;Agente;sanchezdan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+benitezk@tigo.net.bo;benitezk@tigo.net.bo;S;KAREN DAYANA;BENITEZ PEREZ;Agente;benitezk@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mirandajes@tigo.net.bo;mirandajes@tigo.net.bo;S;JESSICA PAOLA;MIRANDA BETANCUR;Agente;mirandajes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cirop@tigo.net.bo;cirop@tigo.net.bo;S;PAULINA;CIRO QUICENO;Agente;cirop@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+higuitaj@tigo.net.bo;higuitaj@tigo.net.bo;S;JOHNATAN;HIGUITA GUISAO;Agente;higuitaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perezmaur@tigo.net.bo;perezmaur@tigo.net.bo;S;MAURICIO;PEREZ CARTAGENA;Agente;perezmaur@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramosjul@tigo.net.bo;ramosjul@tigo.net.bo;S;JULIAN;RAMOS GARCIA;Agente;ramosjul@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandzro@tigo.net.bo;hernandzro@tigo.net.bo;S;ROLANDO ANTONIO;HERNANDEZ ESCOBAR;Agente;hernandzro@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+doriak@tigo.net.bo;doriak@tigo.net.bo;S;KATHERINE;DORIA PEÑA;Agente;doriak@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cordobat@tigo.net.bo;cordobat@tigo.net.bo;S;TIRSO DAVID;CORDOBA RODRIGUEZ;Agente;cordobat@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+loaizaa@tigo.net.bo;loaizaa@tigo.net.bo;S;ANA MARIA;LOAIZA MORALES;Agente;loaizaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+veleze@tigo.net.bo;veleze@tigo.net.bo;S;EDDY SANTIAGO;VELEZ MONTERROZA;Agente;veleze@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+chavaragaj@tigo.net.bo;chavaragaj@tigo.net.bo;S;JUAN JOSE;CHAVARRIAGA GUERRERO;Agente;chavaragaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardenaske@tigo.net.bo;cardenaske@tigo.net.bo;S;KELLY TATIANA;CARDENAS SANCHEZ;Agente;cardenaske@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezli@tigo.net.bo;vasquezli@tigo.net.bo;S;LINDA LUCYA;VASQUEZ QUIÑONEZ;Agente;vasquezli@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+medinaand@tigo.net.bo;medinaand@tigo.net.bo;S;ANDREA;MEDINA GUTIERREZ;Agente;medinaand@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cifuentesm@tigo.net.bo;cifuentesm@tigo.net.bo;S;MIGUEL ANGEL;CIFUENTES GOMEZ;Agente;cifuentesm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+toroe@tigo.net.bo;toroe@tigo.net.bo;S;EDWIN CAMILO;TORO AMEZQUITA;Agente;toroe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+goezl@tigo.net.bo;goezl@tigo.net.bo;S;LUIS ALEXANDER;GOEZ BOHORQUEZ;Agente;goezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castron@tigo.net.bo;castron@tigo.net.bo;S;NELSON ESNEIDER;CASTRO SANCHEZ;Agente;castron@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guzmanju@tigo.net.bo;guzmanju@tigo.net.bo;S;JUAN PABLO;GUZMAN CARVAJAL;Agente;guzmanju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cortess@tigo.net.bo;cortess@tigo.net.bo;S;STEFANI;CORTES CARDONA;Agente;cortess@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torresangi@tigo.net.bo;torresangi@tigo.net.bo;S;ANGI PAOLA;TORRES PULGARIN;Agente;torresangi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchezv@tigo.net.bo;sanchezv@tigo.net.bo;S;VALERIA;SANCHEZ MONTOYA;Agente;sanchezv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gutierrezel@tigo.net.bo;gutierrezel@tigo.net.bo;S;ELIZABETH;GUTIERREZ ZAPATA;Agente;gutierrezel@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+possoi@tigo.net.bo;possoi@tigo.net.bo;S;IAN PAUL;POSSO GUILLOT;Agente;possoi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezmare@tigo.net.bo;gomezmare@tigo.net.bo;S;MAREN PAOLA;GOMEZ ;Agente;gomezmare@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mosqueraj@tigo.net.bo;mosqueraj@tigo.net.bo;S;JEANA ANDREA;MOSQUERA LONDOÑO;Agente;mosqueraj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mirandage@tigo.net.bo;mirandage@tigo.net.bo;S;GENNYS DE JESUS;MIRANDA ARGEL;Agente;mirandage@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guzmanp@tigo.net.bo;guzmanp@tigo.net.bo;S;PAULA ANDREA;GUZMAN PEREZ;Agente;guzmanp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirezbr@tigo.net.bo;ramirezbr@tigo.net.bo;S;BRAYAN STIVEN;RAMIREZ FLOREZ;Agente;ramirezbr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cifuentesc@tigo.net.bo ;cifuentesc@tigo.net.bo ;S;CAROLINA;CIFUENTES PARRA;Agente;cifuentesc@tigo.net.bo ;pazc@tigo.net.bo;eCare;Bolivia
+bejaranod@tigo.net.bo;bejaranod@tigo.net.bo;S;DANIEL STEVEN;BEJARANO MUÑOZ;Agente;bejaranod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palaciod@tigo.net.bo;palaciod@tigo.net.bo;S;DIEGO FERNANDO;PALACIO LOPEZ;Agente;palaciod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezcl@tigo.net.bo;gomezcl@tigo.net.bo;S;CLAUDIA ELENA;GOMEZ GONZALEZ;Agente;gomezcl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyadia@tigo.net.bo;montoyadia@tigo.net.bo;S;DIANA CATALINA;MONTOYA TAPIA;Agente;montoyadia@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+loaizae@tigo.net.bo;loaizae@tigo.net.bo;S;ELIZABETH;LOAIZA GIL;Agente;loaizae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cruzg@tigo.net.bo;cruzg@tigo.net.bo;S;GUILLERMO JOSE;CRUZ JIMENEZ;Agente;cruzg@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cortesla@tigo.net.bo;cortesla@tigo.net.bo;S;LAURA CAMILA;CORTES CARDONA;Agente;cortesla@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezpa@tigo.net.bo;alvarezpa@tigo.net.bo;S;PAULA ANDREA;ALVAREZ COLORADO;Agente;alvarezpa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+echavarriay@tigo.net.bo;echavarriay@tigo.net.bo;S;YIRVIN VALENTIN;ECHAVARRIA ALCARAZ;Agente;echavarriay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bustamantejoh@tigo.net.bo;bustamantejoh@tigo.net.bo;S;JOHNATAN;BUSTAMANTE RAMIREZ;Agente;bustamantejoh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+dorian@tigo.net.bo;dorian@tigo.net.bo;S;NICOL;DORIA MORALES;Agente;dorian@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escobarva@tigo.net.bo;escobarva@tigo.net.bo;S;VANESA;ESCOBAR ALVAREZ;Agente;escobarva@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchezseb@tigo.net.bo;sanchezseb@tigo.net.bo;S;SEBASTIAN;SANCHEZ SALAZAR;Agente;sanchezseb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+berrion@tigo.net.bo;berrion@tigo.net.bo;S;NATASHA SCARLETT;BERRIO BETANCUR;Agente;berrion@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bohorquezl@tigo.net.bo;bohorquezl@tigo.net.bo;S;LINA MARCELA;BOHORQUEZ PATIÑO;Agente;bohorquezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+conradoc@tigo.net.bo;conradoc@tigo.net.bo;S;CRISTIAN ENRIQUE;CONRADO SARMIENTO;Agente;conradoc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+diazju@tigo.net.bo;diazju@tigo.net.bo;S;JULIANA;DIAZ PEREZ;Agente;diazju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciajua@tigo.net.bo;garciajua@tigo.net.bo;S;JUAN CARLOS;GARCIA TOBON;Agente;garciajua@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jimenezjes@tigo.net.bo;jimenezjes@tigo.net.bo;S;JESSICA;JIMENEZ MADRID;Agente;jimenezjes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+martinezs@tigo.net.bo;martinezs@tigo.net.bo;S;SEBASTIAN;MARTINEZ ORTIZ;Agente;martinezs@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+moraes@tigo.net.bo;moraes@tigo.net.bo;S;ESTEFANY;MORA URREGO;Agente;moraes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palenciaj@tigo.net.bo;palenciaj@tigo.net.bo;S;JOEL DANIEL;PALENCIA VIDES;Agente;palenciaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodriguezada@tigo.net.bo;rodriguezada@tigo.net.bo;S;ADALBERTO;RODRIGUEZ TABORDA;Agente;rodriguezada@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+santosf@tigo.net.bo;santosf@tigo.net.bo;S;FELIPE;SANTOS CADAVID;Agente;santosf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tamayol@tigo.net.bo;tamayol@tigo.net.bo;S;LUIS ALEXANDER;TAMAYO JARAMILLO;Agente;tamayol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valdesy@tigo.net.bo;valdesy@tigo.net.bo;S;YERALDIN;VALDES MORALES;Agente;valdesy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapataje@tigo.net.bo;zapataje@tigo.net.bo;S;JENNIFER;ZAPATA CUERVO;Agente;zapataje@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+agredoj@tigo.net.bo;agredoj@tigo.net.bo;S;JUAN PABLO;AGREDO ZAPATA;Agente;agredoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezla@tigo.net.bo;alvarezla@tigo.net.bo;S;LAURA VANESSA;ALVAREZ GUERRERO;Agente;alvarezla@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+areizal@tigo.net.bo;areizal@tigo.net.bo;S;LINA MARIA;AREIZA VASQUEZ;Agente;areizal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezalb@tigo.net.bo;alvarezalb@tigo.net.bo;S;ALBA INES;ALVAREZ JIMENEZ;Agente;alvarezalb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+angell@tigo.net.bo;angell@tigo.net.bo;S;LAURA CRISTINA;ANGEL MARULANDA;Agente;angell@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzalezan@tigo.net.bo;gonzalezan@tigo.net.bo;S;ANA MILENA;GONZALEZ SERRATE;Agente;gonzalezan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezk@tigo.net.bo;velezk@tigo.net.bo;S;KATHERINE;VELEZ SANCHEZ;Agente;velezk@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+florezj@tigo.net.bo;florezj@tigo.net.bo;S;JULIANA;FLOREZ ACEVEDO;Agente;florezj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escobarcr@tigo.net.bo;escobarcr@tigo.net.bo;S;CRISTIAN;ESCOBAR OCHOA;Agente;escobarcr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rendong@tigo.net.bo;rendong@tigo.net.bo;S;GISETH MARIA;RENDON POSADA;Agente;rendong@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+giraldoj@tigo.net.bo;giraldoj@tigo.net.bo;S;JUAN ESTEBAN;GIRALDO OSORIO;Agente;giraldoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acevedoye@tigo.net.bo;acevedoye@tigo.net.bo;S;YESICA ELISET;ACEVEDO PARIAS;Agente;acevedoye@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+parejama@tigo.net.bo;parejama@tigo.net.bo;S;MARIA FERNANDA;PAREJA ALVAREZ;Agente;parejama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gallov@tigo.net.bo;gallov@tigo.net.bo;S;VALERIA;GALLO MARTINEZ;Agente;gallov@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jaimesjo@tigo.net.bo;jaimesjo@tigo.net.bo;S;JOSE EDIMSON;JAIMES ;Agente;jaimesjo@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+londonom@tigo.net.bo;londonom@tigo.net.bo;S;MARIANA;LONDOÑO SALDARRIAGA;Agente;londonom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hoyosj@tigo.net.bo;hoyosj@tigo.net.bo;S;JULIANA;HOYOS MEJIA;Agente;hoyosj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tobonm@tigo.net.bo;tobonm@tigo.net.bo;S;MIGUEL ANGEL;TOBON SANCHEZ;Agente;tobonm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gallegoa@tigo.net.bo;gallegoa@tigo.net.bo;S;ALEJANDR;GALLEGO HERNANDEZ;Agente;gallegoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+fonnegram@tigo.net.bo;fonnegram@tigo.net.bo;S;MAIRA ALEJANDRA;FONNEGRA VELILLA;Agente;fonnegram@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cossioan@tigo.net.bo;cossioan@tigo.net.bo;S;ANGIE;COSSIO PALOMEQUE;Agente;cossioan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velasquezan@tigo.net.bo;velasquezan@tigo.net.bo;S;ANA MARIA;VELASQUEZ;Agente;velasquezan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perezdan@tigo.net.bo;perezdan@tigo.net.bo;S;DANIEL;PEREZ MUNOZ;Agente;perezdan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+martinezjh@tigo.net.bo;martinezjh@tigo.net.bo;S;JAVIER HERNAN;MARTINEZ ROCABADO;Agente;martinezjh@tigo.net.bo;stehlic@tigo.net.bo;eCare;Bolivia
+gonzalezjua@tigo.net.bo;gonzalezjua@tigo.net.bo;S;JUAN CAMILO;GONZALEZ HOYOS;Agente;gonzalezjua@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mejiaja@tigo.net.bo;mejiaja@tigo.net.bo;S;JAIME ANDRES;MEJIA SERNA;Agente;mejiaja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+llanosle@tigo.net.bo;llanosle@tigo.net.bo;S;LEIDY JHOANA;LLANOS FLOREZ;Agente;llanosle@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+medinaes@tigo.net.bo;medinaes@tigo.net.bo;S;ESTEFANY;MEDINA MENDEZ;Agente;medinaes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ortizlu@tigo.net.bo;ortizlu@tigo.net.bo;S;LUISA FERNANDA;ORTIZ MUNOZ;Agente;ortizlu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+molloh@tigo.net.bo;molloh@tigo.net.bo;S;HILARION;MOLLO MAMANI;Agente;molloh@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+mejiaa@tigo.net.bo;mejiaa@tigo.net.bo;S;ANA LAURA;MEJIA BOTERO;Agente;mejiaa@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+arancibiac@tigo.net.bo;arancibiac@tigo.net.bo;S;CARLOS HUGO;ARANCIBIA JUSTINIANO;Agente;arancibiac@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+velizi@tigo.net.bo;velizi@tigo.net.bo;S;IVANNA;VELIZ APAZA;Agente;velizi@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+penaranday@tigo.net.bo;penaranday@tigo.net.bo;S;YANIRA;PENARANDA LOPEZ;Agente;penaranday@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+cardenasjo@tigo.net.bo;cardenasjo@tigo.net.bo;S;JOSE IVAN;CARDENAS SOLIZ;Agente;cardenasjo@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+ulloal@tigo.net.bo;ulloal@tigo.net.bo;S;LILIANA;ULLOA OJOPI;Agente;ulloal@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+galloe@tigo.net.bo;galloe@tigo.net.bo;S;ESTEFANIA;GALLO AGUIRRE;Agente;galloe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+porrasp@tigo.net.bo;porrasp@tigo.net.bo;S;PAOLA ANDREA;PORRAS GARCIA;Agente;porrasp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guingues@tigo.net.bo;guingues@tigo.net.bo;S;SANTIAGO;GUINGUE RAMIREZ;Agente;guingues@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+canaveraly@tigo.net.bo;canaveraly@tigo.net.bo;S;YUBERLEY;CAÑAVERAL VILLADA;Agente;canaveraly@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arroyavem@tigo.net.bo;arroyavem@tigo.net.bo;S;MONICA MARIA;ARROYAVE TORO;Agente;arroyavem@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezdi@tigo.net.bo;gomezdi@tigo.net.bo;S;DIANA CATALINA;GOMEZ ZULUAGA;Agente;gomezdi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+fernandezyu@tigo.net.bo;fernandezyu@tigo.net.bo;S;YURI JIMENA;FERNANDEZ MAZO;Agente;fernandezyu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bayonaj@tigo.net.bo;bayonaj@tigo.net.bo;S;JOSE DAVID;BAYONA MEJIA;Agente;bayonaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bricenok@tigo.net.bo;bricenok@tigo.net.bo;S;KRISBELY NOSKARLIN;BRICEÑO INFANTE;Agente;bricenok@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salgard@tigo.net.bo;salgard@tigo.net.bo;S;DANNY ESTEBAN;SALGAR SEPULVEDA;Agente;salgard@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ganank@tigo.net.bo;ganank@tigo.net.bo;S;KAREN YULITZA;GAÑAN PENAGOS;Agente;ganank@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+orregon@tigo.net.bo;orregon@tigo.net.bo;S;NATALIA ANDREA;ORREGO ATEHORTÚA;Agente;orregon@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mosqueraya@tigo.net.bo;mosqueraya@tigo.net.bo;S;YAQUELINE;MOSQUERA SANCHEZ;Agente;mosqueraya@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+amayav@tigo.net.bo;amayav@tigo.net.bo;S;VERONICA;AMAYA HENAO;Agente;amayav@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+poloar@tigo.net.bo;poloar@tigo.net.bo;S;ARLEIDYS DE JESUS;POLO PETRO;Agente;poloar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tabaresj@tigo.net.bo;tabaresj@tigo.net.bo;S;JAQUELINE;TABARES LOPERA;Agente;tabaresj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+olartej@tigo.net.bo;olartej@tigo.net.bo;S;JEFFERSON DANIEL;OLARTE VANEGAS;Agente;olartej@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riondos@tigo.net.bo;riondos@tigo.net.bo;S;SHIRLEY ANDREA;RIONDO DIAZ;Agente;riondos@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirezja@tigo.net.bo;ramirezja@tigo.net.bo;S;JAIR LEANDRO;RAMIREZ TORO;Agente;ramirezja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirezy@tigo.net.bo;ramirezy@tigo.net.bo;S;YUCY YORLEIDIS;RAMIREZ TORRES;Agente;ramirezy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ibarrab@tigo.net.bo;ibarrab@tigo.net.bo;S;BRAYAN ESTIBEN;IBARRA CARRILLO;Agente;ibarrab@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+caroa@tigo.net.bo;caroa@tigo.net.bo;S;ALEJANDRA;CARO CORREA;Agente;caroa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+chirinoj@tigo.net.bo;chirinoj@tigo.net.bo;S;JOSE GABRIEL;CHIRINO RAMIREZ;Supervisor;chirinoj@tigo.net.bo;;eCare;Bolivia
+arteagam@tigo.net.bo;arteagam@tigo.net.bo;S;MARIA CRISTINA;ARTEAGA GARCIA;Agente;arteagam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zeaf@tigo.net.bo;zeaf@tigo.net.bo;S;FABIAN ALBERTO;ZEA MARTINEZ;Agente;zeaf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+parraa@tigo.net.bo;parraa@tigo.net.bo;S;ANGEL GABRIEL;PARRA TOVAR;Agente;parraa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+quinterole@tigo.net.bo;quinterole@tigo.net.bo;S;LEANDREA;QUINTERO TORO;Agente;quinterole@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hinojosad@tigo.net.bo;hinojosad@tigo.net.bo;S;DALILA;HINOJOSA MORENO;Agente;hinojosad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezv@tigo.net.bo;gomezv@tigo.net.bo;S;VALENTINA;GOMEZ ARIAS;Agente;gomezv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palomequec@tigo.net.bo;palomequec@tigo.net.bo;S;CRISTIAN CAMILO;PALOMEQUE CACERES;Agente;palomequec@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezl@tigo.net.bo;velezl@tigo.net.bo;S;LINA MARCELA;VELEZ PARRA;Agente;velezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cordovadi@tigo.net.bo;cordovadi@tigo.net.bo;S;DINIS MARIA;CORDOBA MORENO;Agente;cordovadi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+canaverals@tigo.net.bo;canaverals@tigo.net.bo;S;SANTIAGO;CANAVERAL LOAIZA;Agente;canaverals@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+delahortuan@tigo.net.bo;delahortuan@tigo.net.bo;S;NICOLAS;DELAHORTUA VARELA;Agente;delahortuan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+agudeloma@tigo.net.bo;agudeloma@tigo.net.bo;S;MICHAEL ARTURO;AGUDELO NINO;Agente;agudeloma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ruizsy@tigo.net.bo;ruizsy@tigo.net.bo;S;SHIRLEY YAMILE;RUIZ AGUILAR;Agente;ruizsy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciai@tigo.net.bo;garciai@tigo.net.bo;S;ISABEL CRISTINA;GARCIA DUQUE;Agente;garciai@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vargaswe@tigo.net.bo;vargaswe@tigo.net.bo;S;WILSON ERNESTO;VARGAS ESCOBAR;Agente;vargaswe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vergarac@tigo.net.bo;vergarac@tigo.net.bo;S;CLARA;VERGARA ROBLEDO;Agente;vergarac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+oquendoj@tigo.net.bo;oquendoj@tigo.net.bo;S;JUAN JOSE;OQUENDO AREIZA;Agente;oquendoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+patinon@tigo.net.bo;patinon@tigo.net.bo;S;NATALIA;PATINO CANO;Agente;patinon@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gaviriama@tigo.net.bo;gaviriama@tigo.net.bo;S;MARIA FERNANDA;GAVIRIA CARVAJAL;Agente;gaviriama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garavitod@tigo.net.bo;garavitod@tigo.net.bo;S;DANIEL;GARAVITO HERNANDEZ;Agente;garavitod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arcilay@tigo.net.bo;arcilay@tigo.net.bo;S;YANES PATRICIA;ARCILA ATENCIO;Agente;arcilay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+penadc@tigo.net.bo;penadc@tigo.net.bo;S;DIANA CAROLINA;PENA OSPINA;Agente;penadc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+burgosy@tigo.net.bo;burgosy@tigo.net.bo;S;YISETH DAYANA;BURGOS ZAMBRANO;Agente;burgosy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzalezda@tigo.net.bo;gonzalezda@tigo.net.bo;S;DANIELA ALEJANDRA;GONZALEZ TAMAYO;Agente;gonzalezda@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bolivare@tigo.net.bo;bolivare@tigo.net.bo;S;EDGAR DANIEL;BOLIVAR ROJAS;Agente;bolivare@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zeam@tigo.net.bo;zeam@tigo.net.bo;S;MARIA LEIDY;ZEA MARQUEZ;Agente;zeam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+moncadal@tigo.net.bo;moncadal@tigo.net.bo;S;LAURA;MONCADA VARGAS;Agente;moncadal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+henriquezm@tigo.net.bo;henriquezm@tigo.net.bo;S;MICHELI SAMANTHA;HENRIQUEZ RUIZ;Agente;henriquezm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riosy@tigo.net.bo;riosy@tigo.net.bo;S;YONY ALEXANDER;RIOS RESTREPO;Agente;riosy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ruizyp@tigo.net.bo;ruizyp@tigo.net.bo;S;YESSICA PAOLA;RUIZ SILVA;Agente;ruizyp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezsa@tigo.net.bo;vasquezsa@tigo.net.bo;S;SARA;VASQUEZ ROJAS;Agente;vasquezsa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pereak@tigo.net.bo;pereak@tigo.net.bo;S;KELLY JHOANA;PEREA MOSQUERA;Agente;pereak@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ossaw@tigo.net.bo;ossaw@tigo.net.bo;S;WALTER;OSSA JIMENEZ;Agente;ossaw@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+navarroi@tigo.net.bo;navarroi@tigo.net.bo;S;ISAAC DAVID;NAVARRO DONADO;Agente;navarroi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lozanok@tigo.net.bo;lozanok@tigo.net.bo;S;KARENN LICETH;LOZANO ROMERO;Agente;lozanok@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanosp@tigo.net.bo;castanosp@tigo.net.bo;S;SANDRA PATRICIA;CASTANO PAMPLONA;Agente;castanosp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mendezmi@tigo.net.bo;mendezmi@tigo.net.bo;S;MARIA ISABEL;MENDEZ GOMEZ;Agente;mendezmi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hoyosa@tigo.net.bo;hoyosa@tigo.net.bo;S;ANGY PAOLA;HOYOS LOPEZ;Agente;hoyosa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acevedoj@tigo.net.bo;acevedoj@tigo.net.bo;S;JORDALI MARIA;ACEVEDO CACERES;Agente;acevedoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pinillar@tigo.net.bo;pinillar@tigo.net.bo;S;RICARDO ALFONSO;PINILLA NAVA;Agente;pinillar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezale@tigo.net.bo;alvarezale@tigo.net.bo;S;ALEJANDRA;ALVAREZ HOLGUIN;Agente;alvarezale@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riosv@tigo.net.bo;riosv@tigo.net.bo;S;VERONICA;RIOS OCHOA;Agente;riosv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+maldonadkl@tigo.net.bo;maldonadkl@tigo.net.bo;S;KATHERIN LICETH;MALDONADO PAEZ;Agente;maldonadkl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatam@tigo.net.bo;zapatam@tigo.net.bo;S;MANUELA;ZAPATA LADINO;Agente;zapatam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mosqueram@tigo.net.bo;mosqueram@tigo.net.bo;S;MARIA ISABEL;MOSQUERA TORRES;Agente;mosqueram@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+herrerajp@tigo.net.bo;herrerajp@tigo.net.bo;S;JUAN PABLO;HERRERA CASTRILLON;Agente;herrerajp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardonal@tigo.net.bo;cardonal@tigo.net.bo;S;LINA MARCELA;CARDONA CASTRO;Agente;cardonal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ibarrac@tigo.net.bo;ibarrac@tigo.net.bo;S;CAMILA;IBARRA MOSQUERA;Agente;ibarrac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perezmari@tigo.net.bo;perezmari@tigo.net.bo;S;MARIANA;PEREZ JOYA;Agente;perezmari@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+agudelol@tigo.net.bo;agudelol@tigo.net.bo;S;LUIS FERNANDO;AGUDELO PUERTA;Agente;agudelol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tordecillak@tigo.net.bo;tordecillak@tigo.net.bo;S;KEVIN DAVID;TORDECILLA MADERA;Agente;tordecillak@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+roldanr@tigo.net.bo;roldanr@tigo.net.bo;S;RUBEN DARIO;ROLDAN MONTOYA;Agente;roldanr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+barrientosy@tigo.net.bo;barrientosy@tigo.net.bo;S;YULIET TATIANA;BARRIENTOS QUINTANA;Agente;barrientosy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatak@tigo.net.bo;zapatak@tigo.net.bo;S;KATERINE LICETH;ZAPATA TORRES;Agente;zapatak@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salasad@tigo.net.bo;salasad@tigo.net.bo;S;ALEX DAVID;SALAS QUINTO;Agente;salasad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+caroc@tigo.net.bo;caroc@tigo.net.bo;S;CECILIA AMPARO;CARO GARCIA;Agente;caroc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vallejoy@tigo.net.bo;vallejoy@tigo.net.bo;S;YISED ALEJANDRA;VALLEJO JARAMILLO;Agente;vallejoy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guisaod@tigo.net.bo;guisaod@tigo.net.bo;S;DAHIANA KATERINE;GUISAO BEDOYA;Agente;guisaod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+herrerayi@tigo.net.bo;herrerayi@tigo.net.bo;S;YIMY ALEXIS;HERRERA USUGA;Agente;herrerayi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hidalgoju@tigo.net.bo;hidalgoju@tigo.net.bo;S;JULIETH;HIDALGO FRANCO;Agente;hidalgoju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezjf@tigo.net.bo;vasquezjf@tigo.net.bo;S;JUAN FELIPE;VASQUEZ BEDOYA;Agente;vasquezjf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatalj@tigo.net.bo;zapatalj@tigo.net.bo;S;LEIDY JULIETH;ZAPATA SIERRA;Agente;zapatalj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cuartasn@tigo.net.bo;cuartasn@tigo.net.bo;S;NEIDY ESTEFANY;CUARTAS VELASQUEZ;Agente;cuartasn@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyay@tigo.net.bo;montoyay@tigo.net.bo;S;YERALDIN;MONTOYA GIRALDO;Agente;montoyay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+blancoy@tigo.net.bo;blancoy@tigo.net.bo;S;YURID;BLANCO SANMARTIN;Agente;blancoy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+realesh@tigo.net.bo;realesh@tigo.net.bo;S;HAMILTON;REALES RODRIGUEZ;Agente;realesh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yepesm@tigo.net.bo;yepesm@tigo.net.bo;S;MARIA ALEJANDRA;YEPES GUTIERREZ;Agente;yepesm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+betancurda@tigo.net.bo;betancurda@tigo.net.bo;S;DAVID ANDRES;BETANCUR RICO;Agente;betancurda@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+villay@tigo.net.bo;villay@tigo.net.bo;S;YEDIER FERNEY;VILLA LONDOÑO;Agente;villay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mesag@tigo.net.bo;mesag@tigo.net.bo;S;GIOVANNY JAIR;MESA BETANCUR;Agente;mesag@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hoyosw@tigo.net.bo;hoyosw@tigo.net.bo;S;WENDY PAOLA;HOYOS HERNANDEZ;Agente;hoyosw@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciaji@tigo.net.bo;garciaji@tigo.net.bo;S;JINELLYS PATRICIA;GARCIA TESILLO;Agente;garciaji@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+londonoj@tigo.net.bo;londonoj@tigo.net.bo;S;JUAN ANDRES;LONDOÑO CARDONA;Agente;londonoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciajc@tigo.net.bo;garciajc@tigo.net.bo;S;JOHANA CATALINA;GARCIA PEREZ;Agente;garciajc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cogollos@tigo.net.bo;cogollos@tigo.net.bo;S;SAMUEL ARTURO;COGOLLO BUELVAS;Agente;cogollos@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gallegos@tigo.net.bo;gallegos@tigo.net.bo;S;SANDRA MILENA;GALLEGO MENDOZA;Agente;gallegos@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ballestal@tigo.net.bo;ballestal@tigo.net.bo;S;LEIDY LORENA;BALLESTA DORIA;Agente;ballestal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezd@tigo.net.bo;velezd@tigo.net.bo;S;DANIELA;VELEZ RESTREPO;Agente;velezd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzalezmc@tigo.net.bo;gonzalezmc@tigo.net.bo;S;MARIA CAMILA;GONZALEZ RIOS;Agente;gonzalezmc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gracianoa@tigo.net.bo;gracianoa@tigo.net.bo;S;ANGIE DANIELA;GRACIANO OCHOA;Agente;gracianoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodass@tigo.net.bo;rodass@tigo.net.bo;S;STEPHANY;RODAS SANABRIA;Agente;rodass@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escobarca@tigo.net.bo;escobarca@tigo.net.bo;S;CAROLINA;ESCOBAR OLIVEROS;Agente;escobarca@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezl@tigo.net.bo;hernandezl@tigo.net.bo;S;LEIDY TATIANA;HERNANDEZ CARDONA;Agente;hernandezl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+duques@tigo.net.bo;duques@tigo.net.bo;S;SANTIAGO;DUQUE RUA;Agente;duques@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+grajalesm@tigo.net.bo;grajalesm@tigo.net.bo;S;MICHAEL ANDRES;GRAJALES GUARIN;Agente;grajalesm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+guevaray@tigo.net.bo;guevaray@tigo.net.bo;S;ZULAY;GUEVARA YVETT;Agente;guevaray@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ochoaj@tigo.net.bo;ochoaj@tigo.net.bo;S;JULIAN DAVID;OCHOA GOMEZ;Agente;ochoaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+diazf@tigo.net.bo;diazf@tigo.net.bo;S;FERNANDO;DIAZ FLOREZ;Agente;diazf@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hortuab@tigo.net.bo;hortuab@tigo.net.bo;S;BRAYAN FABIAN;HORTUA CUADRADO;Agente;hortuab@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mercadoy@tigo.net.bo;mercadoy@tigo.net.bo;S;YANELIS;MERCADO HERNANDEZ;Agente;mercadoy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cortese@tigo.net.bo;cortese@tigo.net.bo;S;ERIKA MICHAEL;CORTES REYES;Agente;cortese@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+peralesj@tigo.net.bo;peralesj@tigo.net.bo;S;JORGE LUIS;PERALES DABUEMA;Agente;peralesj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perezmar@tigo.net.bo;perezmar@tigo.net.bo;S;MARIA ALEJANDRA;PEREZ PEREZ;Agente;perezmar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+antequeram@tigo.net.bo;antequeram@tigo.net.bo;S;MARIA ELENA;ANTEQUERA VILLEGAS;Agente;antequeram@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valencias@tigo.net.bo;valencias@tigo.net.bo;S;SHARON YOLIMA;VALENCIA PEREZ;Agente;valencias@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arrublae@tigo.net.bo;arrublae@tigo.net.bo;S;EMMANUEL;ARRUBLA GARZON;Agente;arrublae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ruizmp@tigo.net.bo;ruizmp@tigo.net.bo;S;MARIA PAULA;RUIZ BETANCUR;Agente;ruizmp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanedae@tigo.net.bo;castanedae@tigo.net.bo;S;ERIKA JULIETH;CASTAÑEDA CASTAÑEDA;Agente;castanedae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pulgarinca@tigo.net.bo;pulgarinca@tigo.net.bo;S;CESAR AUGUSTO;PULGARIN SALDARRIAGA;Agente;pulgarinca@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+romerocr@tigo.net.bo;romerocr@tigo.net.bo;S;CRISTIAN CAMILO;ROMERO FLOREZ;Agente;romerocr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+quinonezo@tigo.net.bo;quinonezo@tigo.net.bo;S;JULIO;QUIÑONEZ OMAIRA;Agente;quinonezo@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+navasd@tigo.net.bo;navasd@tigo.net.bo;S;DANIEL ESTEBAN;NAVAS MONTOYA;Agente;navasd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+esquivelja@tigo.net.bo;esquivelja@tigo.net.bo;S;JAINIRIS;ESQUIVELCERRA;Agente;esquivelja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arenasj@tigo.net.bo;arenasj@tigo.net.bo;S;JHONATAN;ARENAS GIRALDO;Agente;arenasj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezw@tigo.net.bo;lopezw@tigo.net.bo;S;WENDYS;LÓPEZ RAMIREZ;Agente;lopezw@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanedan@tigo.net.bo;castanedan@tigo.net.bo;S;NATALI;CASTAÑEDA LAURA;Agente;castanedan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+erazof@tigo.net.bo;erazof@tigo.net.bo;S;LUISA FERNANDA;ERAZO ;Agente;erazof@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bolivarvi@tigo.net.bo;bolivarvi@tigo.net.bo;S;VIVIANNA VANESSA;BOLIVAR ARIAS;Agente;bolivarvi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castellanosg@tigo.net.bo;castellanosg@tigo.net.bo;S;GERMAN DAVID;CASTELLANOS PROAÑOS;Agente;castellanosg@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gild@tigo.net.bo;gild@tigo.net.bo;S;DIANA CAROLINA;GIL COSSIO;Agente;gild@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezce@tigo.net.bo;hernandezce@tigo.net.bo;S;CESAR;DAVID HERNANDEZ;Agente;hernandezce@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cuestad@tigo.net.bo;cuestad@tigo.net.bo;S;DIANA PATRICIA;CUESTA ROMAÑA;Agente;cuestad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatae@tigo.net.bo;zapatae@tigo.net.bo;S;ESTEFANIA;ZAPATA CORREA;Agente;zapatae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasqueznk@tigo.net.bo;vasqueznk@tigo.net.bo;S;NASLY KATERINE;VASQUEZ ALZATE;Agente;vasqueznk@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+romerocr@tigo.net.bo;romerocr@tigo.net.bo;S;CRISTIAN CAMILO;ROMERO FLOREZ;Agente;romerocr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+oyalad@tigo.net.bo;oyalad@tigo.net.bo;S;DAHIANA;OLAYA JARAMILLO;Agente;oyalad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+usugas@tigo.net.bo;usugas@tigo.net.bo;S;SANDRA PATRICIA;USUGA MORENO;Agente;usugas@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+farfana@tigo.net.bo;farfana@tigo.net.bo;S;ARMANDO JOSE;FARFAN GARCIA;Agente;farfana@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yanesg@tigo.net.bo;yanesg@tigo.net.bo;S;GABRIEL RHAMZES;YANES MARQUEZ;Agente;yanesg@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zuluagaj@tigo.net.bo;zuluagaj@tigo.net.bo;S;JUAN ESTEBAN;ZULUAGA ;Agente;zuluagaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pedrazam@tigo.net.bo;pedrazam@tigo.net.bo;S;MARIA DE LOS ANGELES;PEDRAZA SANTAMARIA;Agente;pedrazam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salazarmj@tigo.net.bo;salazarmj@tigo.net.bo;S;MARIA JOSE;SALAZAR ZAPATA;Agente;salazarmj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+valenciamj@tigo.net.bo;valenciamj@tigo.net.bo;S;MARLEN JOHANA;VALENCIA LOPEZ;Agente;valenciamj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+posadaa@tigo.net.bo;posadaa@tigo.net.bo;S;ALEJANDRA;POSADA VIDAL;Agente;posadaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ruizb@tigo.net.bo;ruizb@tigo.net.bo;S;BRENDA PATRICIA;RUIZ MORALES;Agente;ruizb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torresj@tigo.net.bo;torresj@tigo.net.bo;S;JULIETH NATALIA;TORRES CRUZ;Agente;torresj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rojasni@tigo.net.bo;rojasni@tigo.net.bo;S;NICOLAS SANTIAGO;ROJAS MUÑOZ;Agente;rojasni@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+suarezka@tigo.net.bo;suarezka@tigo.net.bo;S;KATHERIN TATIANA;SUAREZ JARAMILLO;Agente;suarezka@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torresca@tigo.net.bo;torresca@tigo.net.bo;S;CAROLINA;TORRES FLÓRES;Agente;torresca@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bedoyamar@tigo.net.bo;bedoyamar@tigo.net.bo;S;MARILYN;BEDOYA VELÁSQUEZ;Agente;bedoyamar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rozod@tigo.net.bo;rozod@tigo.net.bo;S;DANIEL ESTEBAN;ROZO CALVO;Agente;rozod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+saldarriagad@tigo.net.bo;saldarriagad@tigo.net.bo;S;DEYSI LORENA;SALDARRIAGA BURITICA;Agente;saldarriagad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mirandad@tigo.net.bo;mirandad@tigo.net.bo;S;DIEGO ALEXANDER;MIRANDA GALLEGO;Agente;mirandad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mestram@tigo.net.bo;mestram@tigo.net.bo;S;MIGUEL ÁNGEL;MESTRA DÍAZ;Agente;mestram@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+holguink@tigo.net.bo;holguink@tigo.net.bo;S;KEIDY NAYELLI;HOLGUIN VIDALES;Agente;holguink@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bastidasd@tigo.net.bo;bastidasd@tigo.net.bo;S;DANIEL HUMBERTO;BASTIDAS MILLAN;Agente;bastidasd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rengifoja@tigo.net.bo;rengifoja@tigo.net.bo;S;ANDRES;RENGIFO JHONATAN;Agente;rengifoja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+delaossad@tigo.net.bo;delaossad@tigo.net.bo;S;DANIEL ENRRIQUE;DE LA OSSA ARROLLO;Agente;delaossad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vargasmc@tigo.net.bo;vargasmc@tigo.net.bo;S;CAMILA ;VARGAS PUERTA;Agente;vargasmc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyaju@tigo.net.bo;montoyaju@tigo.net.bo;S;JUAN FELIPE;MONTOYA PARRA;Agente;montoyaju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinl@tigo.net.bo;marinl@tigo.net.bo;S;LUZ MARINA;MARIN TABORDA;Agente;marinl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pulgarinc@tigo.net.bo;pulgarinc@tigo.net.bo;S;CAMILO ANDRES;PULGARIN RESTREPO;Agente;pulgarinc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirezes@tigo.net.bo;ramirezes@tigo.net.bo;S;ESTEBAN;RAMIREZ SERNA;Agente;ramirezes@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+varelaa@tigo.net.bo;varelaa@tigo.net.bo;S;ANGIE PAOLA;VARELA CASTAÑO;Agente;varelaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+urregom@tigo.net.bo;urregom@tigo.net.bo;S;MARIA ISABEL;URREGO DURANGO;Agente;urregom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+pelaezj@tigo.net.bo;pelaezj@tigo.net.bo;S;JULIANA;PELAEZ POSADA;Agente;pelaezj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+martinezmar@tigo.net.bo;martinezmar@tigo.net.bo;S;MARIBEL;MARTINEZ GIL;Agente;martinezmar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rpakonecta@tigo.net.bo;rpakonecta@tigo.net.bo;S;SRPA;KONECTA;Supervisor;rpakonecta@tigo.net.bo;;eCare;Bolivia
+ocampome@tigo.net.bo;ocampome@tigo.net.bo;S;MELISA;OCAMPO ALVAREZ;Agente;ocampome@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzaleza@tigo.net.bo;gonzaleza@tigo.net.bo;S;ANA MARIA;GONZALEZ RESTREPO;Agente;gonzaleza@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ospinac@tigo.net.bo;ospinac@tigo.net.bo;S;CATHERIN MICHELLE;OSPINA BORJA;Agente;ospinac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardonano@tigo.net.bo;cardonano@tigo.net.bo;S;NORBERTO;CARDONA SAENZ;Agente;cardonano@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezmg@tigo.net.bo;velezmg@tigo.net.bo;S;MICHEL GIOVANNA;VÉLEZ BARÓN;Agente;velezmg@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezma@tigo.net.bo;velezma@tigo.net.bo;S;MARÍA ALEXANDRA;VÉLEZ RESTREPO;Agente;velezma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alzatem@tigo.net.bo;alzatem@tigo.net.bo;S;MARIANA;ALZATE JURADO;Agente;alzatem@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+albonisd@tigo.net.bo;albonisd@tigo.net.bo;S;DANY;ALBONIS OVIEDO;Agente;albonisd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciamel@tigo.net.bo;garciamel@tigo.net.bo;S;MELISSA;GARCIA RENDON;Agente;garciamel@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezjuan@tigo.net.bo;vasquezjuan@tigo.net.bo;S;JUAN JOSE;VASQUEZ;Agente;vasquezjuan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+herrerawi@tigo.net.bo;herrerawi@tigo.net.bo;S;WILLIAM ALEXIS;HERRERA MAYA;Agente;herrerawi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+quinteroy@tigo.net.bo;quinteroy@tigo.net.bo;S;YEINER ANDRES;QUINTERO PALACIOS;Agente;quinteroy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+medinaye@tigo.net.bo;medinaye@tigo.net.bo;S;YEISON FERNEY;MEDINA CARMONA;Agente;medinaye@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinva@tigo.net.bo;marinva@tigo.net.bo;S;VALENTINA;MARIN PAREJA;Agente;marinva@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+roldano@tigo.net.bo;roldano@tigo.net.bo;S;OLGA YULIETH;ROLDAN DURANGO;Agente;roldano@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+agudeloc@tigo.net.bo;agudeloc@tigo.net.bo;S;CAMILA;AGUDELO AREIZA;Agente;agudeloc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezpau@tigo.net.bo;lopezpau@tigo.net.bo;S;PAULA CATALINA;LOPEZ VALENCIA;Agente;lopezpau@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+herreradi@tigo.net.bo;herreradi@tigo.net.bo;S;DIEGO ALEXIS;HERRERA POSSO;Agente;herreradi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ortizlui@tigo.net.bo;ortizlui@tigo.net.bo;S;LUISA FERNANDA;ORTIZ SIERRA;Agente;ortizlui@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+carvajalk@tigo.net.bo;carvajalk@tigo.net.bo;S;KELLY JOHANA;CARVAJAL MANCO;Agente;carvajalk@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezd@tigo.net.bo;hernandezd@tigo.net.bo;S;DIANA CAROLINA;HERNANDEZ MORALES;Agente;hernandezd@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezp@tigo.net.bo;alvarezp@tigo.net.bo;S;PAMELA;ALVAREZ ORTIZ;Agente;alvarezp@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+goezs@tigo.net.bo;goezs@tigo.net.bo;S;SANDRA VIVIANA;GOEZ DURANGO;Agente;goezs@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanoax@tigo.net.bo;castanoax@tigo.net.bo;S;ALISON XIOMARA;CASTAÑO ROJAS;Agente;castanoax@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyax@tigo.net.bo;montoyax@tigo.net.bo;S;XIOMARA;MONTOYA ADARVE;Agente;montoyax@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+carom@tigo.net.bo;carom@tigo.net.bo;S;MAVY DANIELA;CARO PATIÑO;Agente;carom@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+francos@tigo.net.bo;francos@tigo.net.bo;S;SHARON STEPHANIE;FRANCO GALEANO;Agente;francos@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salazarver@tigo.net.bo;salazarver@tigo.net.bo;S;VERÓNICA;SALAZAR SALAZAR;Agente;salazarver@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+galvisl@tigo.net.bo;galvisl@tigo.net.bo;S;LAURA;GALVIS CARDONA;Agente;galvisl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+sanchezluis@tigo.net.bo;sanchezluis@tigo.net.bo;S;LUISA MARIA;SANCHEZ MONSALVE;Agente;sanchezluis@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ojedav@tigo.net.bo;ojedav@tigo.net.bo;S;VIRGINIA VALENTINA;OJEDA SEPULVEDA;Agente;ojedav@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mendezcam@tigo.net.bo;mendezcam@tigo.net.bo;S;CAMILO ANDRES;MENDEZ COGOLLO;Agente;mendezcam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+turiany@tigo.net.bo;turiany@tigo.net.bo;S;YOHANA PAOLA;TURIAN CHAVEZ;Agente;turiany@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+amayay@tigo.net.bo;amayay@tigo.net.bo;S;YOJAN MAURICIO;AMAYA RAMIREZ;Agente;amayay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tabareso@tigo.net.bo;tabareso@tigo.net.bo;S;ORLEN DANIEL;TABARES CUESTA;Agente;tabareso@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+chavarriagae@tigo.net.bo;chavarriagae@tigo.net.bo;S;ESTEFANI;CHAVARRIAGA VELEZ;Agente;chavarriagae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+angulok@tigo.net.bo;angulok@tigo.net.bo;S;KEVIN;ANGULO BRIÑEZ;Agente;angulok@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perezsa@tigo.net.bo;perezsa@tigo.net.bo;S;SANDRA MILENA;PEREZ CARDONA;Agente;perezsa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rendonv@tigo.net.bo;rendonv@tigo.net.bo;S;VALENTINA;RENDON CASTAÑO;Agente;rendonv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hurtadome@tigo.net.bo;hurtadome@tigo.net.bo;S;MELANIE MICHELLE;HURTADO SILVA;Agente;hurtadome@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lagunala@tigo.net.bo;lagunala@tigo.net.bo;S;LAURA XIMENA;LAGUNA GALLO;Agente;lagunala@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+correaa@tigo.net.bo;correaa@tigo.net.bo;S;ANDREA CATALINA;CORREA BUSTAMANTE;Agente;correaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gamboama@tigo.net.bo;gamboama@tigo.net.bo;S;MARIA ANGELICA;GAMBOA CORDOBA;Agente;gamboama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodriguezja@tigo.net.bo;rodriguezja@tigo.net.bo;S;JAVIER ENRIQUE;RODRIGUEZ ESCOBAR;Agente;rodriguezja@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+orozcoe@tigo.net.bo;orozcoe@tigo.net.bo;S;EVELIN;OROZCO MEJIA;Agente;orozcoe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+montoyal@tigo.net.bo;montoyal@tigo.net.bo;S;LEIDY YURANI;MONTOYA ISAZA;Agente;montoyal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+angaritaa@tigo.net.bo;angaritaa@tigo.net.bo;S;ALEXANDRA;ANGARITA ARDILA;Agente;angaritaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+carvajale@tigo.net.bo;carvajale@tigo.net.bo;S;ESTEFANIA;CARVAJAL ZULUAGA;Agente;carvajale@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+muriels@tigo.net.bo;muriels@tigo.net.bo;S;SARA;MURIEL PEREZ;Agente;muriels@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rendonju@tigo.net.bo;rendonju@tigo.net.bo;S;JULIANA;RENDON ALZATE;Agente;rendonju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+beltransa@tigo.net.bo;beltransa@tigo.net.bo;S;SANTIAGO FELIPE;BELTRAN GOMEZ;Agente;beltransa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riveralu@tigo.net.bo;riveralu@tigo.net.bo;S;LUZ ANGELA;RIVERA FIGUEROA;Agente;riveralu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+agudeload@tigo.net.bo;agudeload@tigo.net.bo;S;ANDRES DAVID;AGUDELO MOLINA;Supervisor;agudeload@tigo.net.bo;;eCare;Bolivia
+padiernac@tigo.net.bo;padiernac@tigo.net.bo;N;CRISTIAN JAVIER;PADIERNA HIGUITA;Agente;padiernac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+contrerasra@tigo.net.bo;contrerasra@tigo.net.bo;S;RAUL ALEJANDRO;CONTRERAS PATIÑO;Agente;contrerasra@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+arroyoy@tigo.net.bo;arroyoy@tigo.net.bo;S;YULIETH VANESSA;ARROYO CANO;Agente;arroyoy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palaciosa@tigo.net.bo;palaciosa@tigo.net.bo;S;SANTIAGO;PALACIO GUIRAL;Agente;palaciosa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+atilanoi@tigo.net.bo;atilanoi@tigo.net.bo;S;INGRID PAOLA;ATILANO GOMEZ;Agente;atilanoi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+araquei@tigo.net.bo;araquei@tigo.net.bo;S;ISABEL CRISTINA;ARAQUE SANCHEZ;Agente;araquei@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escuderoa@tigo.net.bo;escuderoa@tigo.net.bo;S;ANA MARIA;ESCUDERO CARDONA;Agente;escuderoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cuervov@tigo.net.bo;cuervov@tigo.net.bo;S;VONNY;CUERVO SOTO;Agente;cuervov@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+estradame@tigo.net.bo;estradame@tigo.net.bo;S;MELIDA ESTEFANIA;ESTRADA MONTOYA;Agente;estradame@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatac@tigo.net.bo;zapatac@tigo.net.bo;N;CESAR;ZAPATA ORTIZ;Agente;zapatac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+corream@tigo.net.bo;corream@tigo.net.bo;S;MARIA LUISA;CORREA HENAO;Agente;corream@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+aguass@tigo.net.bo;aguass@tigo.net.bo;S;SERGIO ANTONIO;AGUAS JIMENEZ;Agente;aguass@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+garciafl@tigo.net.bo;garciafl@tigo.net.bo;S;FLOR MARIA;GARCIA TOBON;Agente;garciafl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezh@tigo.net.bo;alvarezh@tigo.net.bo;S;HAROLD;ALVAREZ RESTREPO;Agente;alvarezh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+poloa@tigo.net.bo;poloa@tigo.net.bo;S;AIDA;POLO MARTINEZ;Agente;poloa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cogolloa@tigo.net.bo;cogolloa@tigo.net.bo;S;ARLEY DAVID;COGOLLO HUMANEZ;Agente;cogolloa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+villarragam@tigo.net.bo;villarragam@tigo.net.bo;S;MONICA KATHERINNE;VILLARRAGA FARFAN;Agente;villarragam@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torod@tigo.net.bo;torod@tigo.net.bo;S;DAVID;TORO CAMPILLO;Agente;torod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+apariciosu@tigo.net.bo;apariciosu@tigo.net.bo;S;SUANY YIRLESA;APARICIO CEPEDA;Agente;apariciosu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velasquezmari@tigo.net.bo;velasquezmari@tigo.net.bo;S;MARIA ISABELA;VELASQUEZ DELGADO;Agente;velasquezmari@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+davilal@tigo.net.bo;davilal@tigo.net.bo;S;LAURA CAMILA;DAVILA ORTIZ;Agente;davilal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ariasb@tigo.net.bo;ariasb@tigo.net.bo;S;BRAYAM STEVE;ARIAS CALDERON;Agente;ariasb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezluz@tigo.net.bo;lopezluz@tigo.net.bo;S;LUZ CELESTE;LOPEZ AVILA;Agente;lopezluz@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+torresy@tigo.net.bo;torresy@tigo.net.bo;S;YULIETH ALEJANDRA;TORRES;Agente;torresy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ramirez@tigo.net.bo;ramirez@tigo.net.bo;S;JOSE MIGUEL;RAMIREZ MORALES;Supervisor;ramirez@tigo.net.bo;;eCare;Bolivia
+lazaroh@tigo.net.bo;lazaroh@tigo.net.bo;S;HUGO JOSE;LAZARO GUERRERO;Agente;lazaroh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+peraltajh@tigo.net.bo;peraltajh@tigo.net.bo;S;JHANIER;PERALTA MURILLO;Agente;peraltajh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+betancurj@tigo.net.bo;betancurj@tigo.net.bo;S;JUAN FELIPE;BETANCUR PEREZ;Agente;betancurj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezar@tigo.net.bo;hernandezar@tigo.net.bo;S;ARMANDO MIGUEL;HERNANDEZ NAVARRO;Agente;hernandezar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+zapatajua@tigo.net.bo;zapatajua@tigo.net.bo;S;JUAN GABRIEL;ZAPATA ZAPATA;Agente;zapatajua@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+medinayac@tigo.net.bo;medinayac@tigo.net.bo;S;YACKDELIN LISBETH;MEDINA PUENTES;Agente;medinayac@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+suarezman@tigo.net.bo;suarezman@tigo.net.bo;S;MANUELA;SUAREZ MARTINEZ;Supervisor;suarezman@tigo.net.bo;;eCare;Bolivia
+ledesmaj@tigo.net.bo;ledesmaj@tigo.net.bo;S;JOSE CAMILO;LEDESMA VERBEL;Agente;ledesmaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+monsalvel@tigo.net.bo;monsalvel@tigo.net.bo;S;LUIS DAVID;MONSALVE PEREA;Agente;monsalvel@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bermudezcl@tigo.net.bo;bermudezcl@tigo.net.bo;S;CLAUDIA MARCELA;BERMUDEZ CORDOBA;Agente;bermudezcl@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bedoyama@tigo.net.bo;bedoyama@tigo.net.bo;S;MARIA DE LOS ANGELES;BEDOYA HERRERA;Agente;bedoyama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+botinas@tigo.net.bo;botinas@tigo.net.bo;S;SANDRA MILENA;BOTINA ALVAREZ;Agente;botinas@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mayaj@tigo.net.bo;mayaj@tigo.net.bo;S;JESSICA YULIETH;MAYA ARANGO;Agente;mayaj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+perdomok@tigo.net.bo;perdomok@tigo.net.bo;S;KEYLA MARIA;PERDOMO BERRIO;Agente;perdomok@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+usugay@tigo.net.bo;usugay@tigo.net.bo;S;YESICA;USUGA VALENCIA;Agente;usugay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+higuitad@tigo.net.bo;higuitad@tigo.net.bo;S;DANIELA ANDREA;HIGUITA PASSOS;Agente;higuitad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+orozcoj@tigo.net.bo;orozcoj@tigo.net.bo;S;JUAN FELIPE;OROZCO RESTREPO;Agente;orozcoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardenasa@tigo.net.bo;cardenasa@tigo.net.bo;S;ANDREA CATALINA;CARDENAS TRIANA;Agente;cardenasa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+rodriguezb@tigo.net.bo;rodriguezb@tigo.net.bo;S;CRISTHIAN STEVENS;RODRIGUEZ BETANCOURTH;Agente;rodriguezb@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velasquezmar@tigo.net.bo;velasquezmar@tigo.net.bo;S;MARIA CAMILA;VELASQUEZ ARISTIZABAL;Agente;velasquezmar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+serranol@tigo.net.bo;serranol@tigo.net.bo;S;LAURA;SERRANO CAMPO;Agente;serranol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+restrepoju@tigo.net.bo;restrepoju@tigo.net.bo;S;JULIANA;RESTREPO CANO;Agente;restrepoju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezje@tigo.net.bo;gomezje@tigo.net.bo;S;JESSICA SIRLEY;GOMEZ CARVAJAL;Agente;gomezje@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ruzsi@tigo.net.bo;ruzsi@tigo.net.bo;S;SIRLENY ANDREA;RUZ GALVIS;Agente;ruzsi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+contrerasdu@tigo.net.bo;contrerasdu@tigo.net.bo;S;DUGLAS MANUEL;CONTRERAS BERRIO;Agente;contrerasdu@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezh@tigo.net.bo;hernandezh@tigo.net.bo;S;HELLEN MARCELA;HERNANDEZ CARRASCAL;Agente;hernandezh@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vanegask@tigo.net.bo;vanegask@tigo.net.bo;S;KAREN YISELA;VANEGAS PALACIO;Agente;vanegask@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riverasa@tigo.net.bo;riverasa@tigo.net.bo;S;SANDRA LILIANA;RIVERA LEZCANO;Agente;riverasa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mendozama@tigo.net.bo;mendozama@tigo.net.bo;S;MARNIL MICHELLE;MENDOZA SANCHEZ;Agente;mendozama@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+riveraeli@tigo.net.bo;riveraeli@tigo.net.bo;S;ELIZABETH;RIVERA RIVERA;Agente;riveraeli@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+uribem@tigo.net.bo;uribem@tigo.net.bo;S;MELISSA;URIBE RAMIREZ;Agente;uribem@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cardenasv@tigo.net.bo;cardenasv@tigo.net.bo;S;VICTOR HUGO;CARDENAS GOMEZ;Agente;cardenasv@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acostade@tigo.net.bo;acostade@tigo.net.bo;S;DERLY JOJANA;ACOSTA HERRERA;Agente;acostade@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+acevedol@tigo.net.bo;acevedol@tigo.net.bo;S;LUISA FERNANDA;ACEVEDO BUITRAGO;Agente;acevedol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezyo@tigo.net.bo;alvarezyo@tigo.net.bo;S;YOFREY DAVID;ALVAREZ ESPINAL;Agente;alvarezyo@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+bedoyamai@tigo.net.bo;bedoyamai@tigo.net.bo;S;MAICOL;BEDOYA JARAMILLO;Agente;bedoyamai@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+caroe@tigo.net.bo;caroe@tigo.net.bo;S;EDWAR FERNEY;CARO TABORDA;Agente;caroe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+correay@tigo.net.bo;correay@tigo.net.bo;S;YESICA LORENA;CORREA PEREZ;Agente;correay@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+cuetod@tigo.net.bo;cuetod@tigo.net.bo;S;DEYLIANIS;CUETO RUSSO;Agente;cuetod@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+echavarriacr@tigo.net.bo;echavarriacr@tigo.net.bo;S;CRISTIAN GERMAN;ECHAVARRIA PUERTA;Agente;echavarriacr@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+espinosae@tigo.net.bo;espinosae@tigo.net.bo;S;ELIZABETH;ESPINOSA RENDON;Agente;espinosae@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+giraldos@tigo.net.bo;giraldos@tigo.net.bo;S;SARA;GIRALDO RAMIREZ;Agente;giraldos@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzalezer@tigo.net.bo;gonzalezer@tigo.net.bo;S;ERIKA LEANDRA;GONZALEZ GALLEGO;Agente;gonzalezer@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jaramilloe@tigo.net.bo;jaramilloe@tigo.net.bo;S;ESTEFANY YULIETH;JARAMILLO GIL;Agente;jaramilloe@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jimenezles@tigo.net.bo;jimenezles@tigo.net.bo;S;LESLY ALEJANDRA;JIMENEZ MACIAS;Agente;jimenezles@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+llanoss@tigo.net.bo;llanoss@tigo.net.bo;S;SARA VANESA;LLANOS FLOREZ;Agente;llanoss@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lopezy@tigo.net.bo;lopezy@tigo.net.bo;S;YULEIDY ANDREA;LOPEZ MARTINEZ;Agente;lopezy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinsa@tigo.net.bo;marinsa@tigo.net.bo;S;SANTIAGO ALONSO;MARIN ORTIZ;Agente;marinsa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+medinaal@tigo.net.bo;medinaal@tigo.net.bo;S;ALLISON;MEDINA LOAIZA;Agente;medinaal@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+navarror@tigo.net.bo;navarror@tigo.net.bo;S;REYNALDO ANDRES;NAVARRO VALBUENA;Agente;navarror@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+palacios@tigo.net.bo;palacios@tigo.net.bo;S;SEBASTIAN;PALACIO QUINTERO;Agente;palacios@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+quiramad@tigo.net.bo;quiramad@tigo.net.bo;S;DIANA DURLEY;QUIRAMA URREGO;Agente;quiramad@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+giraldoa@tigo.net.bo;giraldoa@tigo.net.bo;S;ANGIE PAOLA;GIRALDO ZABALA;Agente;giraldoa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gomezyi@tigo.net.bo;gomezyi@tigo.net.bo;S;YINETH DANIELA;GOMEZ DUARTE;Agente;gomezyi@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+gonzalezju@tigo.net.bo;gonzalezju@tigo.net.bo;S;JUAN STIVEN;GONZALEZ GUTIERREZ;Agente;gonzalezju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+hernandezm@tigo.net.bo;hernandezm@tigo.net.bo;S;MARIA TERESA;HERNANDEZ MAUSSA;Agente;hernandezm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jaramillol@tigo.net.bo;jaramillol@tigo.net.bo;S;LUCENNY;JARAMILLO PEREZ;Agente;jaramillol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+alvarezmar@tigo.net.bo;alvarezmar@tigo.net.bo;S;MARIA CAMILA;ALVAREZ BENITES;Agente;alvarezmar@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+castanedaa@tigo.net.bo;castanedaa@tigo.net.bo;S;ANYI CELENY;CASTAÑEDA VASQUEZ;Agente;castanedaa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+escobarje@tigo.net.bo;escobarje@tigo.net.bo;S;JESUS DAVID;ESCOBAR SUAZA;Agente;escobarje@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+lezcanoj@tigo.net.bo;lezcanoj@tigo.net.bo;S;JUAN DAVID;LEZCANO RAMIREZ;Agente;lezcanoj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+mancol@tigo.net.bo;mancol@tigo.net.bo;S;LIS MARYORI;MANCO MORALES;Agente;mancol@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+marinc@tigo.net.bo;marinc@tigo.net.bo;S;CINDY VANESSA;MARIN URREGO;Agente;marinc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+monsalvey@tigo.net.bo;monsalvey@tigo.net.bo;S;YESIKA ALEJANDRA;MONSALVE SUAREZ;Agente;monsalvey@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ortizde@tigo.net.bo;ortizde@tigo.net.bo;S;DEISY ADRIANA;ORTIZ MUÑETON;Agente;ortizde@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+trujillok@tigo.net.bo;trujillok@tigo.net.bo;S;KEVIN ALEJANDRO;TRUJILLO CANO;Agente;trujillok@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+tobonc@tigo.net.bo;tobonc@tigo.net.bo;S;CARLOS ANDRES;TOBON ESCOBAR;Agente;tobonc@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+yepesa@tigo.net.bo;yepesa@tigo.net.bo;S;ANDREA;YEPES CRUZ;Agente;yepesa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+velezju@tigo.net.bo;velezju@tigo.net.bo;S;JUAN JOSE;VELEZ CASAS;Agente;velezju@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+viverosm@tigo.net.bo;viverosm@tigo.net.bo;S;MANUELA;VIVEROS TOBON;Agente;viverosm@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ariashug@tigo.net.bo;ariashug@tigo.net.bo;S;HUGO;ARIAS VARGAS;Supervisor;ariashug@tigo.net.bo;;eCare;Bolivia
+solarw@tigo.net.bo;solarw@tigo.net.bo;S;WILLY WILSON;SOLAR ROJAS;Supervisor;solarw@tigo.net.bo;;eCare;Bolivia
+inclana@tigo.net.bo;inclana@tigo.net.bo;S;ALEJANDRA MARIOL;INCLAN HIEBER;Supervisor;inclana@tigo.net.bo;;eCare;Bolivia
+floreshj@tigo.net.bo;floreshj@tigo.net.bo;N;HELEN JESSICA;FLORES CORTEZ;Supervisor;floreshj@tigo.net.bo;;eCare;Bolivia
+limpiasre@tigo.net.bo;limpiasre@tigo.net.bo;S;RENNY;LIMPIAS CALLE;Supervisor;limpiasre@tigo.net.bo;;eCare;Bolivia
+avilesjp@tigo.net.bo;avilesjp@tigo.net.bo;S;JUANA PATRICIA;AVILES MIRANDA;Supervisor;avilesjp@tigo.net.bo;;eCare;Bolivia
+murielga@tigo.net.bo;murielga@tigo.net.bo;S;GABRIEL ANGELO;MURIEL CESPEDES;Supervisor;murielga@tigo.net.bo;;eCare;Bolivia
+aguayoa@tigo.net.bo;aguayoa@tigo.net.bo;S;ARIEL SERGIO;AGUAYO QUINTANA;Agente;aguayoa@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+caballeroy@tigo.net.bo;caballeroy@tigo.net.bo;S;YESSICA;CABALLERO ORIAS;Agente;caballeroy@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+chanducac@tigo.net.bo;chanducac@tigo.net.bo;S;CÉSAR GUSTAVO;CHANDUCA LÓPEZ;Agente;chanducac@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+cuellarmi@tigo.net.bo;cuellarmi@tigo.net.bo;S;MILTON;CUELLAR VEDIA;Agente;cuellarmi@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+ibanezv@tigo.net.bo;ibanezv@tigo.net.bo;S;VERONICA;IBAÑEZ PERALTA;Agente;ibanezv@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+villagomeza@tigo.net.bo;villagomeza@tigo.net.bo;S;NOHEMI ALEJANDRA;VILLAGOMEZ FLORES;Agente;villagomeza@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+arteagad@tigo.net.bo;arteagad@tigo.net.bo;S;DENISSE;ARTEAGA NUÑEZ;Agente;arteagad@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+floresyr@tigo.net.bo;floresyr@tigo.net.bo;S;YUSELY ROSIO;FLORES CHUVE;Agente;floresyr@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+lijeronla@tigo.net.bo;lijeronla@tigo.net.bo;S;LAURA PAOLA;LIJERON VACA;Agente;lijeronla@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+mayserju@tigo.net.bo;mayserju@tigo.net.bo;S;JUAN JOSE;MAYSER MEJIA;Agente;mayserju@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+orozcoc@tigo.net.bo;orozcoc@tigo.net.bo;S;CARLOS RICHARD;OROZCO RAMOS;Agente;orozcoc@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+ortizr@tigo.net.bo;ortizr@tigo.net.bo;S;ROMER ALCIDES;ORTIZ OJOPI;Agente;ortizr@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+paradaa@tigo.net.bo;paradaa@tigo.net.bo;S;ADHEMAR;PARADA PAZ;Agente;paradaa@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+peredorom@tigo.net.bo;peredorom@tigo.net.bo;S;ROMMEL MIJKAIL;PEREDO BUSTAMANTE;Agente;peredorom@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+serrater@tigo.net.bo;serrater@tigo.net.bo;S;RUSSEL DIEGO;SERRATE RODRIGUEZ;Agente;serrater@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+terrazasmi@tigo.net.bo;terrazasmi@tigo.net.bo;S;MIGUEL ANGEL;TERRAZAS LOPEZ;Agente;terrazasmi@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+vallea@tigo.net.bo;vallea@tigo.net.bo;S;ALFONSO;VALLE TUBARI;Agente;vallea@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+villarroelh@tigo.net.bo;villarroelh@tigo.net.bo;S;HORACIO ARMANDO;VILLARROEL BLADEZ;Agente;villarroelh@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+zabalan@tigo.net.bo;zabalan@tigo.net.bo;S;NICOL;ZABALA AGUILERA;Agente;zabalan@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+zentenof@tigo.net.bo;zentenof@tigo.net.bo;S;FABIAN;ZENTENO SEGOVIA;Agente;zentenof@tigo.net.bo;monteroj@tigo.net.bo;eCare;Bolivia
+calizayam@tigo.net.bo;calizayam@tigo.net.bo;S;MAYRA ALEXANDRA;CALIZAYA AMURRIO;Agente;calizayam@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+dazay@tigo.net.bo;dazay@tigo.net.bo;S;YSBHEIDA LESLIE;DAZA MOSCOSO;Agente;dazay@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+inocentem@tigo.net.bo;inocentem@tigo.net.bo;S;MELISSA;INOCENTE CESPEDES;Agente;inocentem@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+mendietai@tigo.net.bo;mendietai@tigo.net.bo;S;IVAN GABRIEL;MENDIETA CARI;Agente;mendietai@tigo.net.bo;martinj@tigo.net.bo;eCare;Bolivia
+nostasv@tigo.net.bo;nostasv@tigo.net.bo;S;VALERIA;NOSTAS JIMENEZ;Agente;nostasv@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+requenamg@tigo.net.bo;requenamg@tigo.net.bo;S;MARIANA GRACIELA;REQUENA QUIROGA;Agente;requenamg@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+vargasa@tigo.net.bo;vargasa@tigo.net.bo;S;AVNER;VARGAS MONTAÑO;Agente;vargasa@tigo.net.bo;robledop@tigo.net.bo;eCare;Bolivia
+echeverril@tigo.net.bo;echeverril@tigo.net.bo;S;LUISA FERNANDA;ECHEVERRI SARRAZOLA;Agente;echeverril@tigo.net.bo;yepesi@tigo.net.bo;eCare;Bolivia
+yepesi@tigo.net.bo;yepesi@tigo.net.bo;S;ISABEL VANESSA;YEPES VASQUEZ;Supervisor;yepesi@tigo.net.bo;;eCare;Bolivia
+cardonaj@tigo.net.bo;cardonaj@tigo.net.bo;S;JOAN ALEXANDER;CARDONA RESTREPO;Supervisor;cardonaj@tigo.net.bo;;eCare;Bolivia
+cardonadan@tigo.net.bo;cardonadan@tigo.net.bo;S;DANIELA;CARDONA ESCOBAR;Agente;cardonadan@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+salazarpa@tigo.net.bo;salazarpa@tigo.net.bo;S;PAULA ANDREA;SALAZAR JARAMILLO;Agente;salazarpa@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+moraca@tigo.net.bo;moraca@tigo.net.bo;S;CARLOS ALBERTO;MORA GOMEZ;Agente;moraca@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+vasquezkj@tigo.net.bo;vasquezkj@tigo.net.bo;S;KAREN JULIETH;VASQUEZ VELASCO;Agente;vasquezkj@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+blancoma@tigo.net.bo;blancoma@tigo.net.bo;S;MARIA ALEJANDRA;BLANCO ORJUELA;Agente;blancoma@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+jimenezyn@tigo.net.bo;jimenezyn@tigo.net.bo;S;YULIETH NICOLL;JIMENEZ FRANCO;Agente;jimenezyn@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia
+ferreriy@tigo.net.bo;ferreriy@tigo.net.bo;S;YULIANO;FERRERI YAJUREZ;Agente;ferreriy@tigo.net.bo;pazc@tigo.net.bo;eCare;Bolivia

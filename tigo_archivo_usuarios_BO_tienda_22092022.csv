@@ -1,0 +1,351 @@
+﻿ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO;ACCESO_2;ACCESO_CANAL;ACCESO_PAIS
+bo_tienda_68666;sosaer@tigo.net.bo;S;ERICKA ANALI;SOSA FRANCO;Agente;bo_tienda_75274;;Tienda;Bolivia
+bo_tienda_gerente_56947;lavayenev@tigo.net.bo;S;EMMA VALERIA;LAVAYEN PERALES;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_54735;hollwegc@tigo.net.bo;S;CHRISTIAN ISSA;HOLLWEG SAFAR;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_67838;velascofa@tigo.net.bo;S;FATIMA ROMANE;VELASCO GALEB;Agente;bo_tienda_67838;;Tienda;Bolivia
+bo_tienda_76037;mirandaang@tigo.net.bo;S;ANGELICA ANAHI;MIRANDA FLORES;Agente;bo_tienda_76037;;Tienda;Bolivia
+bo_tienda_75724;ibanezk@tigo.net.bo;S;KAROLD SCARLETT;IBANEZ MARCOS;Agente;bo_tienda_75724;;Tienda;Bolivia
+bo_tienda_59759;banegass@tigo.net.bo;S;SERGIO;BANEGAS CAMACHO;Agente;bo_tienda_59759;;Tienda;Bolivia
+bo_tienda_58514;ramirezs@tigo.net.bo;S;SILVIA LORENA;RAMIREZ ANEZ;Agente;bo_tienda_58514;;Tienda;Bolivia
+bo_tienda_64797;morenoer@tigo.net.bo;S;ERIKA ESPANA;MORENO MIRANDA;Agente;bo_tienda_64797;;Tienda;Bolivia
+bo_tienda_75264;gillj@tigo.net.bo;S;JESSICA ISABEL;GILL CORONEL;Agente;bo_tienda_75264;;Tienda;Bolivia
+bo_tienda_75262;trinidadn@tigo.net.bo;S;ZO NATALIA ELIZABETH;TRINIDAD ALFO;Agente;bo_tienda_75262;;Tienda;Bolivia
+bo_tienda_75726;velascoad@tigo.net.bo;S;ADRIANA BOLIVIA;VELASCO BELTRAN;Agente;bo_tienda_75726;;Tienda;Bolivia
+bo_tienda_75727;aranaj@tigo.net.bo;S;JUAN FERNANDO;ARANA GARRON;Agente;bo_tienda_75727;;Tienda;Bolivia
+bo_tienda_75728;martine@tigo.net.bo;S;EDGAR;MARTIN hola;Agente;bo_tienda_75728;;Tienda;Bolivia
+bo_tienda_75729;guzmanp@tigo.net.bo;S;PAOLA ANDREA;GUZMAN CANQUI;Agente;bo_tienda_75729;;Tienda;Bolivia
+bo_tienda_64321;quisbertk@tigo.net.bo;S;ATHLEEN IVANA;QUISBERT RAMOS ;Agente;bo_tienda_64321;;Tienda;Bolivia
+bo_tienda_75648;aguileramau@tigo.net.bo;S;MAURICIO;AGUILERA ARREDONDO;Agente;bo_tienda_75648;;Tienda;Bolivia
+bo_tienda_73732;camachois@tigo.net.bo;S;ISAAC;CAMACHO DELGADILLO;Agente;bo_tienda_73732;;Tienda;Bolivia
+bo_tienda_75487;verajor@tigo.net.bo;S;JORGE ANIBAL;VERA RODRIGUEZ;Agente;bo_tienda_75487;;Tienda;Bolivia
+bo_tienda_73731;riberare@tigo.net.bo;S;RED RIDERS;RIBERA RUIZ;Agente;bo_tienda_73731;;Tienda;Bolivia
+bo_tienda_54730;serranom@tigo.net.bo;S;MARIA LUZ;SERRANO DURAN;Agente;bo_tienda_54730;;Tienda;Bolivia
+bo_tienda_75207;amellerd@tigo.net.bo;S;DIEGO ANDREAS;AMELLER MANGUE;Agente;bo_tienda_75207;;Tienda;Bolivia
+bo_tienda_75208;montellanod@tigo.net.bo;S;DAYRA ANGELICA;MONTELLANO CASTEDO;Agente;bo_tienda_75208;;Tienda;Bolivia
+bo_tienda_75212;moralesli@tigo.net.bo;S;LIDICE JULIETA;MORALES CARDENAS;Agente;bo_tienda_75212;;Tienda;Bolivia
+bo_tienda_75210;prietoc@tigo.net.bo;S;CAROLINA ANDREA;PRIETO CAMARGO;Agente;bo_tienda_75210;;Tienda;Bolivia
+bo_tienda_63525;cuellara@tigo.net.bo;S;ARCIL;CUELLAR SANDOVAL;Agente;bo_tienda_63525;;Tienda;Bolivia
+bo_tienda_55919;floresa@tigo.net.bo;S;ARMINDA;FLORES RODAS;Agente;bo_tienda_55919;;Tienda;Bolivia
+bo_tienda_75125;helguerov@tigo.net.bo;S;VICTOR MIGUEL;HELGUERO CAMACHO;Agente;bo_tienda_75125;;Tienda;Bolivia
+bo_tienda_74970;lagunaca@tigo.net.bo;S;CAROLINA LYLETH;LAGUNA LEVY;Agente;bo_tienda_74970;;Tienda;Bolivia
+bo_tienda_74973;cossiod@tigo.net.bo;S;DAMIAN MOISES;COSSIO ROSSETTY;Agente;bo_tienda_74973;;Tienda;Bolivia
+bo_tienda_40365;vacavi@tigo.net.bo;S;VIVIAN;VACA SALVATIERRA;Agente;bo_tienda_40365;;Tienda;Bolivia
+bo_tienda_74463;trigomo@tigo.net.bo;S;MONICA GRACIELA;TRIGO TORRELIO;Agente;bo_tienda_74292;;Tienda;Bolivia
+bo_tienda_74473;floresluis@tigo.net.bo;S;LUIS ANGEL;FLORES LOAYZA;Agente;bo_tienda_74473;;Tienda;Bolivia
+bo_tienda_74476;rendondan@tigo.net.bo;S;DANIELA;RENDON SERRUDO;Agente;bo_tienda_74476;;Tienda;Bolivia
+bo_tienda_74477;lafuentee@tigo.net.bo;S;ERICKA MARIANA;LAFUENTE ROJAS;Agente;bo_tienda_74477;;Tienda;Bolivia
+bo_tienda_74478;alvarezjho@tigo.net.bo;S;JHOSELINE KAREN;ALVAREZ MICHAGA;Agente;bo_tienda_74478;;Tienda;Bolivia
+bo_tienda_gerente_45026;escaleraa@tigo.net.bo;S;ANDRES ERNESTO;ESCALERA ALCON;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_74271;ibanezf@tigo.net.bo;S;FERNANDO FABRICIO;IBAÑEZ VILLCA;Agente;bo_tienda_74271;;Tienda;Bolivia
+bo_tienda_74162;villarroeljose@tigo.net.bo;S;JOSE MIGUEL;VILLARROEL GUZMAN;Agente;bo_tienda_74162;;Tienda;Bolivia
+bo_tienda_74165;roblesch@tigo.net.bo;S;CHRISTIAN JOHAN;ROBLES FERNANDEZ;Agente;bo_tienda_74165;;Tienda;Bolivia
+bo_tienda_74166;callejose@tigo.net.bo;S;ALVARO;CALLE JOSE;Agente;bo_tienda_74166;;Tienda;Bolivia
+bo_tienda_72497;hernandezal@tigo.net.bo;S;ALVARO;HERNANDEZ FLORES;Agente;bo_tienda_72497;;Tienda;Bolivia
+bo_tienda_74061;vasquezk@tigo.net.bo;S;KATERIN;VASQUEZ TARQUI;Agente;bo_tienda_74061;;Tienda;Bolivia
+bo_tienda_73947;rojasdanie@tigo.net.bo;S;DANIEL ALEJANDRO;ROJAS JORDAN;Agente;bo_tienda_73947;;Tienda;Bolivia
+bo_tienda_73616;corteza@tigo.net.bo;S;MARIA ALEJANDRA;CORTEZ QUIROGA;Agente;bo_tienda_73616;;Tienda;Bolivia
+bo_tienda_62555;armellai@tigo.net.bo;S;INDIRA;ARMELLA QUIROGA;Agente;bo_tienda_62555;;Tienda;Bolivia
+bo_tienda_gerente_38586;larrazabalr@tigo.net.bo;S;ROLANDO CARLOS;LARRAZABAL VALLEJOS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_73541;riverase@tigo.net.bo;S;SELENA;RIVERA LEON;Agente;bo_tienda_73541;;Tienda;Bolivia
+bo_tienda_73542;arrietak@tigo.net.bo;S;KEYLA;ARRIETA CESPEDES;Agente;bo_tienda_73542;;Tienda;Bolivia
+bo_tienda_gerente_63918;garrona@tigo.net.bo;S;ALEJANDRA;GARRON PONCE;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_54462;delafuentea@tigo.net.bo;S;ADRIANA;DE LA FUENTE MORALES;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_63528;suarezlg@tigo.net.bo;S;LUZ GABRIELA;SUAREZ SOLIZ;Agente;bo_tienda_63528;;Tienda;Bolivia
+bo_tienda_64810;plazapa@tigo.net.bo;S;PAOLA EUNICE;PLAZA BURGULLA;Agente;bo_tienda_64810;;Tienda;Bolivia
+bo_tienda_73139;buitragog@tigo.net.bo;S;GABRIELA ERNESTINA;BUITRAGO;Agente;bo_tienda_73139;;Tienda;Bolivia
+bo_tienda_73140;alarconpa@tigo.net.bo;S;PAOLA ALEJANDRA;ALARCON ROLDAN;Agente;bo_tienda_73140;;Tienda;Bolivia
+bo_tienda_73144;lunajo@tigo.net.bo;S;JONATHAN;LUNA MARTINEZ;Agente;bo_tienda_73144;;Tienda;Bolivia
+bo_tienda_73135;gutierrezrod@tigo.net.bo;S;JOSE MIGUEL;GUTIERREZ RODRIGUEZ;Agente;bo_tienda_73135;;Tienda;Bolivia
+bo_tienda_73136;balderramama@tigo.net.bo;S;MARIA LAURA;BALDERRAMA SEAS;Agente;bo_tienda_73136;;Tienda;Bolivia
+bo_tienda_73137;riverog@tigo.net.bo;S;GUILLERMO ESTEBAN;RIVERO VOGT;Agente;bo_tienda_73137;;Tienda;Bolivia
+bo_tienda_73138;cabas@tigo.net.bo;S;SERGIO NERY;CABA ARDAYA;Agente;bo_tienda_73138;;Tienda;Bolivia
+bo_tienda_40533;rocaa@tigo.net.bo;S;ANA CRISTINA;ROCA RIBERA;Agente;bo_tienda_40533;;Tienda;Bolivia
+bo_tienda_72791;navarromc@tigo.net.bo;S;MATEO;NAVARRO MODIA;Agente;bo_tienda_72791;;Tienda;Bolivia
+bo_tienda_72792;rodriguezfp@tigo.net.bo;S;FLOR;RODRIGUEZ ANTEZANA;Agente;bo_tienda_72792;;Tienda;Bolivia
+bo_tienda_72793;castellonju@tigo.net.bo;S;JUAN;CASTELLON HINOJOSA;Agente;bo_tienda_72793;;Tienda;Bolivia
+bo_tienda_72794;parradolf@tigo.net.bo;S;LENNY;PARRADO ROSALES;Agente;bo_tienda_72794;;Tienda;Bolivia
+bo_tienda_gerente_45134;amoring@tigo.net.bo;S;GABY OMARLINA;AMORIN CABALLERO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_39169;terrazasm@tigo.net.bo;S;MIGUEL ANGEL;TERRAZAS JUSTINIANO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_62320;viscafep@tigo.net.bo;S;PAMELA SHELLEM;VISCAFE ALVAREZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_50877;navalh@tigo.net.bo;S;LUIS HUGO;NAVA BLANCO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_63002;pierinif@tigo.net.bo;S;FRANCO CESAR;PIERINI ROSALES;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_72795;cruzmi@tigo.net.bo;S;MICHEL ALCIDES;CRUZ CHUVEZ;Agente;bo_tienda_72795;;Tienda;Bolivia
+bo_tienda_72796;chavezkl@tigo.net.bo;S;KARLA LORENA;CHAVEZ GONGORA;Agente;bo_tienda_72796;;Tienda;Bolivia
+bo_tienda_gerente_56322;aguirrej@tigo.net.bo;S;JHONNY ALFREDO;AGUIRRE CAPA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_65773;gonzalesje@tigo.net.bo;S;JERSON RODRIGO;GONZALEZ TAMAYO;Agente;bo_tienda_65773;;Tienda;Bolivia
+bo_tienda_40455;oyolai@tigo.net.bo;S;IRMGARD DANIELA;OYOLA CASTRO;Agente;bo_tienda_40455;;Tienda;Bolivia
+bo_tienda_62303;gonzalesca@tigo.net.bo;S;CARLA LORENA;GONZALES ARROYO;Agente;bo_tienda_62303;;Tienda;Bolivia
+bo_tienda_70080;magneg@tigo.net.bo;S;GISELA MONICA;MAGNE CALLISAYA;Agente;bo_tienda_70080;;Tienda;Bolivia
+bo_tienda_72228;natuschr@tigo.net.bo;S;RODRIGO;NATUSCH AÑEZ;Agente;bo_tienda_72228;;Tienda;Bolivia
+bo_tienda_40588;guerreroa@tigo.net.bo;S;ADRIANA MELISSE;GUERRERO FLORES;Agente;bo_tienda_40588;;Tienda;Bolivia
+bo_tienda_72150;pardoi@tigo.net.bo;S;IGNACIO;PARDO ALTAMIRANO;Agente;bo_tienda_72150;;Tienda;Bolivia
+bo_tienda_60123;rodriguezdai@tigo.net.bo;S;DAIANA ELENA;RODRIGUEZ ROMERO;Agente;bo_tienda_60123;;Tienda;Bolivia
+bo_tienda_63363;sanchezra@tigo.net.bo;S;RAUL;SANCHEZ ESPINOZA;Agente;bo_tienda_63363;;Tienda;Bolivia
+bo_tienda_57339;cabrale@tigo.net.bo;S;ERICK;CABRAL MALDONADO;Agente;bo_tienda_57339;;Tienda;Bolivia
+bo_tienda_52263;canidoro@tigo.net.bo;S;ROMULO FERNANDO;CANIDO PEÑA;Agente;bo_tienda_52263;;Tienda;Bolivia
+bo_tienda_39373;castilloca@tigo.net.bo;S;CARLA;CASTILLO SUAREZ;Agente;bo_tienda_39373;;Tienda;Bolivia
+bo_tienda_64813;thainea@tigo.net.bo;S;THAINE UZCATEGUI;ANDREINA CATAÑINA;Agente;bo_tienda_64813;;Tienda;Bolivia
+bo_tienda_71892;terrazasand@tigo.net.bo;S;TERRAZAS LEYTON;ANDREA ALEJANDRA;Agente;bo_tienda_71892;;Tienda;Bolivia
+bo_tienda_71838;belmontec@tigo.net.bo;S;CLAUDIA ALEJANDRA;BELMONTE BECERRA;Agente;bo_tienda_71838;;Tienda;Bolivia
+bo_tienda_60541;riverad@tigo.net.bo;S;DANIEL HUASCAR;RIVERA CUEVAS;Agente;bo_tienda_60541;;Tienda;Bolivia
+bo_tienda_71417;vegavc@tigo.net.bo;S;VALERIA CAROLINA;VEGA BLANCO;Agente;bo_tienda_71417;;Tienda;Bolivia
+bo_tienda_68697;quirogami@tigo.net.bo;S;MICAELA CELMI;QUIROGA PARI;Agente;bo_tienda_68697;;Tienda;Bolivia
+bo_tienda_71425;rosaleska@tigo.net.bo;S;KAREN;ROSALES VILLARROEL;Agente;bo_tienda_71425;;Tienda;Bolivia
+bo_tienda_71424;camachojos@tigo.net.bo;S;JOSE;CAMACHO ARIAS;Agente;bo_tienda_71424;;Tienda;Bolivia
+bo_tienda_48743;gonzalesjos@tigo.net.bo;S;JOSE ANTONIO;GONZALES SEVERICH;Agente;bo_tienda_48743;;Tienda;Bolivia
+bo_tienda_55437;mamanisa@tigo.net.bo;S;SANDRA;MAMANI MACHACA;Agente;bo_tienda_55437;;Tienda;Bolivia
+bo_tienda_59210;limachim@tigo.net.bo;S;MARIA MERCEDES;LIMACHI MAMANI;Agente;bo_tienda_59210;;Tienda;Bolivia
+bo_tienda_49904;beyumar@tigo.net.bo;S;RAFAEL ARTURO;BEYUMA CHAO;Agente;bo_tienda_49904;;Tienda;Bolivia
+bo_tienda_59891;cespedesc@tigo.net.bo;S;CLAUDIA ROSEMARIE;CESPEDES VACA;Agente;bo_tienda_59891;;Tienda;Bolivia
+bo_tienda_57164;estradaan@tigo.net.bo;S;ANDREA MELINA;ESTRADA DAVILA;Agente;bo_tienda_57164;;Tienda;Bolivia
+bo_tienda_57346;delgadillojos@tigo.net.bo;S;JOSE ERNESTO;DELGADILLO MELGAR;Agente;bo_tienda_57346;;Tienda;Bolivia
+bo_tienda_66093;suarezpd@tigo.net.bo;S;PAULA DANIELA;SUAREZ GUTIERREZ;Agente;bo_tienda_66093;;Tienda;Bolivia
+bo_tienda_50499;bernalje@tigo.net.bo;S;JESSICA;BERNAL VILLAGOMEZ;Agente;bo_tienda_50499;;Tienda;Bolivia
+bo_tienda_56259;guzmansh@tigo.net.bo;S;SHIRLEY KARLA;GUZMAN CESPEDES;Agente;bo_tienda_56259;;Tienda;Bolivia
+bo_tienda_12438;gallardop@tigo.net.bo;S;PURA PAOLA;GALLARDO BORJA;Agente;bo_tienda_12438;;Tienda;Bolivia
+bo_tienda_gerente_26488;montanol@tigo.net.bo;S;LUIS FERNANDO;MONTAÑO VALDIVIA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_27819;suarezs@tigo.net.bo;S;SISSY SELENE;SUAREZ STEER;Agente;bo_tienda_27819;;Tienda;Bolivia
+bo_tienda_33060;landivarrm@tigo.net.bo;S;RITA MARY;LANDIVAR SARAVIA;Agente;bo_tienda_33060;;Tienda;Bolivia
+bo_tienda_37022;villagrag@tigo.net.bo;S;GERALDINY ;VILLAGRA PESSOA;Agente;bo_tienda_37022;;Tienda;Bolivia
+bo_tienda_37353;rocafr@tigo.net.bo;S;FREDDY FELICIANO;ROCA VACA;Agente;bo_tienda_37353;;Tienda;Bolivia
+bo_tienda_37908;esquivels@tigo.net.bo;S;SICILIA KATHERIN;ESQUIVEL VACA;Agente;bo_tienda_37908;;Tienda;Bolivia
+bo_tienda_38427;ojopiy@tigo.net.bo;S;YASCARA ;OJOPI ARTEAGA;Agente;bo_tienda_38427;;Tienda;Bolivia
+bo_tienda_38582;perezwa@tigo.net.bo;S;WALTER MARCELO;PEREZ PALENQUE;Agente;bo_tienda_38582;;Tienda;Bolivia
+bo_tienda_38590;zuritaxi@tigo.net.bo;S;XIMENA ANDREA;ZURITA LARA;Agente;bo_tienda_38590;;Tienda;Bolivia
+bo_tienda_38602;veral@tigo.net.bo;S;LUIS FERNANDO;VERA REYNOLDS;Agente;bo_tienda_38602;;Tienda;Bolivia
+bo_tienda_38642;pabonj@tigo.net.bo;S;JUAN EDUARDO;PABON GARCIA;Agente;bo_tienda_38642;;Tienda;Bolivia
+bo_tienda_38685;reyesm@tigo.net.bo;S;MAURICIO ;REYES SUAREZ;Agente;bo_tienda_38685;;Tienda;Bolivia
+bo_tienda_38968;lopezca@tigo.net.bo;S;CARLOS VICENTE;LOPEZ CASTRO;Agente;bo_tienda_38968;;Tienda;Bolivia
+bo_tienda_39036;aldunatec@tigo.net.bo;S;CLAUDIA ALEJANDRA;ALDUNATE ROCHA;Agente;bo_tienda_39036;;Tienda;Bolivia
+bo_tienda_39174;villarroell@tigo.net.bo;S;LIZBEDT ;VILLARROEL DELGADILLO;Agente;bo_tienda_39174;;Tienda;Bolivia
+bo_tienda_39246;pintoe@tigo.net.bo;S;ESTEFANIA ;PINTO HURTADO;Agente;bo_tienda_39246;;Tienda;Bolivia
+bo_tienda_39305;villagomezm@tigo.net.bo;S;MARIA CRISTINA;VILLAGOMEZ COPE;Agente;bo_tienda_39305;;Tienda;Bolivia
+bo_tienda_39321;justinianoca@tigo.net.bo;S;CARLOS ANDRES;JUSTINIANO MANSILLA;Agente;bo_tienda_39321;;Tienda;Bolivia
+bo_tienda_39400;surubine@tigo.net.bo;S;NELSON JAVIER;SURUBI YAIBONA;Agente;bo_tienda_39400;;Tienda;Bolivia
+bo_tienda_39882;litl@tigo.net.bo;S;LUIS FERNANDO;LIT GODOY;Agente;bo_tienda_39882;;Tienda;Bolivia
+bo_tienda_39941;paradaos@tigo.net.bo;S;OSCAR MARIO;PARADA VACA;Agente;bo_tienda_39941;;Tienda;Bolivia
+bo_tienda_39945;justinianoeri@tigo.net.bo;S;ERICK DONALD;JUSTINIANO SALAZAR;Agente;bo_tienda_39945;;Tienda;Bolivia
+bo_tienda_39982;martinezro@tigo.net.bo;S;ROSARIO ;MARTINEZ ALVIS;Agente;bo_tienda_39982;;Tienda;Bolivia
+bo_tienda_40003;alib@tigo.net.bo;S;BRYAN SEBASTIAN;. ALI;Agente;bo_tienda_40003;;Tienda;Bolivia
+bo_tienda_40024;pazp@tigo.net.bo;S;PABLO ENRRIQUE;PAZ CHAVEZ;Agente;bo_tienda_40024;;Tienda;Bolivia
+bo_tienda_40106;gutierrezsi@tigo.net.bo;S;SILVIA CARINA;GUTIERREZ LAURA;Agente;bo_tienda_40106;;Tienda;Bolivia
+bo_tienda_40116;castanosc@tigo.net.bo;S;CARLOS MIGUEL;CASTAÑOS ESPINOZA;Agente;bo_tienda_40116;;Tienda;Bolivia
+bo_tienda_40180;revillar@tigo.net.bo;S;ROSSIBEL NEDEIKA;REVILLA CHALCO;Agente;bo_tienda_40180;;Tienda;Bolivia
+bo_tienda_40184;claderac@tigo.net.bo;S;CLAUDIA CECILIA;CLADERA TEJERINA;Agente;bo_tienda_40184;;Tienda;Bolivia
+bo_tienda_40199;cuevasn@tigo.net.bo;S;NANCY ABIGAIL;CUEVAS QUISPE;Agente;bo_tienda_40199;;Tienda;Bolivia
+bo_tienda_40207;delafuentec@tigo.net.bo;S;CRISTALE;DE LA FUENTE ITURRI;Agente;bo_tienda_40207;;Tienda;Bolivia
+bo_tienda_40235;gomezm@tigo.net.bo;S;MARCO MARCELO;GOMEZ VARGAS;Agente;bo_tienda_40235;;Tienda;Bolivia
+bo_tienda_40334;soriaj@tigo.net.bo;S;JOSEPH ALEXANDER;SORIA VARGAS;Agente;bo_tienda_40334;;Tienda;Bolivia
+bo_tienda_40433;baresm@tigo.net.bo;S;MAURICIO JAVIER;BARES AYALA;Agente;bo_tienda_40433;;Tienda;Bolivia
+bo_tienda_40436;bautistam@tigo.net.bo;S;MARIANA ELY;BAUTISTA ZARCO;Agente;bo_tienda_40436;;Tienda;Bolivia
+bo_tienda_40470;giraldezf@tigo.net.bo;S;FRANK WILLIAM;GIRALDEZ YUGAR;Agente;bo_tienda_40470;;Tienda;Bolivia
+bo_tienda_40543;garciax@tigo.net.bo;S;XIMENA ROXANA;GARCIA BELTRAN;Agente;bo_tienda_40543;;Tienda;Bolivia
+bo_tienda_40590;camad@tigo.net.bo;S;DINA SONIA;CAMA CONDORI;Agente;bo_tienda_40590;;Tienda;Bolivia
+bo_tienda_40598;cruzme@tigo.net.bo;S;MERCEDES ;CRUZ RUEDA;Agente;bo_tienda_40598;;Tienda;Bolivia
+bo_tienda_40792;rossolu@tigo.net.bo;S;LUIS FERNANDO;ROSSO CARDENAS;Agente;bo_tienda_40792;;Tienda;Bolivia
+bo_tienda_41271;anteloce@tigo.net.bo;S;CECILIA BEATRIZ;ANTELO CADENCIA;Agente;bo_tienda_41271;;Tienda;Bolivia
+bo_tienda_41321;cuestasj@tigo.net.bo;S;JUAN JESUS;CUESTAS FUENTES;Agente;bo_tienda_41321;;Tienda;Bolivia
+bo_tienda_45011;cespedesb@tigo.net.bo;S;BRENDA ANDREA;CESPEDES PAZ;Agente;bo_tienda_45011;;Tienda;Bolivia
+bo_tienda_45017;moronr@tigo.net.bo;S;RAMIRO ;MORON BURGOS;Agente;bo_tienda_45017;;Tienda;Bolivia
+bo_tienda_45036;surcoe@tigo.net.bo;S;EDUARDO ;SURCO CABEZAS;Agente;bo_tienda_45036;;Tienda;Bolivia
+bo_tienda_45042;justinianoke@tigo.net.bo;S;KEVIN PAUL;JUSTINIANO MERCADO;Agente;bo_tienda_45042;;Tienda;Bolivia
+bo_tienda_45135;melgard@tigo.net.bo;S;DAVID FELIPE;MELGAR SEVERICHE;Agente;bo_tienda_45135;;Tienda;Bolivia
+bo_tienda_45144;vargasf@tigo.net.bo;S;FABIO RODRIGO;VARGAS DIAZ;Agente;bo_tienda_45144;;Tienda;Bolivia
+bo_tienda_45182;pradoj@tigo.net.bo;S;JAKELINE ;PRADO ARAMAYO;Agente;bo_tienda_45182;;Tienda;Bolivia
+bo_tienda_45828;cabezasj@tigo.net.bo;S;JHONNY SANDRO;CABEZAS RODRIGUEZ;Agente;bo_tienda_45828;;Tienda;Bolivia
+bo_tienda_45831;justinianojor@tigo.net.bo;S;JORGE ;JUSTINIANO SENSEVE;Agente;bo_tienda_45831;;Tienda;Bolivia
+bo_tienda_45927;bravol@tigo.net.bo;S;LENNY ;BRAVO HINOJOSA;Agente;bo_tienda_45927;;Tienda;Bolivia
+bo_tienda_46124;jimenezed@tigo.net.bo;S;EDUARDO ANTONIO;JIMENEZ SOLIZ;Agente;bo_tienda_46124;;Tienda;Bolivia
+bo_tienda_46365;salinasv@tigo.net.bo;S;VERONICA ALEJANDRA;SALINAS BUENO;Agente;bo_tienda_46365;;Tienda;Bolivia
+bo_tienda_46372;rocas@tigo.net.bo;S;SARA MARIANA;MENDEZ ROCA KOVACEVIC;Agente;bo_tienda_46372;;Tienda;Bolivia
+bo_tienda_46441;uchei@tigo.net.bo;S;ISABEL ;UCHE ESCOBAR;Agente;bo_tienda_46441;;Tienda;Bolivia
+bo_tienda_46561;ninaro@tigo.net.bo;S;ROMINA ;NINA MERIDA;Agente;bo_tienda_46561;;Tienda;Bolivia
+bo_tienda_46987;leanose@tigo.net.bo;S;EDDY CARLOS;LEAÑOS MAYER;Agente;bo_tienda_46987;;Tienda;Bolivia
+bo_tienda_47166;paniaguama@tigo.net.bo;S;MARIA ELIDA;PANIAGUA AGUILERA;Agente;bo_tienda_47166;;Tienda;Bolivia
+bo_tienda_47169;cardenasca@tigo.net.bo;S;CARLA ROXANA;CARDENAS CORIA;Agente;bo_tienda_47169;;Tienda;Bolivia
+bo_tienda_47181;velasquezs@tigo.net.bo;S;SILVANA MARIEL;VELASQUEZ OLVEA;Agente;bo_tienda_47181;;Tienda;Bolivia
+bo_tienda_47463;escobarj@tigo.net.bo;S;JUAN CARLOS;ESCOBAR CHUVIRU;Agente;bo_tienda_47463;;Tienda;Bolivia
+bo_tienda_47549;ruedab@tigo.net.bo;S;BEATRIZ YOLANDA;RUEDA ARTEAGA;Agente;bo_tienda_47549;;Tienda;Bolivia
+bo_tienda_47550;salazarle@tigo.net.bo;S;LEONARDO ;SALAZAR VELASCO;Agente;bo_tienda_47550;;Tienda;Bolivia
+bo_tienda_47607;acarapig@tigo.net.bo;S;GALO ERNESTO;ACARAPI MAQUERA;Agente;bo_tienda_47607;;Tienda;Bolivia
+bo_tienda_47613;gutierrezmar@tigo.net.bo;S;MARIA LOURDES IRENE;GUTIERREZ MALLEA;Agente;bo_tienda_47613;;Tienda;Bolivia
+bo_tienda_47614;lagunal@tigo.net.bo;S;LUIS ;LAGUNA ULLOA;Agente;bo_tienda_47614;;Tienda;Bolivia
+bo_tienda_47620;quispejo@tigo.net.bo;S;JOSE ANTONIO;QUISPE HUANCA;Agente;bo_tienda_47620;;Tienda;Bolivia
+bo_tienda_47625;zuritac@tigo.net.bo;S;CRISTOPHER MARCELO;ZURITA SANCHEZ;Agente;bo_tienda_47625;;Tienda;Bolivia
+bo_tienda_47679;lazartem@tigo.net.bo;S;MIRNA ALICIA;LAZARTE GUZMAN;Agente;bo_tienda_47679;;Tienda;Bolivia
+bo_tienda_47681;lopezs@tigo.net.bo;S;SULEYKA ROSA;LOPEZ SANCHEZ;Agente;bo_tienda_47681;;Tienda;Bolivia
+bo_tienda_47689;zabalagav@tigo.net.bo;S;VIVIANA ;ZABALAGA ABUD;Agente;bo_tienda_47689;;Tienda;Bolivia
+bo_tienda_47830;balderasr@tigo.net.bo;S;RAUL ENRIQUE;BALDERAS VALDA;Agente;bo_tienda_47830;;Tienda;Bolivia
+bo_tienda_48040;condorima@tigo.net.bo;S;MARIA TERESA;CONDORI MENDOZA;Agente;bo_tienda_48040;;Tienda;Bolivia
+bo_tienda_48407;carballoa@tigo.net.bo;S;ADALID ;CARBALLO BARJA;Agente;bo_tienda_48407;;Tienda;Bolivia
+bo_tienda_48636;contrerased@tigo.net.bo;S;EDY ;CONTRERAS QUISBERT;Agente;bo_tienda_48636;;Tienda;Bolivia
+bo_tienda_48673;gonzalesma@tigo.net.bo;S;MAURICIO MARTIN;GONZALES AGUILAR;Agente;bo_tienda_48673;;Tienda;Bolivia
+bo_tienda_48741;anezma@tigo.net.bo;S;MAURICIO ALEJANDRO;AÑEZ SUAREZ;Agente;bo_tienda_48741;;Tienda;Bolivia
+bo_tienda_48773;candias@tigo.net.bo;S;SILVIA ;CANDIA LANDIVAR;Agente;bo_tienda_48773;;Tienda;Bolivia
+bo_tienda_48833;sotola@tigo.net.bo;S;LAURA ANDREA;SOTO ROMERO;Agente;bo_tienda_48833;;Tienda;Bolivia
+bo_tienda_48897;ruizde@tigo.net.bo;S;DEVORA ARGENTINA;RUIZ ZABALA;Agente;bo_tienda_48897;;Tienda;Bolivia
+bo_tienda_48898;monasterioh@tigo.net.bo;S;HUGO ;MONASTERIO VIRUEZ;Agente;bo_tienda_48898;;Tienda;Bolivia
+bo_tienda_48928;taboadap@tigo.net.bo;S;PAOLA ESTEFANY;TABOADA AYAVIRI;Agente;bo_tienda_48928;;Tienda;Bolivia
+bo_tienda_48941;mitaa@tigo.net.bo;S;ANA ISABEL;MITA CALDERON;Agente;bo_tienda_48941;;Tienda;Bolivia
+bo_tienda_49117;vacaos@tigo.net.bo;S;OSCAR ERWIN;VACA ORTIZ;Agente;bo_tienda_49117;;Tienda;Bolivia
+bo_tienda_49138;mariscalv@tigo.net.bo;S;VIRNA HELEN;MARISCAL VACAFLORES;Agente;bo_tienda_49138;;Tienda;Bolivia
+bo_tienda_49296;richardss@tigo.net.bo;S;SERGIO ALFREDO;RICHARDS ARAUZ;Agente;bo_tienda_49296;;Tienda;Bolivia
+bo_tienda_49369;fernandezgl@tigo.net.bo;S;GLAUCO RODRIGO;FERNANDEZ VARGAS;Agente;bo_tienda_49369;;Tienda;Bolivia
+bo_tienda_49372;chavarriag@tigo.net.bo;S;GLEYVI MELINA;CHAVARRIA LAZARTE;Agente;bo_tienda_49372;;Tienda;Bolivia
+bo_tienda_49396;zuritak@tigo.net.bo;S;KATIA ALEJANDRA;ZURITA ORELLANA;Agente;bo_tienda_49396;;Tienda;Bolivia
+bo_tienda_49406;vincentia@tigo.net.bo;S;VELA ALBERTO;VINCENTI NUÑEZ;Agente;bo_tienda_49406;;Tienda;Bolivia
+bo_tienda_49527;rodamq@tigo.net.bo;S;MANOLO QUINTIN;RADA CLAURE;Agente;bo_tienda_49527;;Tienda;Bolivia
+bo_tienda_49574;jaldinh@tigo.net.bo;S;HAROLD ALEX;JALDIN GUEVARA;Agente;bo_tienda_49574;;Tienda;Bolivia
+bo_tienda_49706;rocapa@tigo.net.bo;S;PABLO JAVIER;ROCA RIVERO;Agente;bo_tienda_49706;;Tienda;Bolivia
+bo_tienda_49720;vegaa@tigo.net.bo;S;LUIS ALVARO;VEGA GARCIA;Agente;bo_tienda_49720;;Tienda;Bolivia
+bo_tienda_49721;olmosg@tigo.net.bo;S;GREBY GERARDO;OLMOS TORRICO;Agente;bo_tienda_49721;;Tienda;Bolivia
+bo_tienda_49723;escobarkat@tigo.net.bo;S;KATHIA EMILENE;ESCOBAR TORRICO;Agente;bo_tienda_49723;;Tienda;Bolivia
+bo_tienda_49724;vargascr@tigo.net.bo;S;CRISTIAN JUNIOR;VARGAS OSINAGA;Agente;bo_tienda_49724;;Tienda;Bolivia
+bo_tienda_49843;mamaniar@tigo.net.bo;S;ARIEL FRANZ;MAMANI PEREZ;Agente;bo_tienda_49843;;Tienda;Bolivia
+bo_tienda_49849;floresju@tigo.net.bo;S;JUAN CARLOS;FLORES ZEBALLOS;Agente;bo_tienda_49849;;Tienda;Bolivia
+bo_tienda_49982;antelop@tigo.net.bo;S;PAULO CESAR;ANTELO JUSTINIANO;Agente;bo_tienda_49982;;Tienda;Bolivia
+bo_tienda_50139;semperteguid@tigo.net.bo;S;DIMAR RAMIRO;SEMPERTEGUI SANABRIA;Agente;bo_tienda_50139;;Tienda;Bolivia
+bo_tienda_50233;ariasa@tigo.net.bo;S;ALEJANDRA MICHEL;ARIAS BURGOA;Agente;bo_tienda_50233;;Tienda;Bolivia
+bo_tienda_50370;ledezmap@tigo.net.bo;S;PAMELA LINDA;LEDEZMA GARCIA;Agente;bo_tienda_50370;;Tienda;Bolivia
+bo_tienda_50375;delarivat@tigo.net.bo;S;TATIANA ANDREA;DE LA RIVA CHAVEZ;Agente;bo_tienda_50375;;Tienda;Bolivia
+bo_tienda_50464;argotac@tigo.net.bo;S;CARLOS ALEJANDRO;ARGOTA FERNANDEZ;Agente;bo_tienda_50464;;Tienda;Bolivia
+bo_tienda_50824;valdaa@tigo.net.bo;S;ANDREA BELEN;VALDA LEYTON;Agente;bo_tienda_50824;;Tienda;Bolivia
+bo_tienda_50986;ibaneza@tigo.net.bo;S;AQUINO ;IBAÑEZ CANDIA;Agente;bo_tienda_50986;;Tienda;Bolivia
+bo_tienda_51156;herreraf@tigo.net.bo;S;FABIOLA ;HERRERA MENDIA;Agente;bo_tienda_51156;;Tienda;Bolivia
+bo_tienda_51158;ormacheae@tigo.net.bo;S;EDITH GIOVANA;ORMACHEA GONGORA;Agente;bo_tienda_51158;;Tienda;Bolivia
+bo_tienda_51173;villarroelt@tigo.net.bo;S;TITO FRANZ;VILLARROEL QUIROGA;Agente;bo_tienda_51173;;Tienda;Bolivia
+bo_tienda_51321;olivaresk@tigo.net.bo;S;KENNY ;OLIVARES MAMANI;Agente;bo_tienda_51321;;Tienda;Bolivia
+bo_tienda_51365;patzir@tigo.net.bo;S;ROLANDO ;PATZI PAXI;Agente;bo_tienda_51365;;Tienda;Bolivia
+bo_tienda_51490;ortegai@tigo.net.bo;S;IMAR DARIO;ORTEGA MOLINA;Agente;bo_tienda_51490;;Tienda;Bolivia
+bo_tienda_51494;romeroye@tigo.net.bo;S;YEISE ;ROMERO ESPINOZA;Agente;bo_tienda_51494;;Tienda;Bolivia
+bo_tienda_51811;lazartea@tigo.net.bo;S;ANGELA PATRICIA;LAZARTE MONTAÑO;Agente;bo_tienda_51811;;Tienda;Bolivia
+bo_tienda_51960;francomi@tigo.net.bo;S;MIGUEL ANDRES;FRANCO ROSALES;Agente;bo_tienda_51960;;Tienda;Bolivia
+bo_tienda_51977;camachoj@tigo.net.bo;S;JHOSED ;CAMACHO MAREÑO;Agente;bo_tienda_51977;;Tienda;Bolivia
+bo_tienda_51986;echeverrian@tigo.net.bo;S;NATALIA ;ECHEVERRIA PARDO;Agente;bo_tienda_51986;;Tienda;Bolivia
+bo_tienda_52146;elhagejo@tigo.net.bo;S;JORGE STEVE;EL- HAGE SALDAÑA;Agente;bo_tienda_52146;;Tienda;Bolivia
+bo_tienda_52147;pazpa@tigo.net.bo;S;PAULA ANDREA;PAZ CUELLAR;Agente;bo_tienda_52147;;Tienda;Bolivia
+bo_tienda_gerente_52149;delgadillor@tigo.net.bo;S;RAISHA JHAMILA;DELGADILLO SALAME;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_52213;ponceg@tigo.net.bo;S;GABRIELA ANGELA;PONCE AVILEZ;Agente;bo_tienda_52213;;Tienda;Bolivia
+bo_tienda_52244;serratet@tigo.net.bo;S;TANIA ;SERRATE LIMPIAS;Agente;bo_tienda_52244;;Tienda;Bolivia
+bo_tienda_52978;lemusa@tigo.net.bo;S;ALEJANDRA ANDREA;LEMUS CALVO;Agente;bo_tienda_52978;;Tienda;Bolivia
+bo_tienda_53194;claurefa@tigo.net.bo;S;FABRIZIO ALEJANDRO;CLAURE GUZMAN;Agente;bo_tienda_53194;;Tienda;Bolivia
+bo_tienda_53212;munozcm@tigo.net.bo;S;CARLA MARIA;MUÑOZ NAJAR BISBAL;Agente;bo_tienda_53212;;Tienda;Bolivia
+bo_tienda_53367;moralesgu@tigo.net.bo;S;GUILLERMO ;MORALES CARRASCO;Agente;bo_tienda_53367;;Tienda;Bolivia
+bo_tienda_53527;dazaju@tigo.net.bo;S;JUAN CARLOS;DAZA MURGUIA;Agente;bo_tienda_53527;;Tienda;Bolivia
+bo_tienda_53751;pereiray@tigo.net.bo;S;YAMILETT JHOSELIN;PEREIRA MALLEA;Agente;bo_tienda_53751;;Tienda;Bolivia
+bo_tienda_53891;zabalaf@tigo.net.bo;S;FERNANDO ;ZABALA VACA;Agente;bo_tienda_53891;;Tienda;Bolivia
+bo_tienda_53972;hidalgov@tigo.net.bo;S;VANIA AYDEE;HIDALGO ZABALETA;Agente;bo_tienda_53972;;Tienda;Bolivia
+bo_tienda_54007;vargaspt@tigo.net.bo;S;PATRICIA ;VARGAS ROCA;Agente;bo_tienda_54007;;Tienda;Bolivia
+bo_tienda_54086;montecinosd@tigo.net.bo;S;DENIS MARIBEL;MONTECINOS CORONADO;Agente;bo_tienda_54086;;Tienda;Bolivia
+bo_tienda_54236;condov@tigo.net.bo;S;VICTOR ;CONDO TORRICO;Agente;bo_tienda_54236;;Tienda;Bolivia
+bo_tienda_54734;rejasf@tigo.net.bo;S;FABIOLA ;REJAS DAVILA;Agente;bo_tienda_54734;;Tienda;Bolivia
+bo_tienda_54806;santosg@tigo.net.bo;S;GUSTAVO ADOLFO;SANTOS CUELLAR;Agente;bo_tienda_54806;;Tienda;Bolivia
+bo_tienda_54808;nakashimak@tigo.net.bo;S;KATSUO ;NAKASHIMA VASQUEZ;Agente;bo_tienda_54808;;Tienda;Bolivia
+bo_tienda_55273;naviaj@tigo.net.bo;S;JOSELIN ALEXANDRA;NAVIA TORREZ;Agente;bo_tienda_55273;;Tienda;Bolivia
+bo_tienda_55396;rocay@tigo.net.bo;S;YINA ;ROCA CHOQUE;Agente;bo_tienda_55396;;Tienda;Bolivia
+bo_tienda_55721;arambulon@tigo.net.bo;S;NATALIA EDME;ARAMBULO RIOJA;Agente;bo_tienda_55721;;Tienda;Bolivia
+bo_tienda_55770;florr@tigo.net.bo;S;REGINA BRISA;FLOR RIOS;Agente;bo_tienda_55770;;Tienda;Bolivia
+bo_tienda_56536;straussf@tigo.net.bo;S;FABIANA PAOLA;STRAUSS GOMEZ;Agente;bo_tienda_56536;;Tienda;Bolivia
+bo_tienda_56955;viltez@tigo.net.bo;S;ZENAIDA ;VILTE SANCHEZ;Agente;bo_tienda_56955;;Tienda;Bolivia
+bo_tienda_57721;solizg@tigo.net.bo;S;GERARDO ;SOLIZ SAUCEDO;Agente;bo_tienda_57721;;Tienda;Bolivia
+bo_tienda_57823;laurae@tigo.net.bo;S;ERICKA CAROLINA;LAURA BELTRAN;Agente;bo_tienda_57823;;Tienda;Bolivia
+bo_tienda_58141;torreza@tigo.net.bo;S;ANA CAMILA;TORREZ UGARTE;Agente;bo_tienda_58141;;Tienda;Bolivia
+bo_tienda_58935;duranf@tigo.net.bo;S;FABIANA ;DURAN CRONENBOLD;Agente;bo_tienda_58935;;Tienda;Bolivia
+bo_tienda_59249;cortezr@tigo.net.bo;S;ROMINA DANIELA;CORTEZ GALARREGUI;Agente;bo_tienda_59249;;Tienda;Bolivia
+bo_tienda_59992;delcastilloj@tigo.net.bo;S;JOSE LUIS;DEL CASTILLO RODRIGO;Agente;bo_tienda_59992;;Tienda;Bolivia
+bo_tienda_59993;tapiam@tigo.net.bo;S;MARCO MIGUEL;TAPIA CHALLAPA;Agente;bo_tienda_59993;;Tienda;Bolivia
+bo_tienda_60118;gutierrezva@tigo.net.bo;S;VALERIA BELEN;GUTIERREZ REYES;Agente;bo_tienda_60118;;Tienda;Bolivia
+bo_tienda_60137;guzmanan@tigo.net.bo;S;ANDREA MARCELA;GUZMAN ROLDAN;Agente;bo_tienda_60137;;Tienda;Bolivia
+bo_tienda_60138;torricoo@tigo.net.bo;S;OSCAR DANIEL;TORRICO MERIDA;Agente;bo_tienda_60138;;Tienda;Bolivia
+bo_tienda_60345;crespodg@tigo.net.bo;S;DIEGO GONZALO;CRESPO BUSTAMANTE;Agente;bo_tienda_60345;;Tienda;Bolivia
+bo_tienda_60394;turderaf@tigo.net.bo;S;FABIANA ;TURDERA TOLEDO;Agente;bo_tienda_60394;;Tienda;Bolivia
+bo_tienda_60706;omontec@tigo.net.bo;S;CAMILA ANDREA;OMONTE MEDRANO;Agente;bo_tienda_60706;;Tienda;Bolivia
+bo_tienda_60734;salcesc@tigo.net.bo;S;CARLOS EDUARDO;SALCES MENDEZ;Agente;bo_tienda_60734;;Tienda;Bolivia
+bo_tienda_60735;nayarp@tigo.net.bo;S;PAULA ;NAYAR LEIGUE;Agente;bo_tienda_60735;;Tienda;Bolivia
+bo_tienda_60743;paredesi@tigo.net.bo;S;IVAN ANTONIO;PAREDES MUÑOZ;Agente;bo_tienda_60743;;Tienda;Bolivia
+bo_tienda_61133;villanuevad@tigo.net.bo;S;DIANA ;VILLANUEVA BOTELLO;Agente;bo_tienda_61133;;Tienda;Bolivia
+bo_tienda_62051;caviedesm@tigo.net.bo;S;MARIA RENE;CAVIEDES ARAMAYO;Agente;bo_tienda_62051;;Tienda;Bolivia
+bo_tienda_62319;taboadac@tigo.net.bo;S;CECILIA ;TABOADA SANJINEZ;Agente;bo_tienda_62319;;Tienda;Bolivia
+bo_tienda_62321;bellotag@tigo.net.bo;S;GABRIELA KAREN;BELLOTA AGUIRRE;Agente;bo_tienda_62321;;Tienda;Bolivia
+bo_tienda_62620;garciac@tigo.net.bo;S;CRISTOFER ;GARCIA RUIZ;Agente;bo_tienda_62620;;Tienda;Bolivia
+bo_tienda_62621;eguezmar@tigo.net.bo;S;MARCO ANTONIO;EGUEZ ESCALANTE;Agente;bo_tienda_62621;;Tienda;Bolivia
+bo_tienda_62622;morenofa@tigo.net.bo;S;FABIANA ;MORENO LEIGUE;Agente;bo_tienda_62622;;Tienda;Bolivia
+bo_tienda_62997;gonzalesjoa@tigo.net.bo;S;JOSE ALFREDO;GONZALEZ JIMENEZ;Agente;bo_tienda_62997;;Tienda;Bolivia
+bo_tienda_63330;ticonaa@tigo.net.bo;S;ALDRIN ;TICONA CHOQUE;Agente;bo_tienda_63330;;Tienda;Bolivia
+bo_tienda_63338;puenter@tigo.net.bo;S;RODRIGO ;PUENTE QUEREJAZU;Agente;bo_tienda_63338;;Tienda;Bolivia
+bo_tienda_63599;chavezmm@tigo.net.bo;S;MICHELL MAYRA;CHAVEZ LUNA;Agente;bo_tienda_63599;;Tienda;Bolivia
+bo_tienda_63989;floresfw@tigo.net.bo;S;FABIOLA WENDY;FLORES SANJINES;Agente;bo_tienda_63989;;Tienda;Bolivia
+bo_tienda_64003;alconr@tigo.net.bo;S;RAYZA ;ALCON MENDOZA;Agente;bo_tienda_64003;;Tienda;Bolivia
+bo_tienda_64142;merinol@tigo.net.bo;S;UGARTE LUKAS;MERINO DE;Agente;bo_tienda_64142;;Tienda;Bolivia
+bo_tienda_64235;martinezda@tigo.net.bo;S;DARIO SEBASTIAN;MARTINEZ FLORES;Agente;bo_tienda_64235;;Tienda;Bolivia
+bo_tienda_64236;canedop@tigo.net.bo;S;PABLO DAMIAN;CANEDO AÑEZ;Agente;bo_tienda_64236;;Tienda;Bolivia
+bo_tienda_64390;sepulvedar@tigo.net.bo;S;RENE GABRIEL;SEPULVEDA TARIFA;Agente;bo_tienda_64390;;Tienda;Bolivia
+bo_tienda_64629;molinajm@tigo.net.bo;S;JHONATAN MARCO;MOLINA ORTEGA;Agente;bo_tienda_64629;;Tienda;Bolivia
+bo_tienda_64630;quirogajm@tigo.net.bo;S;JORGE MIGUEL;QUIROGA PONCE;Agente;bo_tienda_64630;;Tienda;Bolivia
+bo_tienda_64631;ordonezs@tigo.net.bo;S;SCHEREZADE ;ORDOÑEZ TRIGO;Agente;bo_tienda_64631;;Tienda;Bolivia
+bo_tienda_64640;mercadofr@tigo.net.bo;S;FREDDY JUNIOR;MERCADO VELASCO;Agente;bo_tienda_64640;;Tienda;Bolivia
+bo_tienda_64801;saleka@tigo.net.bo;S;ANDREA GABRIELA;SALEK CASTILLO;Agente;bo_tienda_64801;;Tienda;Bolivia
+bo_tienda_65316;chavezd@tigo.net.bo;S;DANIEL ANDRES;CHAVEZ BETANCOURT;Agente;bo_tienda_65316;;Tienda;Bolivia
+bo_tienda_65454;loayzam@tigo.net.bo;S;MARIA ALEJANDRA;LOAYZA ONDARZA;Agente;bo_tienda_65454;;Tienda;Bolivia
+bo_tienda_65455;ugrinovca@tigo.net.bo;S;ALEJANDRA ;UGRINOVIC ARRUETA;Agente;bo_tienda_65455;;Tienda;Bolivia
+bo_tienda_65776;clavijom@tigo.net.bo;S;MAX CARLOS;CLAVIJO BRUN;Agente;bo_tienda_65776;;Tienda;Bolivia
+bo_tienda_66129;banegasml@tigo.net.bo;S;MARIA LAURA;BANEGAS VIERA;Agente;bo_tienda_66129;;Tienda;Bolivia
+bo_tienda_66232;quirogav@tigo.net.bo;S;VALERIA DANIELA;QUIROGA SUAREZ;Agente;bo_tienda_66232;;Tienda;Bolivia
+bo_tienda_66713;anteloer@tigo.net.bo;S;ERIKA FABIOLA;ANTELO GONZALES;Agente;bo_tienda_66713;;Tienda;Bolivia
+bo_tienda_66714;tercerosc@tigo.net.bo;S;CARLOS MAURICIO;TERCEROS ALEJO;Agente;bo_tienda_66714;;Tienda;Bolivia
+bo_tienda_66973;hoyosd@tigo.net.bo;S;DIANA CAROLINA;HOYOS FLORIAN;Agente;bo_tienda_66973;;Tienda;Bolivia
+bo_tienda_66974;moralesmar@tigo.net.bo;S;MARIEL ;MORALES MONTECINOS;Agente;bo_tienda_66974;;Tienda;Bolivia
+bo_tienda_68210;sejasjh@tigo.net.bo;S;JHAMIL ADRIAN;SEJAS PIZARRO;Agente;bo_tienda_68210;;Tienda;Bolivia
+bo_tienda_68211;llanosj@tigo.net.bo;S;JOSE ALEJANDRO;LLANOS ORELLANA;Agente;bo_tienda_68211;;Tienda;Bolivia
+bo_tienda_68369;maldonadoal@tigo.net.bo;S;ALEX ;MALDONADO CLAROS;Agente;bo_tienda_68369;;Tienda;Bolivia
+bo_tienda_68370;pradom@tigo.net.bo;S;MIRIAN FABIOLA;PRADO VARGAS;Agente;bo_tienda_68370;;Tienda;Bolivia
+bo_tienda_68371;limpiasg@tigo.net.bo;S;GUNTHER ;LIMPIAS ARDAYA;Agente;bo_tienda_68371;;Tienda;Bolivia
+bo_tienda_68550;echegarayr@tigo.net.bo;S;ROGELIO DANIEL;ECHEGARAY CABALLERO;Agente;bo_tienda_68550;;Tienda;Bolivia
+bo_tienda_54290;duranvic@tigo.net.bo;S;VICTOR ANDRES;DURAN PAZ;Agente;bo_tienda_54290;;Tienda;Bolivia
+bo_tienda_39906;escribanos@tigo.net.bo;S;SEBASTIAN EDUARDO;ESCRIBANO TEODOVICH;Agente;bo_tienda_39906;;Tienda;Bolivia
+bo_tienda_48839;garaya@tigo.net.bo;S;ANGEL NICOLAS;GARAY;Agente;bo_tienda_48839;;Tienda;Bolivia
+bo_tienda_68587;corderopa@tigo.net.bo;S;PAOLA ANDREA;CORDERO VIDANGOS;Agente;bo_tienda_68587;;Tienda;Bolivia
+bo_tienda_68694;averangaw@tigo.net.bo;S;WALDO;AVERANGA VELASQUEZ;Agente;bo_tienda_68694;;Tienda;Bolivia
+bo_tienda_68695;villegasb@tigo.net.bo;S;BISMARK RENAN;VILLEGAS GIRONDA;Agente;bo_tienda_68695;;Tienda;Bolivia
+bo_tienda_68696;yujram@tigo.net.bo;S;MIGUEL ANGEL;YUJRA ESPINOZA;Agente;bo_tienda_68696;;Tienda;Bolivia
+bo_tienda_gerente_11152;jordanr@tigo.net.bo;S;RENAN ALEX;JORDAN APONTE;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_12853;ramosr@tigo.net.bo;S;RAQUEL PAMELA;RAMOS LUNA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_27715;mirandaa@tigo.net.bo;S;ANITA ANDREA;MIRANDA TRIGO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_35922;veara@tigo.net.bo;S;RAUL EUGENIO;VEA ORTIZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_41227;suarezl@tigo.net.bo;S;LUIS FERNANDO;SUAREZ ORIAS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_45136;cuellarma@tigo.net.bo;S;MARCIA ALEJANDRA;CUELLAR AÑEZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_45347;yujraa@tigo.net.bo;S;ARTHUR IGNACIO;YUJRA APAZA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_45842;ibanezca@tigo.net.bo;S;CARLOS GUSTAVO;IBAÑEZ SOLIS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_48929;farelln@tigo.net.bo;S;NORWIN GUDDY;FARELL FARELL;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_49075;moralesh@tigo.net.bo;S;HARVEY ;MORALES PEÑA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_49194;vargascl@tigo.net.bo;S;CLAUDIA MARION;VARGAS CASTEDO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_49587;teranpg@tigo.net.bo;S;PAMELA GRACIELA;REQUE TERAN DE LA VEGA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_1062;cespedesk@tigo.net.bo;S;KARLA ALEJANDRA;CESPEDES BUSTAMANTE;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_12619;pelaeza@tigo.net.bo;S;MARIO ALFREDO;PELAEZ ARANA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_13164;valdiviav@tigo.net.bo;S;CLAUDIA VERONICA;VALDIVIA URIA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_13165;riverov@tigo.net.bo;S;VANINA VERONA;RIVERO SERRANO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_14591;suarezk@tigo.net.bo;S;KAREN BLANCA;SUAREZ QUEVEDO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_14697;salasm@tigo.net.bo;S;MONICA JIMENA;SALAS PERALTA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_14901;aguilerar@tigo.net.bo;S;ROMY ;AGUILERA QUIROGA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_15753;aguirrem@tigo.net.bo;S;MIRIAN CECILIA;AGUIRRE SANCHEZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_16302;alcobak@tigo.net.bo;S;KAREM GRETSEL;ALCOBA CAREAGA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_19732;serratem@tigo.net.bo;S;MARSHA CECILIA;SERRATE COLAMARINO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_22811;castellons@tigo.net.bo;S;SALLY KAREN;CASTELLON ROJAS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_31401;apariciop@tigo.net.bo;S;PABLO JAVIER;APARICIO ROJAS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_31750;escobarr@tigo.net.bo;S;RONALD REMBERTO;ESCOBAR VARGAS;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_32601;alcocerse@tigo.net.bo;S;SERGIO GABRIEL;ALCOCER LANZA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_33747;paradac@tigo.net.bo;S;CARLOS EDUARDO;PARADA JUSTINIANO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_34204;viscarrao@tigo.net.bo;S;OSCAR FRANCISCO;VISCARRA NACIF;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_34364;rodriguezlk@tigo.net.bo;S;LILIANA KARIN;RODRIGUEZ ARAMAYO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_36906;leiguef@tigo.net.bo;S;FERNANDO ;LEIGUE GONZALES;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_39037;fuscoa@tigo.net.bo;S;ALVARO DANIEL;FUSCO CHACON;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_39708;barbeitom@tigo.net.bo;S;MARUSHKA LARISSA;BARBEITO SAENZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_40573;darwicha@tigo.net.bo;S;ANDREA;DARWICH VIDAL;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_41278;naviaw@tigo.net.bo;S;WENDY;NAVIA;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_45820;saumam@tigo.net.bo;S;MARIA ALEJANDRA;SAUMA LEON;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_47976;quelcac@tigo.net.bo;S;CARLOS GROVER;QUELCA CHOQUE;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_48668;medinada@tigo.net.bo;S;DANIELA ;MEDINA BENOIT;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_51809;encinasal@tigo.net.bo;S;ALVARO;ENCINAS FERNANDEZ;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_55399;subietap@tigo.net.bo;S;PABLO JOSE;SUBIETA SILES;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_580;arcea@tigo.net.bo;S;JAVIER ALEJANDRO;ARCE OBANDO;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia
+bo_tienda_gerente_8081;urquidig@tigo.net.bo;S;GISSELLY;URQUIDI DONALDSON;Gerente;bo_tienda_id_1|bo_tienda_id_7|bo_tienda_id_10|bo_tienda_id_11|bo_tienda_id_12|bo_tienda_id_13|bo_tienda_id_14|bo_tienda_id_15|bo_tienda_id_16|bo_tienda_id_17|bo_tienda_id_18|bo_tienda_id_19|bo_tienda_id_20|bo_tienda_id_21|bo_tienda_id_22|bo_tienda_id_24|bo_tienda_id_25|bo_tienda_id_26|bo_tienda_id_27|bo_tienda_id_28|bo_tienda_id_29|bo_tienda_id_31|bo_tienda_id_32|bo_tienda_id_33|bo_tienda_id_34|bo_tienda_id_35|bo_tienda_id_4|bo_tienda_id_5|bo_tienda_id_6|bo_tienda_id_8|bo_tienda_id_9|bo_tienda_id_36|bo_tienda_id_37|bo_tienda_id_38;;Tienda;Bolivia

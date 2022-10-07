@@ -1,0 +1,64 @@
+ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO;ACCESO_2;ACCESO_CANAL;ACCESO_PAIS
+bo_fs_tec_mendezol;mendezol@tigo.net.bo;S;OLKER ALIEK ARTURO;MENDEZ RIVERA;Tecnico;bo_fs_tec_mendezol;;Field Services;Bolivia
+bo_fs_tec_huancama;huancama@tigo.net.bo;S;MIGUEL ANGEL;HUANCA CONDE;Tecnico;bo_fs_tec_huancama;;Field Services;Bolivia
+bo_fs_tec_callaw;callaw@tigo.net.bo;S;WILMER;CALLA RAMOS;Tecnico;bo_fs_tec_callaw;;Field Services;Bolivia
+bo_fs_tec_jimenezom;jimenezom@tigo.net.bo;S;OMAR ANGEL;JIMENEZ CLAROS;Tecnico;bo_fs_tec_jimenezom;;Field Services;Bolivia
+bo_fs_tec_yanezj;yanezj@tigo.net.bo;S;JUAN GUIDO;YAÑEZ RIVAS;Tecnico;bo_fs_tec_yanezj;;Field Services;Bolivia
+bo_fs_tec_quenallataja;quenallataja@tigo.net.bo;S;JOSE ALBERTO;QUENALLATA FLORES;Tecnico;bo_fs_tec_quenallataja;;Field Services;Bolivia
+bo_fs_tec_vargasjoa;vargasjoa@tigo.net.bo;S;JOSE ALVARO;VARGAS TICONA;Tecnico;bo_fs_tec_vargasjoa;;Field Services;Bolivia
+bo_fs_tec_gomezi;gomezi@tigo.net.bo;S;IVAN;GOMEZ CHOQUE;Tecnico;bo_fs_tec_gomezi;;Field Services;Bolivia
+bo_fs_sup_murillohp;murillohp@tigo.net.bo;S;HUBERT PAUL;SEMPERTEGUI MONTES;Supervisor;bo_fs_sup_murillohp;;Field Services;Bolivia
+bo_fs_sup_paniquema;paniquema@tigo.net.bo;S;MIGUEL ANGEL;PANIQUE CHOQUE;Supervisor;bo_fs_sup_paniquema;;Field Services;Bolivia
+bo_fs_sup_burgoap;burgoap@tigo.net.bo;S;PABLO SOCRATES;BURGOA CLAURE;Supervisor;bo_fs_sup_burgoap;;Field Services;Bolivia
+bo_fs_sup_canoe;canoe@tigo.net.bo;S;EDGAR;CANO ZAMBRANA;Supervisor;bo_fs_sup_canoe;;Field Services;Bolivia
+bo_fs_sup_mamaniang;mamaniang@tigo.net.bo;S;ANGEL;MAMANI ARTEAGA;Supervisor;bo_fs_sup_mamaniang;;Field Services;Bolivia
+bo_fs_sup_oliverajc;oliverajc@tigo.net.bo;S;JUAN CARLOS;OLIVERA CHAMBILLA;Supervisor;bo_fs_sup_oliverajc;;Field Services;Bolivia
+bo_fs_sup_rodriguezjoh;rodriguezjoh@tigo.net.bo;S;JOHNY;RODRIGUEZ ALMANZA;Supervisor;bo_fs_sup_rodriguezjoh;;Field Services;Bolivia
+bo_fs_sup_rodriguezgon;rodriguezgon@tigo.net.bo;S;GONZALO;RODRIGUEZ SALAZAR;Supervisor;bo_fs_sup_rodriguezgon;;Field Services;Bolivia
+bo_fs_sup_sirpaf;sirpaf@tigo.net.bo;S;FACUNDO PRIMITIVO;SIRPA OSCORI;Supervisor;bo_fs_sup_sirpaf;;Field Services;Bolivia
+bo_fs_sup_vacaem;vacaem@tigo.net.bo;S;EMICK ALEXEY;VACA ALVAREZ;Supervisor;bo_fs_sup_vacaem;;Field Services;Bolivia
+bo_fs_sup_erazoa;erazoa@tigo.net.bo;S;ERAZO BURGOS;ALVARO MARCIO;Supervisor;bo_fs_sup_erazoa;;Field Services;Bolivia
+bo_fs_sup_cortezda;cortezda@tigo.net.bo;S;DAVID;CORTEZ CONDARCO;Supervisor;bo_fs_sup_cortezda;;Field Services;Bolivia
+bo_fs_sup_quispeja;quispeja@tigo.net.bo;S;JAIME;QUISPE RIVERA;Supervisor;bo_fs_sup_quispeja;;Field Services;Bolivia
+bo_fs_sup_sainzr;sainzr@tigo.net.bo;S;RAMIRO;SAINZ BONIFAZ;Supervisor;bo_fs_sup_sainzr;;Field Services;Bolivia
+bo_fs_sup_benitom;benitom@tigo.net.bo;S;MARCELO SEBASTIAN;BENITO ORTIZ;Supervisor;bo_fs_sup_benitom;;Field Services;Bolivia
+bo_fs_sup_cachibanym;cachibanym@tigo.net.bo;S;Magno Adolfo;Cachibany Suarez;Supervisor;bo_fs_sup_cachibanym;;Field Services;Bolivia
+bo_fs_sup_condoria;condoria@tigo.net.bo;S;Ariel Raul;Condori Paricagua;Supervisor;bo_fs_sup_condoria;;Field Services;Bolivia
+bo_fs_sup_delgadilloge;delgadilloge@tigo.net.bo;S;Gerardo Delgadillo;Delgadillo Morales;Supervisor;bo_fs_sup_delgadilloge;;Field Services;Bolivia
+bo_fs_sup_garciajo;garciajo@tigo.net.bo;S;Jorge;Garcia Rodas;Supervisor;bo_fs_sup_garciajo;;Field Services;Bolivia
+bo_fs_sup_gilesm;gilesm@tigo.net.bo;S;Mauricio;Giles;Supervisor;bo_fs_sup_gilesm;;Field Services;Bolivia
+bo_fs_sup_gutierrezya;gutierrezya@tigo.net.bo;S;Yamil;Gutierrez Rojas;Supervisor;bo_fs_sup_gutierrezya;;Field Services;Bolivia
+bo_fs_sup_linor;linor@tigo.net.bo;S;Rafael Valentin ;Lino Bracamonte;Supervisor;bo_fs_sup_linor;;Field Services;Bolivia
+bo_fs_sup_menesesga;menesesga@tigo.net.bo;S;Gabriel;Meneses Sosa;Supervisor;bo_fs_sup_menesesga;;Field Services;Bolivia
+bo_fs_sup_menesesd;menesesd@tigo.net.bo;S;Daniel;Meneses Miranda;Supervisor;bo_fs_sup_menesesd;;Field Services;Bolivia
+bo_fs_sup_mendezd;mendezd@tigo.net.bo;S;Diego Carlos;Mendez Lopez;Supervisor;bo_fs_sup_mendezd;;Field Services;Bolivia
+bo_fs_sup_monterog;monterog@tigo.net.bo;S;Guillermo;Montero Ribera;Supervisor;bo_fs_sup_monterog;;Field Services;Bolivia
+bo_fs_sup_romanv;romanv@tigo.net.bo;S;Victor Hugo;Roman Mendez;Supervisor;bo_fs_sup_romanv;;Field Services;Bolivia
+bo_fs_sup_salvatierrab;salvatierrab@tigo.net.bo;S;Bernardo;Salvatierra Antelo;Supervisor;bo_fs_sup_salvatierrab;;Field Services;Bolivia
+bo_fs_sup_silvag;silvag@tigo.net.bo;S;German Armando;Silva Novoa;Supervisor;bo_fs_sup_silvag;;Field Services;Bolivia
+bo_fs_sup_vargasmal;vargasmal@tigo.net.bo;S;Miguel Alejandro;Vargas Farell;Supervisor;bo_fs_sup_vargasmal;;Field Services;Bolivia
+bo_fs_sup_verajo;verajo@tigo.net.bo;S;Jose Yonatan;Vera Gutierrez;Supervisor;bo_fs_sup_verajo;;Field Services;Bolivia
+bo_fs_sup_tarquinor;tarquinor@tigo.net.bo;S;RAUL;TARQUINO CALLE;Supervisor;bo_fs_sup_tarquinor;;Field Services;Bolivia
+bo_fs_sup_huancari;huancari@tigo.net.bo;S;RICARDO TEOFILI;HUANCA TICONA;Supervisor;bo_fs_sup_huancari;;Field Services;Bolivia
+bo_fs_sup_quisbertfr;quisbertfr@tigo.net.bo;S;FREDDY;QUISBERT CONDORI;Supervisor;bo_fs_sup_quisbertfr;;Field Services;Bolivia
+bo_fs_sup_floresjca;floresjca@tigo.net.bo;S;JUAN CARLOS;FLORES CALLE;Supervisor;bo_fs_sup_floresjca;;Field Services;Bolivia
+bo_fs_sup_murilloal;murilloal@tigo.net.bo;S;ALEX SANDRO;MURILLO ESCALERA;Supervisor;bo_fs_sup_murilloal;;Field Services;Bolivia
+bo_fs_sup_callisayas;callisayas@tigo.net.bo;S;SANTOS ARSENIO;CALLISAYA CONDORI;Supervisor;bo_fs_sup_callisayas;;Field Services;Bolivia
+bo_fs_sup_limachis;limachis@tigo.net.bo;S;SAMUEL;LIMACHI LOPEZ;Supervisor;bo_fs_sup_limachis;;Field Services;Bolivia
+bo_fs_sup_canaviriw;canaviriw@tigo.net.bo;S;WILFREDO;CANAVIRI CONDORI;Supervisor;bo_fs_sup_canaviriw;;Field Services;Bolivia
+bo_fs_sup_soriajf;soriajf@tigo.net.bo;S;JOSE FELIX;SORIA RODRIGUEZ;Supervisor;bo_fs_sup_soriajf;;Field Services;Bolivia
+bo_fs_sup_quisped;quisped@tigo.net.bo;S;DELFIN GREGORIO;QUISPE TARQUI;Supervisor;bo_fs_sup_quisped;;Field Services;Bolivia
+bo_fs_sup_castillomi;castillomi@tigo.net.bo;S;MIGUEL ANGEL;CASTILLO CUELLAR;Supervisor;bo_fs_sup_castillomi;;Field Services;Bolivia
+bo_fs_sup_mendozas;mendozas@tigo.net.bo;S;SAUL RODOLFO;MENDOZA LAZARTE;Supervisor;bo_fs_sup_mendozas;;Field Services;Bolivia
+bo_fs_sup_castror;castror@tigo.net.bo;S;ROBERTO CARLOS;CASTRO SULLCA;Supervisor;bo_fs_sup_castror;;Field Services;Bolivia
+bo_fs_sup_acunal;acunal@tigo.net.bo;S;LEHI;ACUÑA CARMONA;Supervisor;bo_fs_sup_acunal;;Field Services;Bolivia
+bo_fs_sup_caguap;caguap@tigo.net.bo;S;PEDRO GONZALO;CAGUA VACA;Supervisor;bo_fs_sup_caguap;;Field Services;Bolivia
+bo_fs_sup_sanchezal;sanchezal@tigo.net.bo;N;ALEX;SANCHEZ VARGAS;Supervisor;bo_fs_sup_sanchezal;;Field Services;Bolivia
+bo_fs_sup_rodriguezjp;rodriguezjp@tigo.net.bo;S;JUAN PABLO;RODRIGUEZ ARROYO;Supervisor;bo_fs_sup_rodriguezjp;;Field Services;Bolivia
+bo_fs_sup_sosap;sosap@tigo.net.bo;S;PAOLA;SOSA TOLEDO;Supervisor;bo_fs_sup_sosap;;Field Services;Bolivia
+bo_fs_sup_monterow;monterow@tigo.net.bo;N;WALFRED;MONTERO VACA;Supervisor;bo_fs_sup_monterow;;Field Services;Bolivia
+bo_fs_sup_huallpax;huallpax@tigo.net.bo;S;XIMENA;HUALLPA FUERTES;Supervisor;bo_fs_sup_huallpax;;Field Services;Bolivia
+bo_fs_sup_farfanw;farfanw@tigo.net.bo;S;WILLAN YASMANI;FARFAN BAUTISTA;Supervisor;bo_fs_sup_farfan;;Field Services;Bolivia
+bo_fs_tec_mamaniham;mamaniham@tigo.net.bo;S;HAMEL EDWIN;MAMANI GASPAR;Técnico;bo_fs_tec_mamaniham;;Field Services;Bolivia
+bo_fs_sup_caballerog;caballerog@tigo.net.bo;S;GABRIEL;CABALLERO BANEGAS;Supervisor;bo_fs_sup_caballerog;;Field Services;Bolivia
+bo_fs_sup_antezanama;antezanama@tigo.net.bo;S;MARIELA VANESSA;ANTEZANA CHAVARE;Supervisor;bo_fs_sup_antezanama;;Field Services;Bolivia

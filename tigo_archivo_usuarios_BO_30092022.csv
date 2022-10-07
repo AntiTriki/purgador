@@ -1,0 +1,361 @@
+﻿ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO_CANAL;ACCESO_PAIS
+bo_picoe;picoe@tigo.net.bo;S;EUSTAQUIO ENRIQUE;PICO ANAYA;Mercado;Todos;Bolivia
+bo_taboadapa;taboadapa@tigo.net.bo;S;PAOLA ANDREA;TABOADA SANJINES;Mercado;Todos;Bolivia
+bo_villarroelro;villarroelro@tigo.net.bo;S;ROSE MARIE ELENA;VILLARROEL BALDERRAMA;Mercado;Todos;Bolivia
+bo_romerok;romerok@tigo.net.bo;S;KEVIN FABRICIO;ROMERO RAMOS;Mercado;Todos;Bolivia
+bo_morenof;morenof@tigo.net.bo;S;FABIOLA;MORENO ORTIZ;Mercado;Todos;Bolivia
+bo_floresgo;floresgo@tigo.net.bo;S;GONZALO;FLORES ALTAMIRANO;Mercado;Todos;Bolivia
+bo_garridod;garridod@tigo.net.bo;S;DIEGO RASHID;GARRIDO HAYES;Mercado;Todos;Bolivia
+bo_saenze;saenze@tigo.net.bo;S;CHRISTIAN EDUARDO AD;SAENZ CORTEZ;Mercado;Todos;Bolivia
+bo_banegasjo;banegasjo@tigo.net.bo;S;JORGE ALEJANDRO;BANEGAS CAMACHO;Mercado;Todos;Bolivia
+bo_guzmanf;guzmanf@tigo.net.bo;S;FRANCISCO JAVIER;GUZMAN ITURRA;Mercado;Todos;Bolivia
+bo_harnespa;harnespa@tigo.net.bo;S;PAMELA;CLAVIJO VELASCO D;Mercado;Todos;Bolivia
+bo_pazjm;pazjm@tigo.net.bo;S;JORGE MARIO;PAZ GALVIZ;Mercado;Todos;Bolivia
+bo_quespim;quespim@tigo.net.bo;S;MARILYN;QUESPI VIDAL;Mercado;Todos;Bolivia
+bo_delgadilloj;delgadilloj@tigo.net.bo;S;JHOMY IVAN;DELGADILLO FERNANDEZ;Mercado;Todos;Bolivia
+bo_clavijodi;clavijodi@tigo.net.bo;S;DIEGO DANIEL;CLAVIJO VELASCO;Mercado;Todos;Bolivia
+bo_floresca;floresca@tigo.net.bo;S;CARLOS ALEJANDRO;FLORES GONZALES;Mercado;Todos;Bolivia
+bo_garciaci;garciaci@tigo.net.bo;S;CIRO MARCELO;GARCIA OSINAGA;Mercado;Todos;Bolivia
+bo_francoj;francoj@tigo.net.bo;S;JOSE MARIA;FRANCO CABRERA;Mercado;Todos;Bolivia
+bo_castrok;castrok@tigo.net.bo;S;KEVIN SEBASTIAN;CASTRO PAYARES;Mercado;Todos;Bolivia
+bo_villegasma;villegasma@tigo.net.bo;S;MANUEL ALEJANDRO;VILLEGAS CUBA;Mercado;Todos;Bolivia
+bo_balderaslc;balderaslc@tigo.net.bo;S;LUIS CLAUDIO;BALDERAS ALANES;Mercado;Todos;Bolivia
+bo_heredias;heredias@tigo.net.bo;S;SINDY FERNANDA;HEREDIA ANTEQUERA;Mercado;Todos;Bolivia
+bo_jimenezo;jimenezo@tigo.net.bo;S;OSCAR ANGEL;JIMENEZ PEREDO;Mercado;Todos;Bolivia
+bo_oquendoe;oquendoe@tigo.net.bo;S;EDISON DAVID;OQUENDO VARGAS;Mercado;Digital;Bolivia
+bo_tobona;tobona@tigo.net.bo;S;ANA MARIA;TOBON CHALARCA;Mercado;Digital;Bolivia
+bo_pinedaju;pinedaju@tigo.net.bo;S;JUAN ESTEBAN;PINEDA RAMIREZ;Mercado;Todos;Bolivia
+bo_molinada;molinada@tigo.net.bo;S;DANIELA;MOLINA ARIAS;Mercado;Todos;Bolivia
+bo_duartey;duartey@tigo.net.bo;S;YURLEIDY;DUARTE GONZALEZ;Mercado;Todos;Bolivia
+bo_arenasd;arenasd@tigo.net.bo;S;DUVAN ALEJANDRO;ARENAS RICO;Mercado;Todos;Bolivia
+bo_gomezra;gomezra@tigo.net.bo;S;RAY STEVEN;GOMEZ OSSA;Mercado;Todos;Bolivia
+bo_mancoe;mancoe@tigo.net.bo;S;ESTEFANIA;MANCO SANCHEZ;Mercado ;Todos;Bolivia
+bo_giraldom;giraldom@tigo.net.bo;S;MARIA JOSE;GIRALDO PINEDA;Mercado ;Todos;Bolivia
+bo_sanchezluz;sanchezluz@tigo.net.bo;S;LUZ ADRIANA;SANCHEZ VARGAS;Mercado ;Todos;Bolivia
+bo_vanegasv;vanegasv@tigo.net.bo;S;NESA;VANEGAS URÁN V;Mercado ;Todos;Bolivia
+bo_amelinesl;amelinesl@tigo.net.bo;S;LISA MARIA;AMELINES SERNA;Mercado ;Todos;Bolivia
+bo_vargasis;vargasis@tigo.net.bo;S; ISABEL CRISTINA;GIRALDO PINEDA;Mercado ;Todos;Bolivia
+bo_loperas;loperas@tigo.net.bo;S;SANTIAGO;LOPERA VASQUEZ;Mercado ;Todos;Bolivia
+bo_puertai;puertai@tigo.net.bo;S;ISABEL CRISTINA;PUERTA MONTOYA;Mercado ;Todos;Bolivia
+bo_diazb;diazb@tigo.net.bo;S;BALENTINA;DIAZ CARO;Mercado ;Todos;Bolivia
+bo_quinteroj;quinteroj@tigo.net.bo;S;JENNIFER;QUINTERO GARCIA;Mercado ;Todos;Bolivia
+bo_duarteye;duarteye@tigo.net.bo;S;YOHAN ESTEBAN;DUARTE RESTREPO;Mercado ;Todos;Bolivia
+bo_francomar;francomar@tigo.net.bo;S;MARCELA;FRANCO OCHOA;Mercado ;Todos;Bolivia
+bo_morenole;morenole@tigo.net.bo;S;LEIDY MARCELA;MORENO LONDONO;Mercado ;Todos;Bolivia
+bo_restreposan;restreposan@tigo.net.bo;S;SANTIAGO ANDRES;RESTREPO HERNANDEZ;Mercado ;Todos;Bolivia
+bo_jurados;jurados@tigo.net.bo;S;SIMON;JURADO GARCIA;Mercado ;Todos;Bolivia
+bo_londonocr;londonocr@tigo.net.bo;S;CRISTIAN CAMILO;LONDONO RUIZ;Mercado ;Todos;Bolivia
+bo_cardonalu;cardonalu@tigo.net.bo;S;LUISA FERNANDA;CARDONA PANIAGUA;Mercado ;Todos;Bolivia
+bo_rodasju;rodasju@tigo.net.bo;S;JULIAN ALBERTO;RODAS VINASCO;Mercado ;Todos;Bolivia
+bo_hincapiedu;hincapiedu@tigo.net.bo;S;DUMAR SAMIR;HINCAPIE GIL;Mercado ;Todos;Bolivia
+bo_gutierrezan;gutierrezan@tigo.net.bo;S;ANDRES MATEO;GUTIERREZ CORTES;Mercado ;Todos;Bolivia
+bo_diazse;diazse@tigo.net.bo;S;SEBASTIAN DANILO;DIAZ DIAZ;Mercado;Digital;Bolivia
+bo_rodasju;rodasju@tigo.net.bo;S;JULIAN ALBERTO;RODAS VINASCO;Mercado;Digital;Bolivia
+bo_cardonalu;cardonalu@tigo.net.bo;S;LUISA FERNANDA;CARDONA PANIAGUA;Mercado;Digital;Bolivia
+bo_franckd;franckd@tigo.net.bo;S;DIANA;FRANCK SUAREZ;Mercado;Todos;Bolivia
+bo_balcazarj;balcazarj@tigo.net.bo;S;JOAQUIN SILVESTRE;BALCAZAR BANEGAS;Mercado;Todos;Bolivia
+bo_espanar;espanar@tigo.net.bo;S;ROMMY DOMINIC;ESPANA ARGOTE;Mercado;Todos;Bolivia
+bo_justinianoro;justinianoro@tigo.net.bo;S;ROSSLAINE;JUSTINIANO SUMOYA;Mercado;Todos;Bolivia
+bo_salmonc;salmonc@tigo.net.bo;S;CARLOS HUGO;SALMON VACA;Mercado;Todos;Bolivia
+bo_toledon;toledon@tigo.net.bo;S;NORMA;TOLEDO ROSADO;Mercado;Todos;Bolivia
+bo_zeballosl;zeballosl@tigo.net.bo;S;LUIS CARLOS;ZEBALLOS CESPEDES;Mercado;Todos;Bolivia
+bo_Herreray;herreray@tigo.net.bo;S;YOCIMAR;HERRERA VACA;Mercado ;Todos;Bolivia
+bo_serranoc;serranoc@tigo.net.bo;S;CLAUDIA ISABEL;SERRANO SALVATIERRA;Mercado ;Todos;Bolivia
+bo_loram;loram@tigo.net.bo;S;MARCO ANTONIO;LORA CEJA;Mercado;Uso Fijo|Field Services;Bolivia
+bo_achad;achad@tigo.net.bo;S;DAYSI;ACHA FLORES;Mercado;Uso Fijo|Field Services;Bolivia
+bo_mariscalal;mariscalal@tigo.net.bo;S;ALVARO RAMIRO;MARISCAL ZURITA ;Mercado;Uso Fijo|Field Services;Bolivia
+bo_maldonadoca;maldonadoca@tigo.net.bo;S;CARLA MERCEDE;MALDONADO TORREZ;Mercado;Uso Fijo|Field Services;Bolivia
+bo_pradoe;pradoe@tigo.net.bo;S;ELSA YOLANDA;PRADO DELGADO;Mercado;Todos;Bolivia
+bo_heredias;heredias@tigo.net.bo;S;SINDY FERNANDA;HEREDIA ANTEQUERA;Mercado;Todos;Bolivia
+bo_penae;penae@tigo.net.bo;S;EDGAR BRUNO;PENA PATINO;Mercado;Todos;Bolivia
+bo_zabalaj;zabalaj@tigo.net.bo;S; JORGE JHOEL;ZABALA ALMARA;Mercado;Todos;Bolivia
+bo_riberama;riberama@tigo.net.bo;S;MARIANA;RIBERA HERRERA;Mercado;Todos;Bolivia
+bo_cardonacr;cardonacr@tigo.net.bo;S;ARLA ROCIO;CARDONA LOPEZ;Mercado;Todos;Bolivia
+bo_ramirezdu;ramirezdu@tigo.net.bo;S;DUVAN DARIO;RAMIREZ ARANGO;Mercado;Digital;Bolivia
+bo_quintanillamar;quintanillamar@tigo.net.bo;S;MARIA CONSTANZA;QUINTANILLA SILVA;Mercado;Todos;Bolivia
+bo_morenomi;morenomi@tigo.net.bo;S; MILENA MONSERRAT;MORENO IGLESIA;Mercado;Todos;Bolivia
+bo_vidaly;vidaly@tigo.net.bo;S;ANINA ARAMI;VIDAL CORONEL;Mercado ;Todos;Bolivia
+bo_cabrald;cabrald@tigo.net.bo;S;ANDRES;CABRAL  DANIEL;Mercado ;Todos;Bolivia
+bo_liendol;liendol@tigo.net.bo;S;LUIS FERNANDO;LIENDO ARGANDONA;Mercado;Todos;Bolivia
+bo_delgadoan;delgadoan@tigo.net.bo;S;AURORA ELIANA;FERNANDEZ ARGANDONA;Mercado;MFS;Bolivia
+bo_gomezz;gomezz@tigo.net.bo;S;ZUNILDA;GOMEZ CHAVEZ;Mercado ;Todos;Bolivia
+bo_giraldov;giraldov@tigo.net.bo;S;VANESSA ISABEL;GIRALDO RANGEL;Mercado;Todos;Bolivia
+bo_jimenezo;jimenezo@tigo.net.bo;S;Oscar;Jimenez;Mercado;Todos;Bolivia
+bo_ortizlu;ortizlu@tigo.net.bo;N;Luisa Fernanda;Ortiz Muñoz;Mercado;Todos;Bolivia
+bo_delgadoan;delgadoan@tigo.net.bo;S;ANDREA CECILIA;DELGADO ARRÚA;Mercado;Todos;Bolivia
+bo_villalbav;villalbav@tigo.net.bo;S;VERONICA ELIZ;VILLALBA DE ZARZA;Mercado;Todos;Bolivia
+bo_camachoel;camachoel@tigo.net.bo;S;ELVIS JESUS;CAMACHO QUINTANA;Mercado;Todos;Bolivia
+bo_patzim;patzim@tigo.net.bo;S;MARY JEANETTE;PATZI VILLARROEL;Mercado;Todos;Bolivia
+bo_quirogad;quirogad@tigo.net.bo;S;DOMINIQUE MILAGROS;QUIROGA DE CHAZAL;Mercado;Todos;Bolivia
+bo_lopezmi;lopezmi@tigo.net.bo;S;Milena Allice;Lopez Arancibia;Mercado;Uso Fijo|Field Services;Bolivia
+bo_ortizro;ortizro@tigo.net.bo;S;ROBERTO;ORTI;Mercado;Todos;Bolivia
+bo_ramirezda;ramirezda@tigo.net.bo;S;DANIEL ORLANDO;RAMIREZ INSFRAN;Mercado;Todos;Bolivia
+bo_rodriguezser;rodriguezser@tigo.net.bo;S;SERGIO ODILIO;RODRIGUEZ CABALLERO;Mercado;Todos;Bolivia
+bo_salernog;salernog@tigo.net.bo;S;GUIDO RENATO;SALERNO NAVARRO;Mercado;Todos;Bolivia
+bo_escalantep;escalantep@tigo.net.bo;S;PERCY FROILAN;ESCALANTE MARCA;Mercado;Todos;Bolivia
+bo_pulgarinj;pulgarinj@tigo.net.bo;S;JOHANA ANDRA;PULGARIN GALLEGO;Mercado;Digital;Bolivia
+bo_canoc;canoc@tigo.net.bo;S;CRISTIAN CAMILO;CANO SUAREZ;Mercado;Digital;Bolivia
+bo_tomannc;tomannc@tigo.net.bo;S;CRISTHIAN ALEJANDRO;TOMANN LARGO;Mercado;Digital;Bolivia
+bo_martinezc;martinezc@tigo.net.bo;S;CATALINA;MARTINEZ VANEGAS;Mercado;Digital;Bolivia
+bo_ruizpau;ruizpau@tigo.net.bo;S;PAULA ANDREA;RUIZ VILLEGAS;Mercado;Digital;Bolivia
+bo_ortizand;ortizand@tigo.net.bo;S;ANDRES FELIPE;ORTIZ MARIN;Mercado;Digital;Bolivia
+bo_londonocr;londonocr@tigo.net.bo;S;CRISTIAN CAMILO;LONDONO RUIZ;Mercado;Digital;Bolivia
+bo_cossioa;cossioa@tigo.net.bo;S;ANTJE KATIE;COSSIO BORDA;Mercado;Todos;Bolivia
+bo_rojasca;rojasca@tigo.net.bo;S;CAROL SELIM;ROJAS HERRERA;Mercado;Todos;Bolivia
+bo_zentenog;zentenog@tigo.net.bo;S;GONZALO;ZENTENO LOPEZ;Mercado;Todos;Bolivia
+bo_reyesjo;reyesjo@tigo.net.bo;S;JONNATAN STEVEN;REYES PEREZ;Mercado;Digital;Bolivia
+bo_fernandezm;fernandezm@tigo.net.bo;S;MARIO JUNIOR;FERNANDEZ VARGAS;Mercado;Uso Fijo|Field Services;Bolivia
+bo_alcaraza;alcaraza@tigo.net.bo;S;ALAN EZEQUIEL;ALCARAZ AGUILAR;Mercado;Todos;Bolivia
+bo_rollanos;rollanos@tigo.net.bo;S;SILVIA;ROLLANO CASANOVA;Mercado;Digital;Bolivia
+bo_andersenj;andersenj@tigo.net.bo;S;JOHN PETER;ANDERSEN MENDOZA;Mercado;Todos;Bolivia
+bo_patinoj;patinoj@tigo.net.bo;S;JENNY MAITE;PATINO SEVERICH;Mercado;Todos;Bolivia
+bo_gutierrezalp;gutierrezalp@tigo.net.bo;S;ALVARO PABLO;GUTIERREZ AYLLON;Mercado;Todos;Bolivia
+bo_sanchezju;sanchezju@tigo.net.bo;S;JUAN PABLO;SANCHEZ ORSINI;Mercado;Todos;Bolivia
+bo_orqueraa;orqueraa@tigo.net.bo;S;BLANCA ALICIA;ORQUERA RIBRA;Mercado;Todos;Bolivia
+bo_rojasjorg;rojasjorg@tigo.net.bo;S;JORGE;ROJAS RUIZ;Mercado;Todos;Bolivia
+bo_lampee;lampee@tigo.net.bo;S;ERICKA;LAMPE PORRAS;Mercado;Todos;Bolivia
+bo_melguizoe;melguizoe@tigo.net.bo;S;ESTEFANIA;MELGUIZO LOAIZA;Mercado;Todos;Bolivia
+bo_ramirezjose;ramirezjose@tigo.net.bo;S;JOSE MIGUEL;RAMIREZ MORALES;Mercado;Todos;Bolivia
+bo_saldarriagal;saldarriagal@tigo.net.bo;S;LAURA;SALDARRIAGA MEJIA;Mercado;Todos;Bolivia
+bo_escobarju;escobarju@tigo.net.bo;S;JUAN DIEGO;ESCOBAR MOLINA;Mercado;Todos;Bolivia
+bo_anayag;anayag@tigo.net.bo;S;GABRIELA;ANAYA GIORGIS;Mercado;Todos;Bolivia
+bo_perrogonc;perrogonc@tigo.net.bo;S;CARLA FAVIOLA;PERROGON BELLO;Mercado;Todos;Bolivia
+bo_espinozaro;espinozaro@tigo.net.bo;S;ROGER RENE;ESPINOZA MORALES;Mercado;Todos;Bolivia
+bo_ordonezji;ordonezji@tigo.net.bo;S;JIMENA CARLA;ORDOÑEZ FLORES;Mercado;Todos;Bolivia
+bo_ledezmajo;ledezmajo@tigo.net.bo;S;JOSE LUIS;LEDEZMA RIVERO;Mercado;Todos;Bolivia
+bo_ortizga;ortizga@tigo.net.bo;S;Gabriela;Ortiz Aguilera;Mercado;Todos;Bolivia
+bo_quisper;quisper@tigo.net.bo;S;Rocio Melania;Quispe Mamani;Mercado;Todos;Bolivia
+bo_floresy;floresy@tigo.net.bo;S;Yanet;Flores Sejas;Mercado;Todos;Bolivia
+bo_castrora;castrora@tigo.net.bo;S;RAQUEL MICAELA;CASTRO DEL POZO;Mercado;Todos;Bolivia
+bo_alvarezs;alvarezs@tigo.net.bo;S;SAUL ALEJANDRO;ALVAREZ CABEZAS;Mercado;Todos;Bolivia
+bo_porroc;porroc@tigo.net.bo;S;CAROLINA;PORRO SAAVEDRA;Mercado;Todos;Bolivia
+bo_ojopido;ojopido@tigo.net.bo;S;DOUGLAS EDUARDO;OJOPI TEDIN;Mercado;Todos;Bolivia
+bo_sandovalf;sandovalf@tigo.net.bo;S;FABIAN MAURICIO;SANDOVAL MIER;Mercado;Todos;Bolivia
+bo_bascopem;bascopem@tigo.net.bo;S;MARCELA IVANA;BASCOPE CRIALES;Mercado;Todos;Bolivia
+bo_alvaradov;alvaradov@tigo.net.bo;S;VALERIA VANNESA;ALVARADO BURGOS;Mercado;Todos;Bolivia
+bo_vasquezp;vasquezp@tigo.net.bo;S;CLAUDIA PAMELA;VASQUEZ VELASQUEZ;Mercado;Todos;Bolivia
+bo_vasquezmar;vasquezmar@tigo.net.bo;S;EDGAR MARCELO;VASQUEZ MICHEL;Mercado;Todos;Bolivia
+bo_verae;verae@tigo.net.bo;S;EDGAR;VERA ABAN;Mercado;Todos;Bolivia
+bo_uslarm;uslarm@tigo.net.bo;S;MARIA ESTER;USLAR BURGOS;Mercado;Todos;Bolivia
+bo_stehlic;stehlic@tigo.net.bo;S;CARLA GISELE;STEHLI PARADA;Mercado;Todos;Bolivia
+bo_chavezs;chavezs@tigo.net.bo;S;Shamira Sdenka;Chavez Begaso;Mercado;Todos;Bolivia
+bo_anezpe;anezpe@tigo.net.bo;S;PERCY;AÑEZ CASTEDO;Mercado;Digital;Bolivia
+bo_terrazasca;terrazasca@tigo.net.bo;S;CAMILA FERNANDA;TERRAZAS PEREZ;Mercado;Digital;Bolivia
+bo_loperas;loperas@tigo.net.bo;S;SANTIAGO;LOPERA VASQUEZ;Mercado;Digital;Bolivia
+bo_vargasis;vargasis@tigo.net.bo;S;ISABEL CRISTINA;VARGAS GRACIANO;Mercado;eCare;Bolivia
+bo_lopezi;lopezi@tigo.net.bo;S;MARTHA ISABEL;LOPEZ ARISMENDY;Mercado;Digital;Bolivia
+bo_puertai;puertai@tigo.net.bo;S;ISABEL CRISTINA;PUERTA MONTOYA;Mercado;Digital;Bolivia
+bo_diazb;diazb@tigo.net.bo;S;CARO BALENTINA;DIAZ;Mercado;Digital;Bolivia
+bo_vanegasv;vanegasv@tigo.net.bo;S;VANESA;VANEGAS URAN;Mercado;Digital;Bolivia
+bo_romanmar;romanmar@tigo.net.bo;S;MARIA VICTORIA;ROMAN MUÑOZ;Mercado;Digital;Bolivia
+bo_ramirezi;ramirezi@tigo.net.bo;S;ISABELLA;RAMIREZ SALDARRIAGA;Mercado;Digital;Bolivia
+bo_monasterioa;monasterioa@tigo.net.bo;S;ANDRES FEDERICO;MONASTERIO MEJIA;Mercado;Todos;Bolivia
+bo_lorbergm;lorbergm@tigo.net.bo;S;MARLEN AUGUSTA;LORBERG LIJERON;Mercado;Todos;Bolivia
+bo_navarroda;navarroda@tigo.net.bo;S;DAMIAN;NAVARRO SAEZ;Mercado;B2C;Bolivia
+bo_rojasjd;rojasjd@tigo.net.bo;S;Juan David;Rojas Arias;Mercado;eCare;Bolivia
+bo_gilrh;gilrh@tigo.net.bo;S;Rodrigo Hernan;Gil Gomez;Mercado;eCare;Bolivia
+bo_cossioa;cossioa@tigo.net.bo;S;Antje Katie;Cossio Borda;Mercado;Todos;Bolivia
+bo_betancurd;betancurd@tigo.net.bo;S;Diana Veronica;Betancur Marin;Mercado;eCare;Bolivia
+bo_alvarezye;alvarezye@tigo.net.bo;S;Yenny Patricia;Alvarez Gutierrez;Mercado;eCare;Bolivia
+bo_davidh;davidh@tigo.net.bo;S;Harold Alberto;David Ceballos;Mercado;eCare;Bolivia
+bo_gomezra;gomezra@tigo.net.bo;S;Ray Steven;Gomez Ossa;Mercado;eCare;Bolivia
+bo_mancoe;mancoe@tigo.net.bo;S;Estefania;Manco Sanchez;Mercado;eCare;Bolivia
+bo_linoz;linoz@tigo.net.bo;S;Zobeida;Lino Rodriguez;Mercado;Todos;Bolivia
+bo_arenasd;arenasd@tigo.net.bo;S;Duvan Alejadro;Arenas Rico;Mercado;Todos;Bolivia
+bo_duartey;duartey@tigo.net.bo;S;Yurleidy;Duarte Gonzalez;Mercado;Todos;Bolivia
+bo_ruizo;ruizo@tigo.net.bo;S;Oscar Alberto;Ruiz;Mercado;Todos;Bolivia
+bo_mejiajo;mejiajo@tigo.net.bo;S;Jorge Adolfo;Mejia Giraldo;Mercado;Todos;Bolivia
+bo_avendanoo;avendanoo@tigo.net.bo;S;Oscar Andres;Avendaño Sepulveda;Mercado;Todos;Bolivia
+bo_fuentesca;fuentesca@tigo.net.bo;S;Carlos Andres;Fuentes Betancur;Mercado;Todos;Bolivia
+bo_alvarezjca;alvarezjca@tigo.net.bo;N;Juan Camilo;Alvarez Garcia;Mercado;Todos;Bolivia
+bo_montoyaca;montoyaca@tigo.net.bo;S;Camilo;Montoya Galvis;Mercado;Todos;Bolivia
+bo_montoyajo;montoyajo@tigo.net.bo;S;Johnathan Andres;Montoya Noreña;Mercado;Todos;Bolivia
+bo_tobonm;tobonm@tigo.net.bo;S;Miguel Angel;Tobon Sanchez;Mercado;Todos;Bolivia
+bo_ortizel;ortizel@tigo.net.bo;S;Eliana;Ortiz Marin;Mercado;Todos;Bolivia
+bo_vanegasl;vanegasl@tigo.net.bo;S;Linda Dayana;Vanegas Villa;Mercado;Todos;Bolivia
+bo_burgosj;burgosj@tigo.net.bo;S;Juan Jose;Burgos Soto;Mercado;Todos;Bolivia
+bo_romana;romana@tigo.net.bo;S;Andres Elias;Roman Zapata;Mercado;Todos;Bolivia
+bo_ramirezale;ramirezale@tigo.net.bo;S;Alejandro;Ramirez Abello;Mercado;Todos;Bolivia
+bo_jimenezdan;jimenezdan@tigo.net.bo;S;Daniela;Jimenez Hernandez;Mercado;Todos;Bolivia
+bo_loaizaj;loaizaj@tigo.net.bo;N;Juan Jose;Loaiza Madrid;Mercado;Todos;Bolivia
+bo_torresang;torresang@tigo.net.bo;S;Angie Vanessa;Torres Garzon;Mercado;Todos;Bolivia
+bo_catanom;catanom@tigo.net.bo;S;Michele Alejandra;Cataño Loaiza;Mercado;Todos;Bolivia
+bo_yarcev;yarcev@tigo.net.bo;S;Valery;Yarce Londoño;Mercado;Todos;Bolivia
+bo_gonzalezy;gonzalezy@tigo.net.bo;S;Yuris Lizzeth;Gonzalez Calderon;Mercado;Todos;Bolivia
+bo_vasquezka;vasquezka@tigo.net.bo;S;Karina;Vasquez Alvarez;Mercado;Todos;Bolivia
+bo_punchiluped;punchiluped@tigo.net.bo;S;Daniel Armando;Punchilupe Ruiz;Mercado;Todos;Bolivia
+bo_aristizabalc;aristizabalc@tigo.net.bo;S;Cristian Esteban;Aristizabal Cuervo;Mercado;Todos;Bolivia
+bo_rojascaro;rojascaro@tigo.net.bo;S;Carolina;Rojas Valderrama;Mercado;Todos;Bolivia
+bo_tobona;tobona@tigo.net.bo;S;Ana Maria;Tobon Chalarca;Mercado;Todos;Bolivia
+bo_pinedaju;pinedaju@tigo.net.bo;S;Juan Esteban;Pineda Ramirez;Mercado;Todos;Bolivia
+bo_molinada;molinada@tigo.net.bo;S;DANIELA;MOLINA;Mercado;Todos;Bolivia
+bo_monteroj;monteroj@tigo.net.bo;S;Juan Pablo;Montero Suarez;Mercado;Todos;Bolivia
+bo_martinj;martinj@tigo.net.bo;S;Jhon Robert;Martin Olivares;Mercado;B2C;Bolivia
+bo_vacakd;vacakd@tigo.net.bo;S;Karla Deniss;Vaca Soliz;Mercado;B2C;Bolivia
+bo_lopezfa;lopezfa@tigo.net.bo;S;Fabiola;Lopez Suarez;Mercado;B2C;Bolivia
+bo_ledezmajo;ledezmajo@tigo.net.bo;S;Jose Luis;Ledezma Rivero;Mercado;B2C;Bolivia
+bo_monteirom;monteirom@tigo.net.bo;S;Megg;Monteiro Pivetta;Mercado;B2C;Bolivia
+bo_osinagam;osinagam@tigo.net.bo;S;Maria Yessenia;Osinaga Velez;Mercado;B2C;Bolivia
+bo_cabrerase;cabrerase@tigo.net.bo;S;Sergio Andres;Cabrera Garate;Mercado;B2C;Bolivia
+bo_cabrerap;cabrerap@tigo.net.bo;S;Carla Patricia;Cabrera Soria;Mercado;B2C;Bolivia
+bo_estremadoirob;estremadoirob@tigo.net.bo;S;Bruno;Estremadoiro Parada;Mercado;B2C;Bolivia
+bo_apazar;apazar@tigo.net.bo;S;Miguel;Apaza;Mercado;B2C;Bolivia
+bo_basaurem;basaurem@tigo.net.bo;S;Maria;Basaure;Mercado;B2C;Bolivia
+bo_camachol;camachol@tigo.net.bo;S;Luis Alfredo;Camacho Ramos;Mercado;B2C;Bolivia
+bo_morettam;morettam@tigo.net.bo;S;Monyka;Moretta;Mercado;B2C;Bolivia
+bo_pachecor;pachecor@tigo.net.bo;S;Rodrigo;Pacheco;Mercado;B2C;Bolivia
+bo_rocax;rocax@tigo.net.bo;S;Ximena;Roca;Mercado;B2C;Bolivia
+bo_urendam;urendam@tigo.net.bo;S;Cristina;Urenda;Mercado;B2C;Bolivia
+bo_villcas;villcas@tigo.net.bo;S;Sheila;Villca;Mercado;B2C;Bolivia
+bo_aguilarf;aguilarf@tigo.net.bo;S;Fe Gabriela;Aguilar Quiroga;Mercado;B2C;Bolivia
+bo_sagarnagam;sagarnagam@tigo.net.bo;S;Marco Antonio;Sagarnaga Alcazar;Mercado;B2C;Bolivia
+bo_bolandp;bolandp@tigo.net.bo;S;Percy;Boland;Mercado;Digital;Bolivia
+bo_castanonj;castanonj@tigo.net.bo;S;Javier;Castañon;Mercado;Digital;Bolivia
+bo_chiloj;chilij@tigo.net.bo;S;Juan;Chilo;Mercado;Digital;Bolivia
+bo_guamank;guamank@tigo.net.bo;S;Katty;Guaman;Mercado;Digital;Bolivia
+bo_meijere;meijere@tigo.net.bo;S;Eric;Meijer;Mercado;Digital;Bolivia
+bo_mucarzelv;mucarzelv@tigo.net.bo;S;Valeria;Mucarzel;Mercado;Digital;Bolivia
+bo_paradajo;paradajo@tigo.net.bo;S;Maria Jose;Parada Helbingen;Mercado;Digital;Bolivia
+bo_terrazass;terrazass@tigo.net.bo;S;Sebastian;Terrazas;Mercado;Digital;Bolivia
+bo_todescog;todescog@tigo.net.bo;S;Gabriele;Todesco;Mercado;Todos;Bolivia
+bo_morac;morac@tigo.net.bo;S;Carlos Andres;Mora Quiceno;Mercado;Todos;Bolivia
+bo_achap;achap@tigo.net.bo;S;Pablo;Acha;Mercado;Field Services;Bolivia
+bo_arteagadi;arteagadi@tigo.net.bo;S;Diego;Arteaga Campos;Mercado;Field Services;Bolivia
+bo_delacruzr;delacruzr@tigo.net.bo;S;Rosalba;De La Cruz;Mercado;Factory;Bolivia
+bo_kurzs;kurzs@tigo.net.bo;S;Siegfrid;Kurz;Mercado;Uso Fijo|Field Services;Bolivia
+bo_medinae;medinae@tigo.net.bo;S;Erwin;Medina;Mercado;Field Services;Bolivia
+bo_rivasw;rivasw@tigo.net.bo;S;Walther;Rivas;Mercado;Field Services;Bolivia
+bo_delcidr;delcidr@tigo.net.bo;S;Raul;Delcid Diaz;Mercado;PDV/PDA;Bolivia
+bo_filipovics;filipovics@tigo.net.bo;S;Soledad;Filipovic;Mercado;PDV/PDA;Bolivia
+bo_huicis;huicis@tigo.net.bo;S;Shamir;Huici;Mercado;PDV/PDA;Bolivia
+bo_jimeneze;jimeneze@tigo.net.bo;S;Edson;Jimenez;Mercado;PDV/PDA;Bolivia
+bo_marquezg;marquezg@tigo.net.bo;S;Gabriel;Marquez;Mercado;PDV/PDA;Bolivia
+bo_mendezcl;mendezcl@tigo.net.bo;S;Claudia;Mendez;Mercado;PDV/PDA;Bolivia
+bo_mendozaale;mendozaale@tigo.net.bo;S;Alejandro;Mendoza;Mercado;PDV/PDA;Bolivia
+bo_mirandaj;mirandaj@tigo.net.bo;S;Jose Luis;Miranda;Mercado;PDV/PDA;Bolivia
+bo_pedrazaw;pedrazaw@tigo.net.bo;S;Williams;Pedraza;Mercado;PDV/PDA;Bolivia
+bo_rendonl;rendonl@tigo.net.bo;S;Luis;Rendon;Mercado;PDV/PDA;Bolivia
+bo_ridderh;ridderh@tigo.net.bo;S;Herbert;Ridder;Mercado;PDV/PDA;Bolivia
+bo_roblesp;roblesp@tigo.net.bo;S;Pablo;Robles;Mercado;PDV/PDA;Bolivia
+bo_sanabriama;sanabriama@tigo.net.bo;S;Marco Esteban;Sanabria;Mercado;PDV/PDA;Bolivia
+bo_sanmartinh;sanmartinh@tigo.net.bo;S;Hugo;San Martin;Mercado;PDV/PDA;Bolivia
+bo_vasquezg;vasquezg@tigo.net.bo;S;Gustavo;Vasquez;Mercado;PDV/PDA;Bolivia
+bo_vergarao;vergarao@tigo.net.bo;S;Omar;Vergada;Mercado;PDV/PDA;Bolivia
+bo_bobiereh;bobiereh@tigo.net.bo;S;Hugo;Bobiere;Mercado;Factory;Bolivia
+bo_cabreramc;cabreramc@tigo.net.bo;S;Maria Cecilia;Cabrera;Mercado;Factory;Bolivia
+bo_fernandezm;fernandezm@tigo.net.bo;S;Mario;Fernandez;Mercado;Factory;Bolivia
+bo_petrusa;petrusa@tigo.net.bo;S;Alejandro;Petrus;Mercado;MFS;Bolivia
+bo_romerok;romerok@tigo.net.bo;S;Kevin Fabricio;Romero;Mercado;Roaming;Bolivia
+bo_abuawadj;abuawadj@tigo.net.bo;S;Jorge;Abuawad;Mercado;Todos;Bolivia
+bo_arteagac;arteagac@tigo.net.bo;S;Cielito;Arteaga;Mercado;Todos;Bolivia
+bo_balcazarc;balcazarc@tigo.net.bo;S;Carola;Balcazar;Mercado;Todos;Bolivia
+bo_brasilj;brasilj@tigo.net.bo;S;Janny;Brasil;Mercado;Todos;Bolivia
+bo_canidod;canidod@tigo.net.bo;S;David;Canido Menacho;Mercado;Todos;Bolivia
+bo_cespedespe;cespedespe@tigo.net.bo;S;Pedro Fernando;Cespedes Melgar;Mercado;Todos;Bolivia
+bo_farracholm;farracholm@tigo.net.bo;S;Marina;Farrachol;Mercado;Todos;Bolivia
+bo_garridod;garridod@tigo.net.bo;S;Diego Rashid;Garrido;Mercado;Todos;Bolivia
+bo_gonzalesj;gonzalesj@tigo.net.bo;S;Juan Pablo;Gonzales Buitrago;Mercado;Todos;Bolivia
+bo_guardiap;guardiap@tigo.net.bo;S;Pablo;Guardia;Mercado;Todos;Bolivia
+bo_gutierrezcla;gutierrezcla@tigo.net.bo;S;Claudio;Gutierrez;Mercado;Todos;Bolivia
+bo_herediajos;herediajos@tigo.net.bo;S;Josue;Heredia Menacho;Mercado;Todos;Bolivia
+bo_mendozaar;mendozaar@tigo.net.bo;S;Ariel;Mendoza;Mercado;Factory;Bolivia
+bo_mendozaal;mendozaal@tigo.net.bo;S;Alejandro Alonso;Mendoza Idiaquez;Mercado;Todos;Bolivia
+bo_monterosi;monterosi@tigo.net.bo;S;Silvia Marcela;Montero Soruco;Mercado;Todos;Bolivia
+bo_nallarb;nallarb@tigo.net.bo;S;Brahim;Nallar;Mercado;Todos;Bolivia
+bo_ortizc;ortizc@tigo.net.bo;S;Carlos;Ortiz Gil;Mercado;Todos;Bolivia
+bo_puertaj;puertaj@tigo.net.bo;S;Jeronimo;Puerta;Mercado;Todos;Bolivia
+bo_ricaldie;ricaldie@tigo.net.bo;S;Emilio;Ricaldi;Mercado;Todos;Bolivia
+bo_rojasc;rojasc@tigo.net.bo;S;Carla;Rojas;Mercado;Todos;Bolivia
+bo_saavedraga;saavedraga@tigo.net.bo;S;Gabriela;Saavedra;Mercado;Todos;Bolivia
+bo_salvatierrav;salvatierrav@tigo.net.bo;S;Varinia;Salvatierra;Mercado;Todos;Bolivia
+bo_sandovalv;sandovalv@tigo.net.bo;S;Valeria;Sandoval;Mercado;Todos;Bolivia
+bo_torrezpa;torrezpa@tigo.net.bo;S;Pablo Abel;Torrez Mercado;Mercado;Todos;Bolivia
+bo_vargasd;vargasd@tigo.net.bo;S;David;Vargas;Mercado;Todos;Bolivia
+bo_suarezw;suarezw@tigo.net.bo;S;Wilma;Suarez Parada;Mercado;Todos;Bolivia
+bo_barrosoe;barrosoe@tigo.net.bo;S;Edwin James;Barroso LLano;Mercado;Todos;Bolivia
+bo_sanchezgui;sanchezgui@tigo.net.bo;S;Guido;Sanchez Suarez;Mercado;Todos;Bolivia
+bo_rodam;rodam@tigo.net.bo;S;Miguel;Roda Carrillo;Mercado;Todos;Bolivia
+bo_molinai;molinai@tigo.net.bo;S;Vela Ines; Molina Nuñez;Mercado;Todos;Bolivia
+bo_antelove;antelove@tigo.net.bo;S;Veronica Maria;Antelo Eguez;Mercado;Todos;Bolivia
+bo_gutierrezca;gutierrezca@tigo.net.bo;S;Carla Daniela;Gutierrez Cardona;Mercado;Todos;Bolivia
+bo_camposbe;camposbe@tigo.net.bo;S;Benita;Campos Lijeron;Mercado;Uso Fijo|Field Services;Bolivia
+bo_arasa;arasa@tigo.net.bo;S;Alex;Aras Maymura;Mercado;Todos;Bolivia
+bo_auzal;auzal@tigo.net.bo;S;Luis;Auza;Mercado;Todos;Bolivia
+bo_azoguej;azoguej@tigo.net.bo;S;Juan Carlos; Azogue;Mercado;Todos;Bolivia
+bo_barreroa;barreroa@tigo.net.bo;S;Ana Paola;Barrero;Mercado;Todos;Bolivia
+bo_barriose;barriose@tigo.net.bo;S;Eduardo;Barrios;Mercado;Todos;Bolivia
+bo_bernalp;bernalp@tigo.net.bo;S;Pablo;Bernal;Mercado;Todos;Bolivia
+bo_bowlesa;bowlesa@tigo.net.bo;S;Andrea;Bowles;Mercado;Todos;Bolivia
+bo_canipad;canipad@tigo.net.bo;S;Daniela;Cañipa;Mercado;Todos;Bolivia
+bo_chumacerob;chumacerob@tigo.net.bo;S;Bernardo Fabian;Chumacero Ruiz;Mercado;Todos;Bolivia
+bo_gabriell;gabriell@tigo.net.bo;S;Cecilia;Gabriel;Mercado;Todos;Bolivia
+bo_gassere;gassere@tigo.net.bo;S;Esteban;Gasser Bravo;Mercado;Todos;Bolivia
+bo_griffithsa;griffithsa@tigo.net.bo;S;Adams;Griffiths;Mercado;Todos;Bolivia
+bo_gutierrezm;gutierrezm@tigo.net.bo;S;Maria;Gutierrez;Mercado;Todos;Bolivia
+bo_gutierrezp;gutierrezp@tigo.net.bo;S;Pamela;Gutierrez;Mercado;Todos;Bolivia
+bo_herediajc;herediajc@tigo.net.bo;S;Juan Carlos;Heredia;Mercado;Todos;Bolivia
+bo_hoyosr;hoyosr@tigo.net.bo;S;Romina;Hoyos;Mercado;Factory;Bolivia
+bo_lealj;lealj@tigo.net.bo;S;Jorge;Leal;Mercado;Todos;Bolivia
+bo_meallay;meallay@tigo.net.bo;S;Yimi;Mealla;Mercado;Todos;Bolivia
+bo_melgary;melgary@tigo.net.bo;S;Yerko;Melgar;Mercado;Todos;Bolivia
+bo_mercadoc;mercadoc@tigo.net.bo;S;Carlos;Mercado;Mercado;Factory;Bolivia
+bo_medranon;medranon@tigo.net.bo;S;Nelson;Medrano;Mercado;Todos;Bolivia
+bo_navarroc;navarroc@tigo.net.bo;S;Carolina;Navarro;Mercado;Todos;Bolivia
+bo_padillaj;padillaj@tigo.net.bo;S;Jose Cristhian;Padilla;Mercado;Todos;Bolivia
+bo_padillal;padillal@tigo.net.bo;S;Luis;Padilla;Mercado;Todos;Bolivia
+bo_pazb;pazb@tigo.net.bo;S;Brenda;Paz Medina;Mercado;Todos;Bolivia
+bo_peredor;peredor@tigo.net.bo;S;Rodrigo;Peredo;Mercado;Todos;Bolivia
+bo_riveroa;riveroa@tigo.net.bo;S;Aida;Rivero;Mercado;Todos;Bolivia
+bo_auzalu;auzalu@tigo.net.bo;S;Luiser;Auza;Mercado;Todos;Bolivia
+bo_rodriguezd;rodriguezd@tigo.net.bo;S;Diego;Rodriguez;Mercado;Todos;Bolivia
+bo_torricof;torricof@tigo.net.bo;S;Marcelo;Torrico;Mercado;Todos;Bolivia
+bo_tralbackc;tralbackc@tigo.net.bo;S;Carlos;Tralback;Mercado;Todos;Bolivia
+bo_lagunac;lagunac@tigo.net.bo;S;Cindy Mariela;Laguna;Mercado;Todos;Bolivia
+bo_marancenbaumn;marancenbaumn@tigo.net.bo;S;Nussen ;Marancenbaum;Mercado;Todos;Bolivia
+bo_zunigaj;zunigaj@tigo.net.bo;S;Juan David;Zuñiga;Mercado;Todos;Bolivia
+bo_quentac;quentac@tigo.net.bo;S;Cesar;Quenta;Mercado;Todos;Bolivia
+bo_doradoc;doradoc@tigo.net.bo;S;Carlos;Dorado;Mercado;Todos;Bolivia
+bo_brunners;brunners@tigo.net.bo;S;Stephany;Brunner;Mercado;Todos;Bolivia
+bo_murillojo;murillojo@tigo.net.bo;S;Jose Eduardo;Murillo;Mercado;Todos;Bolivia
+bo_zeballosro;zeballosro@tigo.net.bo;S;Rodrigo;Zeballos Cabrera;Mercado;Tiendas;Bolivia
+bo_salvatierrap;salvatierrap@tigo.net.bo;S;Pavel Yankel;Salvatierra del Carpio;Mercado;Todos;Bolivia
+bo_schruppm;schruppm@tigo.net.bo;S;Mauricio;Schrupp Terrazas;Mercado;Todos;Bolivia
+bo_bazanjg;bazanjg@tigo.net.bo;S;Juan Gabriel;Bazan Montaño;Mercado;Todos;Bolivia
+bo_pazc;pazc@tigo.net.bo;S;CARLOS ENRIQUE;PAZ RODRIGUEZ;Mercado;Todos;Bolivia
+bo_morenof;morenof@tigo.net.bo;S;Fabiola;Moreno Ortiz;Mercado;Todos;Bolivia
+bo_valenzuelaan;valenzuelaan@tigo.net.bo;S;Andrea;Valenzuela Ribera;Mercado;Todos;Bolivia
+bo_moralesy;moralesy@tigo.net.bo;S;YURI JOEL;MORALES PEÑARANDA;Mercado;Todos;Bolivia
+bo_vargasy;vargasy@tigo.net.bo;S;YERKO;VARGAS;Mercado;Todos;Bolivia
+bo_berriosd;berriosd@tigo.net.bo;S;DANIEL;BERRIOS VARGAS;Mercado;Field Services;Bolivia
+bo_ticonad;ticonad@tigo.net.bo;S;DAVID JOEL;TICONA COLQUE;Mercado;Field Services;Bolivia
+bo_lafuentef;lafuentef@tigo.net.bo;S;FERNANDO;LAFUENTE RODRIGUEZ;Mercado;Field Services;Bolivia
+bo_fernandezjav;fernandezjav@tigo.net.bo;S;JAVIER;FERNANDEZ CUSIMAMANI;Mercado;Field Services;Bolivia
+bo_rochae;rochae@tigo.net.bo;S;ELGA ROSSY;ROCHA SEMO;Mercado;Field Services;Bolivia
+bo_fuentesm;fuentesm@tigo.net.bo;S;Mauricio;Fuentes Encinas;Mercado;Todos;Bolivia
+bo_ardayafa;ardayafa@tigo.net.bo;S;Fabiola;Ardaya Paniagua;Mercado;Todos;Bolivia
+bo_guzmanb;guzmanb@tigo.net.bo;S;Banessa;Guzman Vaca;Mercado;Todos;Bolivia
+bo_isurzad;isurzad@tigo.net.bo;S;Dilma Gabriela;Isurza Avendaño;Mercado;Todos;Bolivia
+bo_agueroo;agueroo@tigo.net.bo;S;Oscar Alexander;Aguero Medina;Mercado;Uso Fijo;Bolivia
+bo_sosap;sosap@tigo.net.bo;S;Paola;Sosa Toledo;Mercado;Field Services;Bolivia
+bo_monterow;monterow@tigo.net.bo;S;Walfred;Montero Vaca;Mercado;Field Services;Bolivia
+bo_salgueroa;salgueroa@tigo.net.bo;S;Adriana;Salguero Arduz;Mercado;Todos;Bolivia
+bo_sanguinoi;sanguinoi@tigo.net.bo;S;Ivan;Sanguino Rivero;Mercado;Todos;Bolivia
+bo_suarezn;suarezn@tigo.net.bo;S;Natali;Suarez Chavez;Mercado;Todos;Bolivia
+bo_rodriguezjp;rodriguezjp@tigo.net.bo;S;Juan Pablo;Rodriguez Arroyo;Mercado;Field Services;Bolivia
+bo_huallpax;huallpax@tigo.net.bo;S;Ximena;Huallpa Fuertes;Mercado;Field Services;Bolivia
+bo_sanchezal;sanchezal@tigo.net.bo;S;Alex;Sanchez Vargas;Mercado;Field Services;Bolivia
+bo_alcantarar;alcantarar@tigo.net.bo;S;Roger Donald;Alcantara Garrido;Mercado;Todos;Bolivia
+bo_torresa;torresa@tigo.net.bo;S;Aaron Israel;Torres Guichou;Mercado;Todos;Bolivia
+bo_morenoy;morenoy@tigo.net.bo;S;Yussara;Moreno;Mercado;Todos;Bolivia
+bo_moram;moram@tigo.net.bo;S;Matias Jose;Mora Meneses;Mercado;Todos;Bolivia
+bo_rocamr;rocamr@tigo.net.bo;S;Mario;Roca Franco;Mercado;Todos;Bolivia
+bo_albad;albad@tigo.net.bo;S;Daniela Adalia;Alba Sarabia;Mercado;Todos;Bolivia
+bo_cardonaj;cardonaj@tigo.net.bo;S;Joan Alexander;Cardona Restrepo;Mercado;Todos;Bolivia
+
+
+
+
+
+
+
+

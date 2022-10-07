@@ -1,0 +1,287 @@
+﻿ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO_PRIMARIO;ACCESO_SECUNDARIO;ACCESO_TERCIARIO;ACCESO_PAIS
+51331;quentab@tigo.net.bo;S;BETTY;QUENTA VALENCIA;Supervisor - B2B;51331;39763;39991;Bolivia
+71700;fernandezd@tigo.net.bo;S;DANIEL FERNANDO;FERNANDEZ SONAGLIA;Ejecutivo - B2B;71700;28627;15736;Bolivia
+65719;cossioma@tigo.net.bo;S;MACLAU NICOLE;COSSIO ADRIAZOLA;Ejecutivo - B2B;65719;60736;34549;Bolivia
+60337;velascoma@tigo.net.bo;S;MARIA NICOLE;VELASCO DABDOUB;Ejecutivo - B2B;60337;60973;39991;Bolivia
+72587;iturrichap@tigo.net.bo;S;PAMELA;ITURRICHA ARTERO;Ejecutivo - B2B;72587;36192;27566;Bolivia
+73543;callisayace@tigo.net.bo;S;CESAR FERNANDO;CALLISAYA SURCO;Ejecutivo - B2B;73543;33744;39991;Bolivia
+61247;vacadiezw@tigo.net.bo;S;VACA DIEZ OSINAGA;WALTER MAURICIO;Ejecutivo - B2B;61247;38620;13260;Bolivia
+75981;ibajar@tigo.net.bo;S;RUDDY BRAYAN;IBAJA ESPINDOLA;Ejecutivo - B2B;75981;28627;15736;Bolivia
+75982;rojasang@tigo.net.bo;S;ANGELICA MARIA;ROJAS MALDONADO;Ejecutivo - B2B;75982;28627;15736;Bolivia
+75983;soveronm@tigo.net.bo;S;MARIA JOSE;SOVERON TRIGO;Ejecutivo - B2B;75983;28627;15736;Bolivia
+75984;zapatacl@tigo.net.bo;S;CLAUDIA MARIOLY;ZAPATA CANIDO;Ejecutivo - B2B;75984;28627;15736;Bolivia
+75985;zabalag@tigo.net.bo;S;GISSELLE LIZBETH;ZABALA ROJAS;Ejecutivo - B2B;75985;28627;15736;Bolivia
+75955;tercerosje@tigo.net.bo;S;ANDREINA;TERCEROS JESSICA;Ejecutivo - B2B;75955;39831;39991;Bolivia
+75954;ortegah@tigo.net.bo;S;HECTOR RAUL;ORTEGA SOTO;Ejecutivo - B2B;75954;49371;39991;Bolivia
+75314;sotillog@tigo.net.bo;S;GUSTAVO MAMERTO;SOTILLO ZENTENO;Ejecutivo - B2B;75314;28627;15736;Bolivia
+75316;guzmanro@tigo.net.bo;S;ROSSY ALEJANDRA;GUZMAN ROJAS;Ejecutivo - B2B;75316;28627;15736;Bolivia
+75317;melgaryak@tigo.net.bo;S;YAKELYN;MELGAR TERCEROS;Ejecutivo - B2B;75317;28627;15736;Bolivia
+75321;barbaca@tigo.net.bo;S;CARLA LORENA;BARBA VASQUEZ;Ejecutivo - B2B;75321;28627;15736;Bolivia
+75322;pumaj@tigo.net.bo;S;JOEL DAVID;PUMA CARBALLO;Ejecutivo - B2B;75322;28627;15736;Bolivia
+47741;zuritas@tigo.net.bo;S;SORAYA ELVIRA;ZURITA TERRAZAS;Ejecutivo - B2B;47741;33744;39991;Bolivia
+52212;maldonadoro@tigo.net.bo;S;RODOLFO WALTER;MALDONADO RADA;Ejecutivo - B2B;52212;33744;39991;Bolivia
+60957;rocabadoer@tigo.net.bo;S;ERNESTO HUGO;ROCABADO VERASTEGUI;Ejecutivo - B2B;60957;33744;39991;Bolivia
+73734;barrerama@tigo.net.bo;S;MARCELA SILVIA;BARRERA PIZARROSO;Ejecutivo - B2B;73734;33744;39991;Bolivia
+45034;tellerias@tigo.net.bo;S;SERGIO ALEJANDRO;TELLERIA HIDALGO;Ejecutivo - B2B;45034;33744;39991;Bolivia
+54209;llanosr@tigo.net.bo;S;REMMY ALEJANDRO;LLANOS GOMEZ;Ejecutivo - B2B;54209;33744;39991;Bolivia
+71422;anabed@tigo.net.bo;S;DERIN DALCY;ANABE MENDIETA;Ejecutivo - B2B;71422;33744;39991;Bolivia
+63456;escobarmp@tigo.net.bo;S;MARICRUZ PAMELA;ESCOBAR PEREDO;Ejecutivo - B2B;63456;33744;39991;Bolivia
+71725;arteagace@tigo.net.bo;S;CARLOS EDUARDO;ARTEAGA RIBERA;Ejecutivo - B2B;71725;39831;39991;Bolivia
+72655;cabrerabm@tigo.net.bo;S;BLANCA MAYERLINE;CABRERA MERIDA;Ejecutivo - B2B;72655;39831;39991;Bolivia
+75489;palenquel@tigo.net.bo;S;LILIAN FAVIOLA;PALENQUE PEDRAZA;Ejecutivo - B2B;75489;39831;39991;Bolivia
+74468;saucedojai@tigo.net.bo;S;JAIME EDUARDO;SAUCEDO GUMUCIO;Ejecutivo - B2B;74468;39831;39991;Bolivia
+65456;rodriguezliz@tigo.net.bo;S;LIZETH ARACELI;RODRIGUEZ JIMENEZ;Ejecutivo - B2B;65456;49371;39991;Bolivia
+73943;velascoja@tigo.net.bo;S;JAIME ALBERTO;VELASCO FLORES;Ejecutivo - B2B;73943;39831;39991;Bolivia
+75408;lamasc@tigo.net.bo;S;CARLA SOFIA;LAMAS RUIZ;Ejecutivo - B2B;75408;49371;39991;Bolivia
+75662;yucrao@tigo.net.bo;S;OSCAR;YUCRA FERNANDEZ;Ejecutivo - B2B;75662;49371;39991;Bolivia
+75661;fuentesd@tigo.net.bo;S;DAYSI CELIA;FUENTES GONZALES;Ejecutivo - B2B;75661;49371;39991;Bolivia
+53445;velascoda@tigo.net.bo;S;DAYSI LEYDI;VELASCO NUNEZ;Ejecutivo - B2B;53445;49371;39991;Bolivia
+40087;colquea@tigo.net.bo;S;ALFREDO;COLQUE CANAVIRI;Ejecutivo - B2B;40087;49371;39991;Bolivia
+75828;isurzae@tigo.net.bo;S;ENRIQUE;ISURZA VIDAL;Ejecutivo - B2B;75828;39831;39991;Bolivia
+75831;villagomezc@tigo.net.bo;S;CARLA XIMENA;VILLAGOMEZ ROSALES;Ejecutivo - B2B;75831;39831;39991;Bolivia
+75832;vazquezl@tigo.net.bo;S;LEONARDO;VAZQUEZ VALDIVIA;Ejecutivo - B2B;75832;28627;15736;Bolivia
+74926;iriartef@tigo.net.bo;S;FULVIA VALERIA;IRIARTE NUNEZ;Ejecutivo - B2B;74926;49371;39991;Bolivia
+75485;lomaa@tigo.net.bo;S;ALEJANDRA INARA;LOMA PACHECO;Ejecutivo - B2B;75485;49371;39991;Bolivia
+72586;vargaspa@tigo.net.bo;S;PAOLA;VARGAS SARAVIA;Ejecutivo - B2B;72586;36192;27566;Bolivia
+45184;aranibarj@tigo.net.bo;S;JANIN ADISON;ARANIBAR DURAN;Ejecutivo - B2B;45184;36192;27566;Bolivia
+71020;bermudezbd@tigo.net.bo;S;BRENDA DAYAN;BERMUDEZ JUSTINIANO;Ejecutivo - B2B;71020;36192;27566;Bolivia
+75491;justinianomari@tigo.net.bo;S;MARIELA;JUSTINIANO QUIROGA;Ejecutivo - B2B;75491;39831;39991;Bolivia
+75654;ortegaka@tigo.net.bo;S;KARLA ELIZABETH;ORTEGA GOMEZ;Ejecutivo - B2B;75654;28627;15736;Bolivia
+75488;leong@tigo.net.bo;S;GABRIELA;LEON GALARZA;Ejecutivo - B2B;75488;28627;15736;Bolivia
+74927;anezro@tigo.net.bo;S;RICARDO;ANEZ LIJERON;Ejecutivo - B2B;74927;28627;15736;Bolivia
+73733;tapiav@tigo.net.bo;S;VICTOR MANUEL;TAPIA MIRANDA;Ejecutivo - B2B;73733;36192;27566;Bolivia
+70987;martinezjh@tigo.net.bo;S;JAVIER HERNAN;MARTINEZ ROCABADO;Ejecutivo - B2B;70987;34549;13503;Bolivia
+66085;salast@tigo.net.bo;S;TOINETTE ALEXIA;SALAS BALCAZAR;Ejecutivo - B2B;66085;34549;13503;Bolivia
+57341;lavadenzl@tigo.net.bo;S;LUIS ANDRES;LAVADENZ VARGAS;Ejecutivo - B2B;57341;34549;13503;Bolivia
+64392;chamass@tigo.net.bo;S;SERGIO FERNANDO;CHAMAS DE LOS RIOS;Ejecutivo - B2B;64392;60736;34549;Bolivia
+57541;viscarrad@tigo.net.bo;S;DIEGO NICOLAS;VISCARRA CLAVIJO;Ejecutivo - B2B;57541;60736;34549;Bolivia
+68866;espadam@tigo.net.bo;S;MAURICIO;ESPADA PAREDES;Ejecutivo - B2B;68866;60736;34549;Bolivia
+58858;delgadilloa@tigo.net.bo;S;ALEJANDRO WALTER;DELGADILLO RODRIGUEZ;Ejecutivo - B2B;58858;60736;34549;Bolivia
+75732;garciahe@tigo.net.bo;S;HENRY;GARCIA SERRANO;Ejecutivo - B2B;75732;39763;39991;Bolivia
+75731;espinozaed@tigo.net.bo;S;EDSON ISMAEL;ESPINOZA LLORENTY;Ejecutivo - B2B;75731;39763;39991;Bolivia
+75653;reckewega@tigo.net.bo;S;ALEXIS;RECKEWEG VIGABRIEL;Ejecutivo - B2B;75653;39763;39991;Bolivia
+75490;limpiasi@tigo.net.bo;S;IRANI;LIMPIAS FREIRES;Ejecutivo - B2B;75490;60973;39991;Bolivia
+75491;justinianomar@tigo.net.bo;S;MARIELA;JUSTINIANO QUIROGA;Ejecutivo - B2B;75491;39831;39991;Bolivia
+75407;cardenaswi@tigo.net.bo;S;WILLIAM ANDRES;CARDENAS RENJEL;Ejecutivo - B2B;75407;60973;39991;Bolivia
+75410;traperob@tigo.net.bo;S;BRITTNEY PAIGE;TRAPERO CASTEDO;Ejecutivo - B2B;75410;60973;39991;Bolivia
+48219;montanolu@tigo.net.bo;S;LUIS FERNANDO;MONTANO ABASTOFLOR;Ejecutivo - B2B;48219;60579;13260;Bolivia
+64799;riveroaa@tigo.net.bo;S;ANGELICA ANDREA;RIVERO HURTADO;Ejecutivo - B2B;64799;60973;39991;Bolivia
+70846;vacaap@tigo.net.bo;S;ADRIANA PAOLA;VACA TORRICO;Ejecutivo - B2B;70846;60973;39991;Bolivia
+66086;pereiraah@tigo.net.bo;S;AHYRAN DREICK;PEREIRA AREVALO;Ejecutivo - B2B;66086;68878;40962;Bolivia
+56538;gutierrezalp@tigo.net.bo;S;ALVARO PABLO;GUTIERREZ AYLLON;Ejecutivo - B2B;56538;60579;13260;Bolivia
+65461;ortizro@tigo.net.bo;S;ROBERTO;ORTIZ;Supervisor - B2B;65461;28627;15736;Bolivia
+72688;villarroelar@tigo.net.bo;S;ARELY;VILLARROEL ANTEQUERA;Ejecutivo - B2B;72688;28627;15736;Bolivia
+75063;alvisc@tigo.net.bo;S;CARLOS ALBERTO;ALVIS LAFUENTE;Ejecutivo - B2B;75063;28627;15736;Bolivia
+75065;perezjos@tigo.net.bo;S;JOSELITO;PEREZ JUSTINIANO;Ejecutivo - B2B;75065;28627;15736;Bolivia
+75067;riveraal@tigo.net.bo;S;ALVARO;RIVERA BEJARANO;Ejecutivo - B2B;75067;28627;15736;Bolivia
+75069;derenkab@tigo.net.bo;S;BARBARA;DERENKA RIVERO;Ejecutivo - B2B;75069;28627;15736;Bolivia
+75071;cocajo@tigo.net.bo;S;JOSE CARLOS;COCA MELGAREJO;Ejecutivo - B2B;75071;28627;15736;Bolivia
+54150;peredolu@tigo.net.bo;S;LUIS ALEJANDRO;PEREDO CARBALLO;Ejecutivo - B2B;54150;28627;15736;Bolivia
+75073;noyaa@tigo.net.bo;S;ANDREA;NOYA CLAVIJO;Ejecutivo - B2B;75073;28627;15736;Bolivia
+75064;molinali@tigo.net.bo;S;LIVIA ANALY;MOLINA CLAURE;Ejecutivo - B2B;75064;28627;15736;Bolivia
+75066;verase@tigo.net.bo;S;SERGIO ANDRES;VERA FERNANDEZ;Ejecutivo - B2B;75066;28627;15736;Bolivia
+75068;chavezjuan@tigo.net.bo;S;JUAN PEDRO;CHAVEZ AVILA;Ejecutivo - B2B;75068;28627;15736;Bolivia
+75070;rodriguezmarial@tigo.net.bo;S;MARIA LAURA;RODRIGUEZ MORENO;Ejecutivo - B2B;75070;28627;15736;Bolivia
+75072;cruzev@tigo.net.bo;S;EVELYN LITZIE;CRUZ ALDANA;Ejecutivo - B2B;75072;28627;15736;Bolivia
+55696;catarij@tigo.net.bo;S;JUDITH MINERVA;CATARI RODRÍGUEZ;Ejecutivo - B2B;55696;28627;15736;Bolivia
+74820;floresso@tigo.net.bo;S;SONIA MABEL;FLORES SEVERICHE;Ejecutivo - B2B;74820;28627;15736;Bolivia
+74822;baldiviesoa@tigo.net.bo;S;ARIANI;BALDIVIESO CAICEDO;Ejecutivo - B2B;74822;28627;15736;Bolivia
+74819;silvestres@tigo.net.bo;S;STEFANNY MARIBEL;SILVESTRE LLANOS;Ejecutivo - B2B;74819;28627;15736;Bolivia
+74821;mercadocar@tigo.net.bo;S;CARLOS ALBERTO;MERCADO FARELL;Ejecutivo - B2B;74821;28627;15736;Bolivia
+74838;sanchezel@tigo.net.bo;S;ELIANA;SANCHEZ ORTIZ;Ejecutivo - B2B;74838;39831;39991;Bolivia
+74071;andias@tigo.net.bo;S;SUSAN GERALDINE;ANDIA ESPEJO;Ejecutivo - B2B;74071;35705;28627;Bolivia
+74468;saucedoja@tigo.net.bo;S;JAIME EDUARDO;SAUCEDO GUMUCIO;Ejecutivo - B2B;74468;39831;39991;Bolivia
+74289;suarezas@tigo.net.bo;S;ASUNTA;SUAREZ HERRERA;Ejecutivo - B2B;74289;28627;15736;Bolivia
+74291;suarezjoh@tigo.net.bo;S;JOHN;SUAREZ CUELLAR;Ejecutivo - B2B;74291;28627;15736;Bolivia
+74290;justinianoji@tigo.net.bo;S;JIMY ADRIAN;JUSTINIANO ZABALA;Ejecutivo - B2B;74290;28627;15736;Bolivia
+48115;molinaju@tigo.net.bo;S;JULIO CESAR;MOLINA SUAREZ;Ejecutivo - B2B;48115;28627;15736;Bolivia
+54013;palaguerrab@tigo.net.bo;S;BEBA;PALAGUERRA COCA;Ejecutivo - B2B;54013;28627;15736;Bolivia
+65674;yospij@tigo.net.bo;S;JUAN MARCO;YOSPI MOLINA;Ejecutivo - B2B;65674;28627;15736;Bolivia
+74064;amayam@tigo.net.bo;S;MARIO EMANUEL;AMAYA VELASCO;Ejecutivo - B2B;74064;39763;39991;Bolivia
+73942;jaduee@tigo.net.bo;S;EMILIA ALEJANDRA;JADUE MORON;Ejecutivo - B2B;73942;39831;39991;Bolivia
+51232;bazanc@tigo.net.bo;S;CARLA PATRICIA;BAZAN VASQUEZ;Ejecutivo - B2B;51232;28627;15736;Bolivia
+73967;limpiasjo@tigo.net.bo;S;JOSE MARIA;LIMPIAS CALLE;Ejecutivo - B2B;73967;28627;15736;Bolivia
+73969;cuellars@tigo.net.bo;S;SERGIO VICTOR;CUELLAR RIOS;Ejecutivo - B2B;73969;28627;15736;Bolivia
+73966;arispejh@tigo.net.bo;S;JHENNY LAURA;ARISPE TORRICO;Ejecutivo - B2B;73966;28627;15736;Bolivia
+62628;castrora@tigo.net.bo;S;RAQUEL MICAELA;CASTRO DEL POZO;Ejecutivo - B2B;62628;45098;40962;Bolivia
+51963;aguilart@tigo.net.bo;S;TERESA LAURA;AGUILAR TARIFA;Ejecutivo - B2B;51963;60736;13503;Bolivia
+72157;sosaal@tigo.net.bo;S;ALEX EDUARDO;SOSA SALAZAR;Ejecutivo - B2B;72157;28627;45055;Bolivia
+72161;vacaar@tigo.net.bo;S;ARMANDO MARCELO;VACA DIEZ;Ejecutivo - B2B;72161;28627;45055;Bolivia
+72158;suarezd@tigo.net.bo;S;DIEGO ERNESTO;SUAREZ FRANCO;Ejecutivo - B2B;72158;28627;45055;Bolivia
+72159;vargasjuand@tigo.net.bo;S;JUAN DANIEL;VARGAS SILVA;Ejecutivo - B2B;72159;28627;45055;Bolivia
+72160;seass@tigo.net.bo;S;SHEYLA FERNANDA;SEAS PADILLA;Ejecutivo - B2B;72160;28627;45055;Bolivia
+62322;ponceb@tigo.net.bo;S;BUAIS MONICA;PONCE DE LEON;Ejecutivo - B2B;62322;65103;70480;Bolivia
+72132;canedoaw@tigo.net.bo;S;ALAIN WILLIAM;CANEDO ESCOBAR;Ejecutivo - B2B;72132;32303;13503;Bolivia
+47459;anezha@tigo.net.bo;S;HARLEND LILIANA;AÑEZ LOPEZ;Ejecutivo - B2B;47459;28200;38830;Bolivia
+48219;montanolu@tigo.net.bo;S;LUIS FERNANDO;MONTAÑO ABASTOFLOR;Ejecutivo - B2B;48219;60736;34549;Bolivia
+39964;cabreraj@tigo.net.bo;S;JOSE VICTOR;CABRERA MELGAR;Ejecutivo - B2B;39964;28200;38830;Bolivia
+39800;delriod@tigo.net.bo;S;DIEGO;DEL RIO HOLLWEG;Ejecutivo - B2B;39800;28200;34549;Bolivia
+39173;vargasjor@tigo.net.bo;S;JORGE;VARGAS MENDEZ;Ejecutivo - B2B;39173;28200;38830;Bolivia
+46116;monjepa@tigo.net.bo;S;PAOLA VERONICA;MONJE ARANIBAR;Ejecutivo - B2B;46116;60736;34549;Bolivia
+27725;orozcos@tigo.net.bo;S;SAUL;OROZCO OPORTO;Ejecutivo - B2B;27725;28200;13503;Bolivia
+26340;perdriell@tigo.net.bo;S;LUIS CESAR;PERDRIEL EID;Ejecutivo - B2B;26340;28200;38830;Bolivia
+48849;mariscalb@tigo.net.bo;S;BLANCA DAMARIS;MARISCAL SALINAS;Ejecutivo - B2B;48849;28200;34549;Bolivia
+48615;sanjinesm@tigo.net.bo;S;MARIA PAULA;SANJINES PARADA;Ejecutivo - B2B;48615;28200;38830;Bolivia
+47611;chuquimiah@tigo.net.bo;S;HECTOR HENRY;CHUQUIMIA MEDRANO;Ejecutivo - B2B;47611;60736;34549;Bolivia
+49971;marquinash@tigo.net.bo;S;HELEN;MARQUINAS LUIZAGA;Ejecutivo - B2B;49971;28200;34549;Bolivia
+53888;villarroelk@tigo.net.bo;S;KAREN VANESSA;VILLARROEL CLAVIJO;Ejecutivo - B2B;53888;28200;38830;Bolivia
+53218;rodriguezom@tigo.net.bo;S;OMAIRA MADELEINE;RODRIGUEZ ANDRADE;Ejecutivo - B2B;53218;60736;34549;Bolivia
+49970;pintod@tigo.net.bo;S;DALIA ROXANA;PINTO VASQUEZ;Ejecutivo - B2B;49970;28200;38830;Bolivia
+56538;gutierrezalp@tigo.net.bo;S;ALVARO PABLO;GUTIERREZ AYLLON;Ejecutivo - B2B;56538;60736;34549;Bolivia
+57050;moralesro@tigo.net.bo;S;RODRIGO ALONSO;MORALES PARDO;Ejecutivo - B2B;57050;28200;38830;Bolivia
+60596;cardonaca@tigo.net.bo;S;CARLA JANINE;CARDONA LIJERON;Ejecutivo - B2B;60596;28200;34549;Bolivia
+60597;miyashiroj@tigo.net.bo;S;JAIRTHON;MIYASHIRO VELEZ;Ejecutivo - B2B;60597;28200;34549;Bolivia
+61100;amellere@tigo.net.bo;S;EDUARDO;AMELLER CORTEZ;Ejecutivo - B2B;61100;60736;34549;Bolivia
+65009;justinianocm@tigo.net.bo;S;CHRISTOPHER MARCELO;JUSTINIANO ALESSANDRI;Ejecutivo - B2B;65009;28200;34549;Bolivia
+65775;medranosi@tigo.net.bo;S;SINDY MARIBEL;MEDRANO CABERO;Ejecutivo - B2B;65775;60736;34549;Bolivia
+67893;goytiav@tigo.net.bo;S;VANESSA;GOYTIA VERDUGUEZ;Ejecutivo - B2B;67893;28200;38830;Bolivia
+314;weises@tigo.net.bo;S;SANDRA;WEISE KAISER;Ejecutivo - B2B;314;28200;34549;Bolivia
+51322;thamesd@tigo.net.bo;S;DANIEL ALFONSO;THAMES SUAREZ;Ejecutivo - B2B;51322;28200;13503;Bolivia
+59989;escobarmd@tigo.net.bo;S;MAURICIO DAVID;ESCOBAR YEPEZ;Ejecutivo - B2B;59989;60736;13503;Bolivia
+60442;veizagaer@tigo.net.bo;S;ERNESTO;VEIZAGA GUILLEN;Ejecutivo - B2B;60442;28200;13503;Bolivia
+49371;sandovalf@tigo.net.bo;S;FABIAN MAURICIO;SANDOVAL MIER;Supervisor - B2B;49371;39991;13503;Bolivia
+39831;verae@tigo.net.bo;S;EDGAR;VERA ABAN;Supervisor - B2B;39831;39991;13503;Bolivia
+32303;vasquezmar@tigo.net.bo;S;EDGAR MARCELO;VASQUEZ MICHEL;Supervisor - B2B;32303;39991;13503;Bolivia
+39763;uslarm@tigo.net.bo;S;MARIA ESTER;USLAR BURGOS;Supervisor - B2B;39763;39991;13503;Bolivia
+33744;vasquezp@tigo.net.bo;S;CLAUDIA PAMELA;VASQUEZ VELASQUEZ;Supervisor - B2B;33744;39991;13503;Bolivia
+54861;escobard@tigo.net.bo;S;DANIELA IRIS;ESCOBAR CABALLERO;Ejecutivo - B2B;54861;40962;40962;Bolivia
+57049;justinianoch@tigo.net.bo;S;CHRISTIANY;JUSTINIANO SUAREZ;Ejecutivo - B2B;57049;17430;40962;Bolivia
+72077;espadaf@tigo.net.bo;N;FLORA PAOLA;ESPADA VEDIA;Ejecutivo - B2B;72077;39831;13503;Bolivia
+67993;nunezca@tigo.net.bo;S;CARLOS FERNANDO AMERICO;NUÑEZ ENCINAS;Ejecutivo - B2B;67993;13260;13260;Bolivia
+48768;pintomi@tigo.net.bo;S;MIKHAIL ALEJANDRO;PINTO ROJAS;Ejecutivo - B2B;48768;49371;13503;Bolivia
+63919;valdezp@tigo.net.bo;S;PAOLA ANDREA;VALDEZ FERRUFINO;Ejecutivo - B2B;63919;33744;13503;Bolivia
+68576;gutierrezbl@tigo.net.bo;S;BLADIMIR CESAR;GUTIERREZ APAZA;Ejecutivo - B2B;68576;49371;13503;Bolivia
+57069;romanl@tigo.net.bo;S;LENIN CLAUDIO;ROMAN RUIZ;Ejecutivo - B2B;57069;28627;45055;Bolivia
+66719;moralesf@tigo.net.bo;S;FERNANDO;MORALES RIVAS;Ejecutivo - B2B;66719;38620;38620;Bolivia
+40511;vediab@tigo.net.bo;S;BETTY;VEDIA CABALLERO;Ejecutivo - B2B;40511;35450;15408;Bolivia
+71723;ortunopa@tigo.net.bo;S;PAOLA ANDREA;ORTUÑO PONCE;Ejecutivo - B2B;71723;39831;13503;Bolivia
+71481;hurtadoar@tigo.net.bo;S;ARIEL;HURTADO DORADO;Ejecutivo - B2B;71481;39763;13503;Bolivia
+71303;paniaguajua@tigo.net.bo;S;JUAN CARLOS;PANIAGUA BURGOS;Ejecutivo - B2B;71303;28627;45055;Bolivia
+71423;plazaje@tigo.net.bo;S;JORGE EDMUNDO;PLAZA ALARCON;Ejecutivo - B2B;71423;33744;13503;Bolivia
+71021;valenzuelap@tigo.net.bo;S;PAMELA TANIA;VEGA VALENZUELA;Ejecutivo - B2B;71021;39763;13503;Bolivia
+58265;ruedaa@tigo.net.bo;S;ANIBAL;RUEDA PERALTA;Ejecutivo - B2B;58265;38620;38620;Bolivia
+70847;echeverriaje@tigo.net.bo;S;JOSE EDGAR;ECHEVERRIA DORIA MEDINA;Ejecutivo - B2B;70847;39763;13503;Bolivia
+70846;vacaap@tigo.net.bo;S;ADRIANA PAOLA;VACA TORRICO;Ejecutivo - B2B;70846;39763;13503;Bolivia
+70844;guayguadc@tigo.net.bo;S;DANIEL CRISTHIAN;GUAYGUA ARISPE;Ejecutivo - B2B;70844;32303;13503;Bolivia
+70370;ledezmaal@tigo.net.bo;S;ALEXANDER;LEDEZMA TEMO;Ejecutivo - B2B;70370;28627;45055;Bolivia
+70371;paredesdav@tigo.net.bo;S;DAVID ALONSO;PAREDES LOPEZ;Ejecutivo - B2B;70371;28627;45055;Bolivia
+60386;aguirrec@tigo.net.bo;N;CLAUDIA;AGUIRRE ROJAS;Ejecutivo - B2B;60386;35450;13260;Bolivia
+23082;campuzanos@tigo.net.bo;S;SORAYA JACQUELINE;CAMPUZANO SAAVEDRA;Ejecutivo - B2B;23082;60579;13260;Bolivia
+61004;cassiss@tigo.net.bo;S;SERGIO;CASSIS MARISCAL;Ejecutivo - B2B;61004;60579;13260;Bolivia
+54934;castillob@tigo.net.bo;S;BEATRIZ;CASTILLO VERGARA;Ejecutivo - B2B;54934;38620;13260;Bolivia
+65003;espinozamay@tigo.net.bo;S;MAYRA CRISTINA;ESPINOZA LEAÑOS;Ejecutivo - B2B;65003;38620;13260;Bolivia
+48839;garaya@tigo.net.bo;S;ANGEL NICOLAS;GARAY;Ejecutivo - B2B;48839;38620;13260;Bolivia
+62025;gonzalezm@tigo.net.bo;S;MAURICIO ABEL;GONZALEZ ANTEZANA;Ejecutivo - B2B;62025;35450;13260;Bolivia
+46694;nemtalal@tigo.net.bo;S;LUIS MIGUEL;NEMTALA FERRUFINO;Ejecutivo - B2B;46694;60579;13260;Bolivia
+40261;nunezro@tigo.net.bo;S;CARLOS ROMARIO;NUNEZ CASCALES;Ejecutivo - B2B;40261;38620;13260;Bolivia
+66086;pereiraah@tigo.net.bo;S;AHYRAN DREICK;PEREIRA AREVALO;Ejecutivo - B2B;66086;60579;13260;Bolivia
+66087;perezad@tigo.net.bo;S;ADRIANA;PEREZ CABALLERO;Ejecutivo - B2B;66087;60579;13260;Bolivia
+39297;velardem@tigo.net.bo;S;MARIO;VELARDE VARGAS;Ejecutivo - B2B;39297;38620;13260;Bolivia
+38620;alvarezs@tigo.net.bo;S;SAUL;ALVAREZ CABEZAS;Supervisor - B2B;;38620;13260;Bolivia
+60579;ojopido@tigo.net.bo;S;DOUGLAS;OJOPI TEDIN;Supervisor - B2B;;60579;13260;Bolivia
+56253;rollanol@tigo.net.bo;S;LORENA;ROLLANO QUIROGA;Ejecutivo - B2B;56253;35450;13260;Bolivia
+49199;arredondob@tigo.net.bo;S;BARBARA ANAHI;ARREDONDO ARAMBULA;Ejecutivo - B2B;49199;28200;13503;Bolivia
+65673;abanm@tigo.net.bo;S;MARIA RENEE;ABAN PARDO;Ejecutivo - B2B;65673;35705;28627;Bolivia
+50022;abregoj@tigo.net.bo;S;JACQUELINE;ABREGO PACHURY;Ejecutivo - B2B;50022;35705;28627;Bolivia
+67626;aguilarlu@tigo.net.bo;S;Luceyla Susana;Aguilar Navak;Ejecutivo - B2B;67626;35705;28627;Bolivia
+64181;aguileragr@tigo.net.bo;S;GABY ROSALBA;AGUILERA ROJAS;Ejecutivo - B2B;64181;35705;28627;Bolivia
+59419;arnezm@tigo.net.bo;S;Melvy;Arnez Peredo;Ejecutivo - B2B;59419;35705;28627;Bolivia
+36675;balliviang@tigo.net.bo;S;Gustavo Javier;Ballivian Alvarez;Ejecutivo - B2B;36675;35705;28627;Bolivia
+37748;barriosj@tigo.net.bo;S;JUAN CARLOS;BARRIOS DURAN;Ejecutivo - B2B;37748;35705;28627;Bolivia
+68084;barriosp@tigo.net.bo;S;Paolo Antonio;Barrios Duran;Ejecutivo - B2B;68084;35705;28627;Bolivia
+64949;becerradi@tigo.net.bo;S;DI LAURA;BECERRA PINTO;Ejecutivo - B2B;64949;35705;28627;Bolivia
+59411;beyumac@tigo.net.bo;S;Carlos Valeriano;Beyuma Arias;Ejecutivo - B2B;59411;35705;28627;Bolivia
+59766;bilbaog@tigo.net.bo;S;GIOVANNA;BILBAO LA VIEJA;Ejecutivo - B2B;59766;35705;28627;Bolivia
+58392;bravoy@tigo.net.bo;S;Yoselin Bravo;Villalba;Ejecutivo - B2B;58392;35705;28627;Bolivia
+59406;bustamanteo@tigo.net.bo;S;OSCAR;BUSTAMANTE JUSTINIANO;Ejecutivo - B2B;59406;35705;28627;Bolivia
+66640;calderonl@tigo.net.bo;S;LETICIA;CALDERON CONDORI;Ejecutivo - B2B;66640;35705;28627;Bolivia 
+65799;calizayaa@tigo.net.bo;S;ANA ISABEL;CALIZAYA VILLANUEVA;Ejecutivo - B2B;65799;35705;28627;Bolivia
+67624;cardonan@tigo.net.bo;S;Noelia;Cardona Marquez;Ejecutivo - B2B;67624;35705;28627;Bolivia
+62118;castromv@tigo.net.bo;S;MIRIAM VIRGINIA;CASTRO;Ejecutivo - B2B;62118;35705;28627;Bolivia
+67170;condorijorg@tigo.net.bo;S;JORGE LEANDRO;CONDORI ICHU;Ejecutivo - B2B;67170;35705;28627;Bolivia
+65083;cordovaj@tigo.net.bo;S;JUAN CARLOS;CORDOVA TORRICO;Ejecutivo - B2B;65083;35705;28627;Bolivia
+66642;coronadop@tigo.net.bo;S;RAUL ANDRES;CORONADO ORIHUELA;Ejecutivo - B2B;66642;35705;28627;Bolivia 
+67172;cortezd@tigo.net.bo;S;Dayana XIMENA;CORTEZ SOLARES;Ejecutivo - B2B;67172;35705;28627;Bolivia
+64189;cruzra@tigo.net.bo;S;RAMIRO;CRUZ ALARCON;Ejecutivo - B2B;64189;35705;28627;Bolivia
+68083;ferrufinojo@tigo.net.bo;S;Jorge Ricardo;Ferrufino;Ejecutivo - B2B;68083;35705;28627;Bolivia
+65354;floresan@tigo.net.bo;S;ANITA DEL ROSARIO;FLORES FIGUEROA DE CHAVEZ;Ejecutivo - B2B;65354;35705;28627;Bolivia
+68394;florescar@tigo.net.bo;S;CARMEN ARACELY;FLORES CUELLAR;Ejecutivo - B2B;68394;35705;28627;Bolivia
+68392;floreska@tigo.net.bo;S;KAREM XIMENA;FLORES TOLA;Ejecutivo - B2B;68392;35705;28627;Bolivia
+39695;gomezma@tigo.net.bo;S;MAGDA;GOMEZ LAIRANA;Ejecutivo - B2B;39695;35705;28627;Bolivia
+57713;gutierrezru@tigo.net.bo;S;Ruddy Ernesto;Gutierrez Añez;Ejecutivo - B2B;57713;35705;28627;Bolivia
+59623;guzmang@tigo.net.bo;S;GABRIELA ALEJANDRA;GUZMAN PARADA;Ejecutivo - B2B;59623;35705;28627;Bolivia
+68399;huancaros@tigo.net.bo;S;ROSMERY PASTORA;HUANCA RAMOS;Ejecutivo - B2B;68399;35705;28627;Bolivia
+55688;hurtadoan@tigo.net.bo;S;Anabel;Hurtado Cespedes;Ejecutivo - B2B;55688;35705;28627;Bolivia
+64183;justinianoda@tigo.net.bo;S;DARWIN;JUSTINIANO CALDERON;Ejecutivo - B2B;64183;35705;28627;Bolivia
+65802;laricol@tigo.net.bo;S;LOURDES;LARICO LIMACHI;Ejecutivo - B2B;65802;35705;28627;Bolivia
+65080;machacal@tigo.net.bo;S;LEANDRA LIZETH;MACHACA CHOQUE;Ejecutivo - B2B;65080;35705;28627;Bolivia
+65676;mendezci@tigo.net.bo;S;CINTHYA VIVIANA;MENDEZ RIVAROLA;Ejecutivo - B2B;65676;35705;28627;Bolivia
+64585;mercadoer@tigo.net.bo;S;ERICKA;MERCADO IBAÑEZ;Ejecutivo - B2B;64585;35705;28627;Bolivia
+64190;molinak@tigo.net.bo;S;KARLA JENNIFER;MOLINA LARUTA;Ejecutivo - B2B;64190;35705;28627;Bolivia
+60084;molinat@tigo.net.bo;S;Tony Bismarck;Molina Toledo;Ejecutivo - B2B;60084;35705;28627;Bolivia
+68396;moralesiv@tigo.net.bo;S;IVAN MIGUEL;MORALES CHAVEZ;Ejecutivo - B2B;68396;35705;28627;Bolivia
+59404;negreter@tigo.net.bo;S;RUTH YAKDINA;NEGRETE RACUA;Ejecutivo - B2B;59404;35705;28627;Bolivia
+67625;omontep@tigo.net.bo;S;Paola Andrea;Omonte Nava;Ejecutivo - B2B;67625;35705;28627;Bolivia
+63833;ortegac@tigo.net.bo;S;CARLOS ENRIQUE;ORTEGA ROCA;Ejecutivo - B2B;63833;35705;28627;Bolivia
+65666;padillaa@tigo.net.bo;S;ALBERTO;PADILLA ROJAS;Ejecutivo - B2B;65666;35705;28627;Bolivia
+67627;parabar@tigo.net.bo;S;Ronald;Paraba Moreno;Ejecutivo - B2B;67627;35705;28627;Bolivia
+64199;patinog@tigo.net.bo;S;Gustavo Leandro;Patiño Falon;Ejecutivo - B2B;64199;35705;28627;Bolivia
+59412;penam@tigo.net.bo;S;MELISA;PEÑA MAMANI;Ejecutivo - B2B;59412;35705;28627;Bolivia
+68086;quinonesa@tigo.net.bo;S;Albert;Quiñones Villarreal;Ejecutivo - B2B;68086;35705;28627;Bolivia
+68608;ramosel@tigo.net.bo;S;ELIA;RAMOS VASQUEZ;Ejecutivo - B2B;68608;35705;28627;Bolivia
+57067;reyesci@tigo.net.bo;S;CINTHYA DANIELA;REYES PATTY;Ejecutivo - B2B;57067;35705;28627;Bolivia
+68082;riberahe@tigo.net.bo;S;Helmer;Ribera Rodriguez;Ejecutivo - B2B;68082;35705;28627;Bolivia
+66639;riveroan@tigo.net.bo;S;Angelica;Rivero Duran;Ejecutivo - B2B;66639;35705;28627;Bolivia
+68398;riveroel@tigo.net.bo;S;ELIANA;RIVERO SALAS;Ejecutivo - B2B;68398;35705;28627;Bolivia
+64191;riverojr@tigo.net.bo;S;JORGE RODRIGO;RIVERO ESCOBAR;Ejecutivo - B2B;64191;35705;28627;Bolivia
+65082;riveron@tigo.net.bo;S;Natalia;Rivero Soliz;Ejecutivo - B2B;65082;35705;28627;Bolivia
+63549;roblesce@tigo.net.bo;S;CECILIA;ROBLES FLORES;Ejecutivo - B2B;63549;35705;28627;Bolivia
+63839;rodriguezron@tigo.net.bo;S;RONALD ;RODRIGUEZ BARBA;Ejecutivo - B2B;63839;35705;28627;Bolivia
+67643;rojasfer@tigo.net.bo;S;Fernando;Rojas Gutierrez;Ejecutivo - B2B;67643;35705;28627;Bolivia
+67623;romerogui@tigo.net.bo;S;Guisela;Romero Paz;Ejecutivo - B2B;67623;35705;28627;Bolivia
+66705;royall@tigo.net.bo;S;LEONIDAS LIDIA;ROYAL SANGUINO;Ejecutivo - B2B;66705;35705;28627;Bolivia
+68395;ruizre@tigo.net.bo;S;REINA ISABEL;RUIZ LEON;Ejecutivo - B2B;68395;35705;28627;Bolivia
+67173;salazarv@tigo.net.bo;S;Vera Lucia;Salazar;Ejecutivo - B2B;67173;35705;28627;Bolivia
+68609;sattc@tigo.net.bo;S;CAROL NICOL;SATT BANEGAS;Ejecutivo - B2B;68609;35705;28627;Bolivia
+63557;silvac@tigo.net.bo;S;CARLOS AUGUSTO;SILVA ROJAS;Ejecutivo - B2B;63557;35705;28627;Bolivia
+64296;solizv@tigo.net.bo;S;VALERIA;SOLIZ EGUEZ;Ejecutivo - B2B;64296;35705;28627;Bolivia
+64218;soriab@tigo.net.bo;S;Betty Angela;Soria Angola;Ejecutivo - B2B;64218;35705;28627;Bolivia
+58861;suarezjlu@tigo.net.bo;S;Jose Luis;Suarez Laguno;Ejecutivo - B2B;58861;35705;28627;Bolivia
+61567;troncosos@tigo.net.bo;S;SALEM DANIELA;TRONCOSO RODRIGUEZ;Ejecutivo - B2B;61567;35705;28627;Bolivia
+64200;valeros@tigo.net.bo;S;SHIRLEY MABEL;VALERO CUADRADO;Ejecutivo - B2B;64200;35705;28627;Bolivia
+58863;varelam@tigo.net.bo;S;Monica Coral;Varela Villarroel;Ejecutivo - B2B;58863;35705;28627;Bolivia
+68085;vargasroc@tigo.net.bo;S;Rocio Jhenny;Vargas Bernabe;Ejecutivo - B2B;68085;35705;28627;Bolivia
+60932;velasquezc@tigo.net.bo;S;CINTHIA;VELASQUEZ HUAILLA;Ejecutivo - B2B;60932;35705;28627;Bolivia
+64170;villarroelmr@tigo.net.bo;S;MARIELA;VILLARROEL PEÑA;Ejecutivo - B2B;64170;35705;28627;Bolivia
+68391;werners@tigo.net.bo;S;SILVANA XIMENA;WERNER VACA;Ejecutivo - B2B;68391;35705;28627;Bolivia
+67171;zentenod@tigo.net.bo;S;Denice Cecilia;Zenteno Lafuente;Ejecutivo - B2B;67171;35705;28627;Bolivia
+63207;krklecl@tigo.net.bo;S;Luviza;Krklec Uchima;Ejecutivo - B2B;63207;35705;28627;Bolivia
+35705;padillar@tigo.net.bo;S;REYCRIZ;PADILLA GUAMAN;Ejecutivo - B2B;35705;;28627;Bolivia
+59770;rojasrox@tigo.net.bo;S;Roxana;Rojas Paz;Ejecutivo - B2B;59770;35705;28627;Bolivia
+61031;floresye@tigo.net.bo;S;Yesica;Flores Caceres;Ejecutivo - B2B;61031;35705;28627;Bolivia
+65675;picolominia@tigo.net.bo;S;Avigail;Picolomini Mendoza;Ejecutivo - B2B;65675;35705;28627;Bolivia
+63960;fortunattyc@tigo.net.bo;S;Carla Fernanda;Fortunatty Justiniano;Ejecutivo - B2B;63960;35705;28627;Bolivia
+64206;vallejosg@tigo.net.bo;S;Gabriel;Vallejos;Ejecutivo - B2B;64206;35705;28627;Bolivia
+66644;quirogag@tigo.net.bo;S;Gisela;Quiroga Paz;Ejecutivo - B2B;66644;35705;28627;Bolivia
+67174;cabezasp@tigo.net.bo;S;Pamela Giovana;Cabezas Perez;Ejecutivo - B2B;67174;35705;28627;Bolivia
+70247;sanchezcar@tigo.net.bo;S;Carla Gisella;Sanchez Maldonado;"Ejecutivo - B2B	";70247;35705;28627;Bolivia
+70248;montoyac@tigo.net.bo;S;Camilo;Montoya Alvarez;Ejecutivo - B2B;70248;35705;28627;Bolivia
+52125;arancibiac@tigo.net.bo;S;CARLOS HUGO;ARANCIBIA JUSTINIANO;Ejecutivo - B2B;52125;39607;38830;Bolivia
+55758;cardenasjo@tigo.net.bo;S;JOSE IVAN;CARDENAS SOLIZ;Ejecutivo - B2B;55758;39607;38830;Bolivia
+45826;mejiaa@tigo.net.bo;S;ANA LAURA;MEJIA BOTERO;Ejecutivo - B2B;45826;39607;38830;Bolivia
+BO_7;servicio@tigo.net.bo;S;SIN EJECUTIVO;BOLIVIA;Ejecutivo - B2B;;38620;13260;Bolivia
+55556;ulloal@tigo.net.bo;S;LILIANA;ULLOA OJOPI;Ejecutivo - B2B;55556;39607;38830;Bolivia
+53206;velizi@tigo.net.bo;S;IVANNA;VELIZ APAZA;Ejecutivo - B2B;53206;39607;38830;Bolivia
+63246;saraviaj@tigo.net.bo;S;JORGE MATIAS;SARAVIA SANDOVAL;Ejecutivo - B2B;63246;60579;66479;Bolivia
+65103;anezpe@tigo.net.bo;S;PERCY;AÑEZ CASTEDO;Supervisor - B2B;;65103;66479;Bolivia
+35450;porroc@tigo.net.bo;S;CAROLINA;PORRO SAAVEDRA;Supervisor - B2B;;35450;66479;Bolivia
+68878;terrazasca@tigo.net.bo;S;CAMILA;TERRAZAS;Supervisor - B2B;;68878;66479;Bolivia
+63006;andial@tigo.net.bo;S;LUIS ENRIQUE;ANDIA ALVAREZ;Ejecutivo - B2B;63006;68878;70480;Bolivia
+63899;bottlerc@tigo.net.bo;S;CECILIA;BOTTLER LANDIVAR;Ejecutivo - B2B;63899;65103;70480;Bolivia
+64807;chaconm@tigo.net.bo;S;MARIA DEL PILAR;CHACON CENTELLAS;Ejecutivo - B2B;64807;68878;70480;Bolivia
+68880;mercadoja@tigo.net.bo;S;JAVIER;MERCADO AÑEZ;Ejecutivo - B2B;68880;65103;70480;Bolivia
+52157;morrob@tigo.net.bo;S;BERNARDO;MORRO NUÑEZ;Ejecutivo - B2B;52157;68878;70480;Bolivia
+15867;paradan@tigo.net.bo;S;NOELIA;PARADA ROCA;Ejecutivo - B2B;15867;65103;70480;Bolivia
+63532;sallesp@tigo.net.bo;S;PAOLA KARINA;SALLES GUZMAN;Ejecutivo - B2B;63532;65103;70480;Bolivia
+60581;suarezrj@tigo.net.bo;S;ROBERTO JAVIER;SUAREZ CADARIO;Ejecutivo - B2B;60581;65103;70480;Bolivia
+65720;banegasma@tigo.net.bo;S;MARIA FERNANDA;BANEGAS SUAREZ;Ejecutivo - B2B;65720;65103;70480;Bolivia

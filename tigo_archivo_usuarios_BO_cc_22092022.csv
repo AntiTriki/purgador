@@ -1,0 +1,641 @@
+﻿ID_USUARIO;EMAIL;ACTIVO (S/N);NOMBRE_USUARIO;APELLIDO_USUARIO;ROL_PRIMARIO;ACCESO;ACCESO_2;ACCESO_CANAL;ACCESO_PAIS
+bo_cc_75938;gonzalezse@tigo.net.bo;S;SERGIO;GONZALEZ VILLAMAYOR;Agente;bo_cc_75938;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75939;godoymi@tigo.net.bo;S;MICAELA ELIZABETH;GODOY SOTO;Agente;bo_cc_75939;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75940;acevedoa@tigo.net.bo;S;ALFREDO DAVID;ACEVEDO GONZALEZ;Agente;bo_cc_75940;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75941;gomezjes@tigo.net.bo;S;JESSICA;GOMEZ DAVALOS;Agente;bo_cc_75941;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75942;insfranj@tigo.net.bo;S;JHAMYL;INSFRAN ;Agente;bo_cc_75942;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75943;morelm@tigo.net.bo;S;MIGUEL ANGEL;MOREL VEGA;Agente;bo_cc_75943;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75944;fernandezjhe@tigo.net.bo;S;JHENNY;FERNANDEZ MOLINAS;Agente;bo_cc_75944;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75945;villalbamil@tigo.net.bo;S;MILAGROS ANALIA  ;VILLALBA DAVALOS;Agente;bo_cc_75945;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75946;alvarezmi@tigo.net.bo;S;MILAGROS BERENICE;ALVAREZ BENITEZ;Agente;bo_cc_75946;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75947;berendsenp@tigo.net.bo;S;PATRICIA LORENA;BERENDSEN BENITEZ;Agente;bo_cc_75947;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75948;paredesana@tigo.net.bo;S;ANA LETICIA;PAREDES PALACIO;Agente;bo_cc_75948;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75949;caballeroma@tigo.net.bo;S;MARIA ANGELICA;CABALLERO AGUILERA;Agente;bo_cc_75949;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75950;medinaana@tigo.net.bo;S;ANALIA JAZMIN;MEDINA PINTOS;Agente;bo_cc_75950;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_46359;tapiah@tigo.net.bo;S;HUGO GERARDO;TAPIA SITTIC;Agente;bo_cc_46359;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71152;riberao@tigo.net.bo;S;OSCAR MANUEL;RIBERA PANTOJA;Agente;bo_cc_71152;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75986;pazdau@tigo.net.bo;S;DAUDET LINK;PAZ PINTO;Agente;bo_cc_75986;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75987;martinezha@tigo.net.bo;S;HAROLD ALAN;MARTINEZ LOPEZ;Agente;bo_cc_75987;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75988;garciam@tigo.net.bo;S;MICAELA VANESSA;GARCIA CARRANZA;Agente;bo_cc_75988;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75989;cocab@tigo.net.bo;S;BISMARK;COCA COCA;Agente;bo_cc_75989;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75990;ayllonk@tigo.net.bo;S;KAREN FABIOLA;AYLLON BALCAZAR;Agente;bo_cc_75990;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75991;palmaj@tigo.net.bo;S;JHONN VICTOR;PALMA ORELLANA;Agente;bo_cc_75991;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75992;choquemau@tigo.net.bo;S;MAURICIO DANIEL;CHOQUE NOGALES;Agente;bo_cc_75992;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75993;albama@tigo.net.bo;S;MARIA NAZARETH;ALBA VEGA;Agente;bo_cc_75993;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75994;enriquezd@tigo.net.bo;S;DANIEL;ENRIQUEZ CRUZ;Agente;bo_cc_75994;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75995;gutierrezric@tigo.net.bo;S;RICARDO;GUTIERREZ SOTO;Agente;bo_cc_75995;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75996;conemac@tigo.net.bo;S;CARLOS EDUARDO;CONEMA CORTEZ;Agente;bo_cc_75996;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75997;taborgaa@tigo.net.bo;S;ANGELA PATRICIA;TABORGA CESPEDES;Agente;bo_cc_75997;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75998;hinojosaa@tigo.net.bo;S;ABIGAIL;HINOJOSA ROJAS;Agente;bo_cc_75998;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_75999;noyak@tigo.net.bo;S;KENNIA;NOYA CLAVIJO;Agente;bo_cc_75999;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_76000;gutierrezmaris@tigo.net.bo;S;BECK MARISOL;GUTIERREZ DE;Agente;bo_cc_76000;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_54870;suarezfr@tigo.net.bo;S;FRANZ;SUAREZ LEDEZMA;Agente;bo_cc_54870;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_75271;mendozacarl@tigo.net.bo;S;CARLOS;MENDOZA;Agente;bo_cc_75271;;Contact Center;Bolivia
+bo_cc_55919;floresa@tigo.net.bo;S;ARMINDA;FLORES RODAS;Agente;bo_cc_55919;;Contact Center;Bolivia
+bo_cc_64321;quisbertk@tigo.net.bo;S;KATHLEEN IVANA;QUISBERT RAMOS;Agente;bo_cc_64321;;Contact Center;Bolivia
+bo_cc_59757;llanosm@tigo.net.bo;S;LLANOS DE SAAVEDRA NELIDA;ALBERTO;Agente;bo_cc_59757;;Contact Center;Bolivia
+bo_cc_team_75529;marecosa@tigo.net.bo;S;ANGELICA AIDEE;MARECOS BARRETO;Supervisor;bo_cc_team_75529;;Contact Center;Bolivia
+bo_cc_team_75530;riverosl@tigo.net.bo;S;LOURDE RUTH;RIVEROS GIMENEZ;Supervisor;bo_cc_team_75530;;Contact Center;Bolivia
+bo_cc_team_75531;acunag@tigo.net.bo;S;GISSELLE MARIA LUISA;ACUÑA GIMENEZ;Supervisor;bo_cc_team_75531;;Contact Center;Bolivia
+bo_cc_62292;aranoc@tigo.net.bo;S;CHRISTIE NICOLE;ARANO ARTEAGA;Agente;bo_cc_62292;;Contact Center;Bolivia
+bo_cc_59449;torrezg@tigo.net.bo;S;GABRIELA YESICA;TORREZ ARANDIA;Agente;bo_cc_59449;;Contact Center;Bolivia
+bo_cc_75260;pereirate@tigo.net.bo;S;TERESA;PEREIRA ;Agente;bo_cc_75260;;Contact Center;Bolivia
+bo_cc_75261;lopezmiri@tigo.net.bo;S;MIRIAN JOHANA;LOPEZ ROLON;Agente;bo_cc_75261;;Contact Center;Bolivia
+bo_cc_75262;trinidadn@tigo.net.bo;S;NATALIA ELIZABETH;TRINIDAD ALFONZO;Agente;bo_cc_75262;;Contact Center;Bolivia
+bo_cc_75263;vairoletos@tigo.net.bo;S;SOPHIA INES;VAIROLETO GUANES;Agente;bo_cc_75263;;Contact Center;Bolivia
+bo_cc_75264;gillj@tigo.net.bo;S;JESSICA ISABEL;GILL CORONEL;Agente;bo_cc_75264;;Contact Center;Bolivia
+bo_cc_75265;almironc@tigo.net.bo;S;CAMILA MONSERRAT;ALMIRON BENITEZ;Agente;bo_cc_75265;;Contact Center;Bolivia
+bo_cc_75266;canetey@tigo.net.bo;S;YENNY ROSSANA;CANETE SANCHEZ;Agente;bo_cc_75266;;Contact Center;Bolivia
+bo_cc_75267;galeanoj@tigo.net.bo;S;JUAN GABRIEL;GALEANO AGUAYO;Agente;bo_cc_75267;;Contact Center;Bolivia
+bo_cc_75268;insfranl@tigo.net.bo;S;LICIA ATALIA;INSFRAN NUNEZ;Agente;bo_cc_75268;;Contact Center;Bolivia
+bo_cc_75269;leonf@tigo.net.bo;S;FATIMA ARAMI;LEON BENITEZ;Agente;bo_cc_75269;;Contact Center;Bolivia
+bo_cc_75270;ramirezce@tigo.net.bo;S;CESAR MATIAS;RAMIREZ RUIZ;Agente;bo_cc_75270;;Contact Center;Bolivia
+bo_cc_75272;pereirah@tigo.net.bo;S;HELIO JAVIER;PEREIRA ORQUIOLA;Agente;bo_cc_75272;;Contact Center;Bolivia
+bo_cc_75273;gadeac@tigo.net.bo;S;CLAUDIA;GADEA ;Agente;bo_cc_75273;;Contact Center;Bolivia
+bo_cc_75274;carrerasr@tigo.net.bo;S;RICARDO EZEQUIEL;CARRERAS LOPEZ;Agente;bo_cc_75274;;Contact Center;Bolivia
+bo_cc_75275;armoap@tigo.net.bo;S;PEDRO IGNACIO;ARMOA BAEZ;Agente;bo_cc_75275;;Contact Center;Bolivia
+bo_cc_75276;ortelladom@tigo.net.bo;S;MATHIAS ARIEL;ORTELLADO CACERES;Agente;bo_cc_75276;;Contact Center;Bolivia
+bo_cc_75277;blancogl@tigo.net.bo;S;GLORIA ELIZABETH;BLANCO AGUILERA;Agente;bo_cc_75277;;Contact Center;Bolivia
+bo_cc_75062;molinadie@tigo.net.bo;S;DIEGO JOSE;MOLINA TOROMECHI;Agente;bo_cc_75062;;Contact Center;Bolivia
+bo_cc_74778;maldonadocam@tigo.net.bo;S;CAMILA SOLEDAD;MALDONADO OJEDA;Agente;bo_cc_74778;;Contact Center;Bolivia
+bo_cc_74860;ortegab@tigo.net.bo;S;BARBARA LUCIA;ORTEGA BENITEZ;Agente;bo_cc_74860;;Contact Center;Bolivia
+bo_cc_74768;romeroalv@tigo.net.bo;S;ALVARO ALEJANDRO;ROMERO GONZALEZ;Agente;bo_cc_74768;;Contact Center;Bolivia
+bo_cc_74770;oruem@tigo.net.bo;S;DÍAZ MARIA MICAELA B;ORUE RUIZ;Agente;bo_cc_74770;;Contact Center;Bolivia
+bo_cc_74772;barretoc@tigo.net.bo;S;CLAUDIA NATALY;BARRETO ESPINOLA;Agente;bo_cc_74772;;Contact Center;Bolivia
+bo_cc_74774;montielm@tigo.net.bo;S;MELISSA MABEL;MONTIEL SALDÍVAR;Agente;bo_cc_74774;;Contact Center;Bolivia
+bo_cc_74776;villalbamar@tigo.net.bo;S;MARTHA LETICIA;VILLALBA MIRANDA;Agente;bo_cc_74776;;Contact Center;Bolivia
+bo_cc_74780;pintosk@tigo.net.bo;S;KATIA NAZARETH;PINTOS -;Agente;bo_cc_74780;;Contact Center;Bolivia
+bo_cc_74782;perezh@tigo.net.bo;S;HERNAN DARIO;PEREZ CESPEDES;Agente;bo_cc_74782;;Contact Center;Bolivia
+bo_cc_74784;balcazarg@tigo.net.bo;S;GRISELDA NATALIA;BALCAZAR AVALOS;Agente;bo_cc_74784;;Contact Center;Bolivia
+bo_cc_74786;leguizamonv@tigo.net.bo;S;VIVIAN VANESA;LEGUIZAMON BENITEZ;Agente;bo_cc_74786;;Contact Center;Bolivia
+bo_cc_74788;valenzuelada@tigo.net.bo;S;DARA;VALENZUELA RUIZ;Agente;bo_cc_74788;;Contact Center;Bolivia
+bo_cc_74790;martinezt@tigo.net.bo;S;TATIANA SARA;MARTINEZ GAUTO;Agente;bo_cc_74790;;Contact Center;Bolivia
+bo_cc_74767;avalosjo@tigo.net.bo;S;JONATHAN LEANDRO;AVALOS NUÑEZ;Agente;bo_cc_74767;;Contact Center;Bolivia
+bo_cc_74769;montesd@tigo.net.bo;S;DEISI PAOLA;MONTES COLEMAN;Agente;bo_cc_74769;;Contact Center;Bolivia
+bo_cc_74771;ramosmar@tigo.net.bo;S;MARIA BELEN;RAMOS RAMIREZ;Agente;bo_cc_74771;;Contact Center;Bolivia
+bo_cc_74773;martinezos@tigo.net.bo;S;OSCAR DENIS;MARTÍNEZ LÓPEZ;Agente;bo_cc_74773;;Contact Center;Bolivia
+bo_cc_74775;elizechej@tigo.net.bo;S;JORGE ARIEL;ELIZECHE ACOSTA;Agente;bo_cc_74775;;Contact Center;Bolivia
+bo_cc_74777;salazl@tigo.net.bo;S;LUZ CELESTE;SALAZ MORA;Agente;bo_cc_74777;;Contact Center;Bolivia
+bo_cc_74779;coronele@tigo.net.bo;S;EVELYN;CORONEL ALCARAZ;Agente;bo_cc_74779;;Contact Center;Bolivia
+bo_cc_74781;espinolaan@tigo.net.bo;S;ANA BELÉN;ESPINOLA FRUTOS;Agente;bo_cc_74781;;Contact Center;Bolivia
+bo_cc_74783;riosme@tigo.net.bo;S;MELANI;RIOS CUEVAS;Agente;bo_cc_74783;;Contact Center;Bolivia
+bo_cc_74785;morinigob@tigo.net.bo;S;BRUNA EDIT;MORINIGO -;Agente;bo_cc_74785;;Contact Center;Bolivia
+bo_cc_74787;francoem@tigo.net.bo;S;EMILIO RONALDO;FRANCO GARCETE;Agente;bo_cc_74787;;Contact Center;Bolivia
+bo_cc_74789;delgadoel@tigo.net.bo;S;ELIANA SOLEDAD;DELGADO NÚÑEZ;Agente;bo_cc_74789;;Contact Center;Bolivia
+bo_cc_62120;choquetarquiy@tigo.net.bo;S;YSA LISSETH;CHOQUETARQUI NINA;Agente;bo_cc_62120;;Contact Center;Bolivia
+bo_cc_64404;quimpem@tigo.net.bo;S;MARIANA;QUIMPE ACHA;Agente;bo_cc_64404;;Contact Center;Bolivia
+bo_cc_74823;lozanol@tigo.net.bo;S;LESLIE ROSSY;LOZANO VILLAGOMEZ;Agente;bo_cc_74823;;Contact Center;Bolivia
+bo_cc_74825;zabalaen@tigo.net.bo;S;ENRIQUE ALEJANDRO;ZABALA TAPEOSI;Agente;bo_cc_74825;;Contact Center;Bolivia
+bo_cc_34653;mendezra@tigo.net.bo;S;RAUL STIBEN;MENDEZ ORTUÑO;Agente;bo_cc_34653;;Contact Center;Bolivia
+bo_cc_74828;girondam@tigo.net.bo;S;MIGUEL ANGEL;GIRONDA MARQUEZ;Agente;bo_cc_74828;;Contact Center;Bolivia
+bo_cc_74824;espinozajose@tigo.net.bo;S;JOSE GROVER;ESPINOZA SANCHEZ;Agente;bo_cc_74824;;Contact Center;Bolivia
+bo_cc_74826;bejaranoro@tigo.net.bo;S;ROSY ESTHER;BEJARANO DURAN;Agente;bo_cc_74826;;Contact Center;Bolivia
+bo_cc_74827;zabalalo@tigo.net.bo;S;LORENA;ZABALA ANDIA;Agente;bo_cc_74827;;Contact Center;Bolivia
+bo_cc_team_74765;ojedal@tigo.net.bo;S;LUCAS FABIAN;OJEDA FERNANDEZ;Supervisor;bo_cc_team_74765;;Contact Center;Bolivia
+bo_cc_team_74766;almadam@tigo.net.bo;S;MAURICIO FABIAN;ALMADA RODRIGUEZ;Supervisor;bo_cc_team_74766;;Contact Center;Bolivia
+bo_cc_74585;jaral@tigo.net.bo;S;LIZ ARACELY;JARA JIMENEZ;Agente;bo_cc_74585;;Contact Center;Bolivia
+bo_cc_74587;baeze@tigo.net.bo;S;ELENA;BAEZ ACUÑA;Agente;bo_cc_74587;;Contact Center;Bolivia
+bo_cc_74589;morant@tigo.net.bo;S;TAMARA GISELLE;MORÁN SANTANDER;Agente;bo_cc_74589;;Contact Center;Bolivia
+bo_cc_74591;duarted@tigo.net.bo;S;DIANA JAZMIN;DUARTE ROLON;Agente;bo_cc_74591;;Contact Center;Bolivia
+bo_cc_74593;melgarejoc@tigo.net.bo;S;CAYETANA LIZ;MELGAREJO ROMAN;Agente;bo_cc_74593;;Contact Center;Bolivia
+bo_cc_74595;orregom@tigo.net.bo;S;MAURICIO IVAN;ORREGO SIMBRON;Agente;bo_cc_74595;;Contact Center;Bolivia
+bo_cc_74597;mereless@tigo.net.bo;S;SOFÍA MONTSERRAT;MERELES CABRERA;Agente;bo_cc_74597;;Contact Center;Bolivia
+bo_cc_74599;veradi@tigo.net.bo;S;DIEGO ARSENIO;VERA PAREDES;Agente;bo_cc_74599;;Contact Center;Bolivia
+bo_cc_74601;alemanan@tigo.net.bo;S;ANDREA CAROLINA;ALEMAN VELAZQUEZ;Agente;bo_cc_74601;;Contact Center;Bolivia
+bo_cc_74603;medinamari@tigo.net.bo;S;MARIA DEL MAR;MEDINA LISSANDRY;Agente;bo_cc_74603;;Contact Center;Bolivia
+bo_cc_74605;segoviabe@tigo.net.bo;S;BELEN SOLEDAD;SEGOVIA ;Agente;bo_cc_74605;;Contact Center;Bolivia
+bo_cc_74607;gamarray@tigo.net.bo;S;YESSICA DALILA;GAMARRA INSFRAN;Agente;bo_cc_74607;;Contact Center;Bolivia
+bo_cc_74609;resquinl@tigo.net.bo;S;LUCERO MARIA PAZ;RESQUIN FLORENTIN;Agente;bo_cc_74609;;Contact Center;Bolivia
+bo_cc_74586;caballeroa@tigo.net.bo;S;ARACELI MONSERRAT;CABALLERO ALARCON;Agente;bo_cc_74586;;Contact Center;Bolivia
+bo_cc_74588;obregonm@tigo.net.bo;S;MILAGROS ANAHI;OBREGÓN ;Agente;bo_cc_74588;;Contact Center;Bolivia
+bo_cc_74590;toralesa@tigo.net.bo;S;ADRIANA ARACELI;TORALES PEREIRA;Agente;bo_cc_74590;;Contact Center;Bolivia
+bo_cc_74592;caballeroju@tigo.net.bo;S;JULIO GUILLERMO;CABALLERO NOGUERA;Agente;bo_cc_74592;;Contact Center;Bolivia
+bo_cc_74594;oviedoe@tigo.net.bo;S;ELIAS ANDRES;OVIEDO BENITEZ;Agente;bo_cc_74594;;Contact Center;Bolivia
+bo_cc_74596;cespedest@tigo.net.bo;S;THANIA MONSERRAT;CESPEDES GARCIA;Agente;bo_cc_74596;;Contact Center;Bolivia
+bo_cc_74598;vazqueze@tigo.net.bo;S;ESTELA MAGALI;VÁZQUEZ GIMENEZ;Agente;bo_cc_74598;;Contact Center;Bolivia
+bo_cc_74600;amarilal@tigo.net.bo;S;LUIS FERNANDO;AMARILA IRALA;Agente;bo_cc_74600;;Contact Center;Bolivia
+bo_cc_74602;baezg@tigo.net.bo;S;GEREMIAS SANTIAGO;BAEZ MORENO;Agente;bo_cc_74602;;Contact Center;Bolivia
+bo_cc_74604;alcarazal@tigo.net.bo;S;ALEX JUNIOR;ALCARAZ MERCADO;Agente;bo_cc_74604;;Contact Center;Bolivia
+bo_cc_74606;canee@tigo.net.bo;S;ERIKA GIANINA;CANE MORALES;Agente;bo_cc_74606;;Contact Center;Bolivia
+bo_cc_74608;alvarengaa@tigo.net.bo;S;ARTURO ADRIÁN;ALVARENGA ACOSTA;Agente;bo_cc_74608;;Contact Center;Bolivia
+bo_cc_74610;martinezmo@tigo.net.bo;S;MONICA JAZMIN;MARTINEZ CHAPARRO;Agente;bo_cc_74610;;Contact Center;Bolivia
+bo_cc_team_74448;medinamar@tigo.net.bo;S;MARIA ALEJANDRA;MEDINA;Supervisor;bo_cc_team_74448;;Contact Center;Bolivia
+bo_cc_62120;choquetarquiy@tigo.net.bo;S;YSA LISSETH;CHOQUETARQUI NINA;Agente;bo_cc_62120;;Contact Center;Bolivia
+bo_cc_74436;coronelc@tigo.net.bo;S;CAROLINA JUDITH;CORONEL MEDINA;Agente;bo_cc_74436;;Contact Center;Bolivia
+bo_cc_74442;bogador@tigo.net.bo;S;ROMINA BELEN;BOGADO ;Agente;bo_cc_74442;;Contact Center;Bolivia
+bo_cc_74444;diazana@tigo.net.bo;S;ANALÍA NOEMI;DIAZ CABALLERO;Agente;bo_cc_74444;;Contact Center;Bolivia
+bo_cc_74446;velazqezlu@tigo.net.bo;S;LUIS ALEJANDRO;VELAZQUEZ GONZALEZ;Agente;bo_cc_74446;;Contact Center;Bolivia
+bo_cc_74435;bogadoed@tigo.net.bo;S;EDUARDO MATIAS;BOGADO ESTIGARRIBIA;Agente;bo_cc_74435;;Contact Center;Bolivia
+bo_cc_74441;villalbal@tigo.net.bo;S;LEIDI VIANCA;VILLALBA ESPINOLA;Agente;bo_cc_74441;;Contact Center;Bolivia
+bo_cc_74443;gonzalezcr@tigo.net.bo;S;CRISTINA BEATRIZ;GONZALEZ BRITEZ;Agente;bo_cc_74443;;Contact Center;Bolivia
+bo_cc_74447;bogadoc@tigo.net.bo;S;CRISTOPHER DAVID;BOGADO LOPEZ;Agente;bo_cc_74447;;Contact Center;Bolivia
+bo_cc_74573;esquivelz@tigo.net.bo;S;ZULLY NOEMI;ESQUIVEL MARTINEZ;Agente;bo_cc_74573;;Contact Center;Bolivia
+bo_cc_74575;verana@tigo.net.bo;S;NAHUM EMANUEL;VERA GONZALEZ;Agente;bo_cc_74575;;Contact Center;Bolivia
+bo_cc_74577;arguelloo@tigo.net.bo;S;OSCAR DAVID;ARGÜELLO MONGES;Agente;bo_cc_74577;;Contact Center;Bolivia
+bo_cc_74572;garciaka@tigo.net.bo;S;KAREN YANINA;GARCÍA BENITEZ;Agente;bo_cc_74572;;Contact Center;Bolivia
+bo_cc_74574;aguerof@tigo.net.bo;S;FAMY MARILIA;AGÜERO PEDROZO;Agente;bo_cc_74574;;Contact Center;Bolivia
+bo_cc_74576;torrezma@tigo.net.bo;S;MARLEN MANUELA;TORREZ VILLALBA;Agente;bo_cc_74576;;Contact Center;Bolivia
+bo_cc_74292;zambranay@tigo.net.bo;S;YINA DIANA;ZAMBRANA TITICHOCA;Agente;bo_cc_74292;;Contact Center;Bolivia
+bo_cc_team_74338;torradoc@tigo.net.bo;S;CARLOS RODRIGO;TORRADO PEREIRA;Supervisor;bo_cc_team_74338;;Contact Center;Bolivia
+bo_cc_73704;lopezam@tigo.net.bo;S;AMANDA;LOPEZ ESPINOLA;Agente;bo_cc_73704;;Contact Center;Bolivia
+bo_cc_74141;solizal@tigo.net.bo;S;ALEX JUNIOR;SOLIZ CAVALCANTE;Agente;bo_cc_74141;;Contact Center;Bolivia
+bo_cc_74142;maldonadool@tigo.net.bo;S;OLIVIA;MALDONADO QUISPE;Agente;bo_cc_74142;;Contact Center;Bolivia
+bo_cc_74155;lezcanoa@tigo.net.bo;S;ADRIAN;LEZCANO DOMINGOS;Agente;bo_cc_74155;;Contact Center;Bolivia
+bo_cc_60689;gomezsi@tigo.net.bo;S;SILVIA;GOMEZ MOLLO;Agente;bo_cc_60689;;Contact Center;Bolivia
+bo_cc_74021;montenegrol@tigo.net.bo;S;LUIS DOMINGO;MONTENEGRO RIVERO;Agente;bo_cc_74021;;Contact Center;Bolivia
+bo_cc_35147;herediar@tigo.net.bo;S;LAPAQUETTE ROSA MARI;HEREDIA DE;Agente;bo_cc_35147;;Contact Center;Bolivia
+bo_cc_74022;pacop@tigo.net.bo;S;PATRICIA YANETH;PACO LAYME;Agente;bo_cc_74022;;Contact Center;Bolivia
+bo_cc_team_72947;paredesy@tigo.net.bo;S;JESSICA YADHIRA ABIG;PAREDES LEZCANO;Supervisor;bo_cc_team_72947;;Contact Center;Bolivia
+bo_cc_73867;cardozop@tigo.net.bo;S;PABLO;CARDOZO ORIHUELA;Agente;bo_cc_73867;;Contact Center;Bolivia
+bo_cc_73869;toraless@tigo.net.bo;S;SARA;TORALES ;Agente;bo_cc_73869;;Contact Center;Bolivia
+bo_cc_73871;colmanb@tigo.net.bo;S;BRISA;COLMAN ;Agente;bo_cc_73871;;Contact Center;Bolivia
+bo_cc_73873;avalosl@tigo.net.bo;S;LIZ;AVALOS MARTINEZ;Agente;bo_cc_73873;;Contact Center;Bolivia
+bo_cc_73875;amarillab@tigo.net.bo;S;BRUNO;AMARILLA MEDINA;Agente;bo_cc_73875;;Contact Center;Bolivia
+bo_cc_73877;duartev@tigo.net.bo;S;VICTOR;DUARTE AYALA;Agente;bo_cc_73877;;Contact Center;Bolivia
+bo_cc_73879;quintanac@tigo.net.bo;S;CESAR;QUINTANA SOSA;Agente;bo_cc_73879;;Contact Center;Bolivia
+bo_cc_73881;riverosc@tigo.net.bo;S;CLARA;RIVEROS TORRES;Agente;bo_cc_73881;;Contact Center;Bolivia
+bo_cc_73885;gomezn@tigo.net.bo;S;NADIA;GOMEZ AVALOS;Agente;bo_cc_73885;;Contact Center;Bolivia
+bo_cc_73887;burgosi@tigo.net.bo;S;ISAIAS;BURGOS LOPEZ;Agente;bo_cc_73887;;Contact Center;Bolivia
+bo_cc_73889;gimenezc@tigo.net.bo;S;CHABELA;GIMENEZ ;Agente;bo_cc_73889;;Contact Center;Bolivia
+bo_cc_73891;ortizso@tigo.net.bo;S;SOFÍA;ORTIZ OVELAR;Agente;bo_cc_73891;;Contact Center;Bolivia
+bo_cc_73866;ferreiram@tigo.net.bo;S;MILAGROS;FERREIRA AQUINO;Agente;bo_cc_73866;;Contact Center;Bolivia
+bo_cc_73868;rivarolaa@tigo.net.bo;S;ABEL;RIVAROLA INSAURRALDE;Agente;bo_cc_73868;;Contact Center;Bolivia
+bo_cc_73870;roam@tigo.net.bo;S;MATIAS;ROA ROA;Agente;bo_cc_73870;;Contact Center;Bolivia
+bo_cc_73872;durel@tigo.net.bo;S;LOURDES;DURE VILLALBA;Agente;bo_cc_73872;;Contact Center;Bolivia
+bo_cc_73874;lugoa@tigo.net.bo;S;ANTONIA;LUGO MIRANDA;Agente;bo_cc_73874;;Contact Center;Bolivia
+bo_cc_73876;sandovalp@tigo.net.bo;S;PAMELA;SANDOVAL CACERES;Agente;bo_cc_73876;;Contact Center;Bolivia
+bo_cc_73878;riquelmey@tigo.net.bo;S;YENIFER;RIQUELME PORTILLO;Agente;bo_cc_73878;;Contact Center;Bolivia
+bo_cc_73880;vaeskenv@tigo.net.bo;S;VENUS;VAESKEN PEREIRA;Agente;bo_cc_73880;;Contact Center;Bolivia
+bo_cc_73884;riverose@tigo.net.bo;S;ELIANA;RIVEROS MEZA;Agente;bo_cc_73884;;Contact Center;Bolivia
+bo_cc_73886;chaparroc@tigo.net.bo;S;CAMILA;CHAPARRO GALEANO;Agente;bo_cc_73886;;Contact Center;Bolivia
+bo_cc_73890;arriolat@tigo.net.bo;S;TANIA;ARRIOLA VILLALBA;Agente;bo_cc_73890;;Contact Center;Bolivia
+bo_cc_73770;zelayaa@tigo.net.bo;S;ALDO SEBASTIAN;ZELAYA GONZALEZ;Agente;bo_cc_73770;;Contact Center;Bolivia
+bo_cc_73695;aquinoal@tigo.net.bo;S;ALEJANDRO DAMIAN;AQUINO ARCE;Agente;bo_cc_73695;;Contact Center;Bolivia
+bo_cc_73697;caballeror@tigo.net.bo;S;ROCIO VIANCA;CABALLERO ARISTIQUI;Agente;bo_cc_73697;;Contact Center;Bolivia
+bo_cc_73699;quintanae@tigo.net.bo;S;ESTHER;QUINTANA GUERRERO;Agente;bo_cc_73699;;Contact Center;Bolivia
+bo_cc_73701;alvarezreb@tigo.net.bo;S;REBECA;ALVAREZ BURGOS;Agente;bo_cc_73701;;Contact Center;Bolivia
+bo_cc_73703;paezn@tigo.net.bo;S;NILDA;PAEZ LUGO;Agente;bo_cc_73703;;Contact Center;Bolivia
+bo_cc_73705;canov@tigo.net.bo;S;VIRGINIA;CANO MIRANDA;Agente;bo_cc_73705;;Contact Center;Bolivia
+bo_cc_73707;mezat@tigo.net.bo;S;THANIA GISELLE;MEZA GARCIA;Agente;bo_cc_73707;;Contact Center;Bolivia
+bo_cc_73709;galeanom@tigo.net.bo;S;MARIA OLGA;GALEANO ROJAS;Agente;bo_cc_73709;;Contact Center;Bolivia
+bo_cc_73711;vazquezn@tigo.net.bo;S;NILSEN;VAZQUEZ PELUSA;Agente;bo_cc_73711;;Contact Center;Bolivia
+bo_cc_73713;ortizo@tigo.net.bo;S;OVIDIO;ORTIZ DIAZ;Agente;bo_cc_73713;;Contact Center;Bolivia
+bo_cc_73715;gomezjul@tigo.net.bo;S;JULIO ISAAC;GOMEZ ARMOA;Agente;bo_cc_73715;;Contact Center;Bolivia
+bo_cc_73717;escobarl@tigo.net.bo;S;LUIS;ESCOBAR CABANAS;Agente;bo_cc_73717;;Contact Center;Bolivia
+bo_cc_73696;gomezdin@tigo.net.bo;S;DINA;GOMEZ ESPINOLA;Agente;bo_cc_73696;;Contact Center;Bolivia
+bo_cc_73698;zarzam@tigo.net.bo;S;MARIA CONCEPCION;ZARZA CASSERA;Agente;bo_cc_73698;;Contact Center;Bolivia
+bo_cc_73700;fleitasl@tigo.net.bo;S;CANO LILIANA;FLEITAS DE;Agente;bo_cc_73700;;Contact Center;Bolivia
+bo_cc_73702;moranl@tigo.net.bo;S;LIZ;MORAN ROJAS;Agente;bo_cc_73702;;Contact Center;Bolivia
+bo_cc_73706;cabreralo@tigo.net.bo;S;LORENZO;CABRERA ROMAN;Agente;bo_cc_73706;;Contact Center;Bolivia
+bo_cc_73710;moudellea@tigo.net.bo;S;ADRIANA;MOUDELLE SANABRIA;Agente;bo_cc_73710;;Contact Center;Bolivia
+bo_cc_73712;apontel@tigo.net.bo;S;LARIZA;APONTE SANABRIA;Agente;bo_cc_73712;;Contact Center;Bolivia
+bo_cc_73714;silveros@tigo.net.bo;S;SEBASTIAN;SILVERO ALMADA;Agente;bo_cc_73714;;Contact Center;Bolivia
+bo_cc_73716;veragis@tigo.net.bo;S;GISELLE NAOMI;VERA GONZALEZ;Agente;bo_cc_73716;;Contact Center;Bolivia
+bo_cc_73718;benitezf@tigo.net.bo;S;FABIO MARCELO;BENITEZ AGUERO;Agente;bo_cc_73718;;Contact Center;Bolivia
+bo_cc_73507;ozunal@tigo.net.bo;S;LUZ ALBA;OZUNA LEON;Agente;bo_cc_73507;;Contact Center;Bolivia
+bo_cc_73509;duartes@tigo.net.bo;S;SILVANA MARIA BELEN;DUARTE ROMERO;Agente;bo_cc_73509;;Contact Center;Bolivia
+bo_cc_73513;velazquezd@tigo.net.bo;S;DEBORAH NOEMI;VELAZQUEZ SANDEZ;Agente;bo_cc_73513;;Contact Center;Bolivia
+bo_cc_73515;vallejosr@tigo.net.bo;S;RICARDO EZEQUIEL;VALLEJOS LUGO;Agente;bo_cc_73515;;Contact Center;Bolivia
+bo_cc_73508;nogueraa@tigo.net.bo;S;ALEJANDRO MIGUEL;NOGUERA MARTINEZ;Agente;bo_cc_73508;;Contact Center;Bolivia
+bo_cc_73510;mattoc@tigo.net.bo;S;CELIA MABEL;MATTO PARRA;Agente;bo_cc_73510;;Contact Center;Bolivia
+bo_cc_73512;villasboaa@tigo.net.bo;S;ARACELI BEATRIZ;VILLASBOA ALVAREZ;Agente;bo_cc_73512;;Contact Center;Bolivia
+bo_cc_73514;gimenezm@tigo.net.bo;S;MONICA ESTER;GIMENEZ FRANCO;Agente;bo_cc_73514;;Contact Center;Bolivia
+bo_cc_73516;taboadale@tigo.net.bo;S;LETICIA GABRIELA;TABOADA FRANCO;Agente;bo_cc_73516;;Contact Center;Bolivia
+bo_cc_team_72825;agueroa@tigo.net.bo;S;ALBERTO ANDRES;AGUERO SILVA;Supervisor;bo_cc_team_72825;;Contact Center;Bolivia
+bo_cc_team_73284;diazje@tigo.net.bo;S;JERONIMO JESUS;DIAZ;Supervisor;bo_cc_team_73284;;Contact Center;Bolivia
+bo_cc_team_73283;barbierim@tigo.net.bo;S;MARTIN HUGO;BARBIERI;Supervisor;bo_cc_team_73283;;Contact Center;Bolivia
+bo_cc_72928;ojedaa@tigo.net.bo;S;ARIANA MABEL;OJEDA OJEDA;Agente;bo_cc_72928;;Contact Center;Bolivia
+bo_cc_72919;nunezt@tigo.net.bo;S;THAIANA NICOLE;NUNEZ GONZALEZ;Agente;bo_cc_72919;;Contact Center;Bolivia
+bo_cc_72933;pereirafe@tigo.net.bo;S;FRANCISCA ELIZABETH;PEREIRA MENDOZA;Agente;bo_cc_72933;;Contact Center;Bolivia
+bo_cc_72941;francoli@tigo.net.bo;S;LILIAN ROCIO;FRANCO MORINIGO;Agente;bo_cc_72941;;Contact Center;Bolivia
+bo_cc_72949;gonzalezd@tigo.net.bo;S;DIEGO RAMON;GONZALEZ CARVALLO;Agente;bo_cc_72949;;Contact Center;Bolivia
+bo_cc_72951;francov@tigo.net.bo;S;VANESSA LUJAN;FRANCO JACQUET;Agente;bo_cc_72951;;Contact Center;Bolivia
+bo_cc_72963;dacakw@tigo.net.bo;S;WILSON PASTOR;DACAK COLMAN;Agente;bo_cc_72963;;Contact Center;Bolivia
+bo_cc_72967;gonzalezym@tigo.net.bo;S;YAMILE MARILE;GONZALEZ AYALA;Agente;bo_cc_72967;;Contact Center;Bolivia
+bo_cc_72930;morela@tigo.net.bo;S;ANA ANDREA;MOREL OLMEDO;Agente;bo_cc_72930;;Contact Center;Bolivia
+bo_cc_72932;ferreiral@tigo.net.bo;S;LUCAS ERNESTO;FERREIRA ALDERETE;Agente;bo_cc_72932;;Contact Center;Bolivia
+bo_cc_72934;benitezl@tigo.net.bo;S;LUIS MARIA;BENITEZ OCAMPOS;Agente;bo_cc_72934;;Contact Center;Bolivia
+bo_cc_72936;zaratem@tigo.net.bo;S;MARIA NICOL  ADELAID;ZARATE  LEITE;Agente;bo_cc_72936;;Contact Center;Bolivia
+bo_cc_72946;alfonzos@tigo.net.bo;S;SANDRA AILEN;ALFONZO GALEANO;Agente;bo_cc_72946;;Contact Center;Bolivia
+bo_cc_72950;gavilanl@tigo.net.bo;S;LUHANA MARILIHA;GAVILAN MARTINEZ;Agente;bo_cc_72950;;Contact Center;Bolivia
+bo_cc_72958;acunam@tigo.net.bo;S;MARIA LIZ;ACUNA PEREZ;Agente;bo_cc_72958;;Contact Center;Bolivia
+bo_cc_72960;barriosr@tigo.net.bo;S;ROCIO SOLEDAD;BARRIOS LOPEZ;Agente;bo_cc_72960;;Contact Center;Bolivia
+bo_cc_72964;recaldey@tigo.net.bo;S;YANNETH EMIL;RECALDE PERERIRA;Agente;bo_cc_72964;;Contact Center;Bolivia
+bo_cc_72968;kopachi@tigo.net.bo;S;INGRID VANESA;KOPACH  RAMIREZ;Agente;bo_cc_72968;;Contact Center;Bolivia
+bo_cc_72976;velazquezl@tigo.net.bo;S;LIZ PAOLA;VELAZQUEZ OJEDA;Agente;bo_cc_72976;;Contact Center;Bolivia
+bo_cc_72971;portillot@tigo.net.bo;S;TALIA NICOLE;PORTILLO RODRIGUEZ;Agente;bo_cc_72971;;Contact Center;Bolivia
+bo_cc_72977;frutosa@tigo.net.bo;S;ALESSANDRO DAVID;FRUTOS PALMEROLA;Agente;bo_cc_72977;;Contact Center;Bolivia
+bo_cc_72979;vazquezg@tigo.net.bo;S;GISELA JAZMIN;VAZQUEZ ROJAS;Agente;bo_cc_72979;;Contact Center;Bolivia
+bo_cc_64388;arauzs@tigo.net.bo;S;SEBASTIAN;ARAUZ MENDIZABAL;Agente;bo_cc_64388;;Contact Center;Bolivia
+bo_cc_team_73107;garceteo@tigo.net.bo;S;OSCAR BASILIDES;GARCETE ORTEGA;Supervisor;bo_cc_team_73107;;Contact Center;Bolivia
+bo_cc_72888;pintojc@tigo.net.bo;S;JORGE CLOVIS;PINTO EL HAGE;Agente;bo_cc_72888;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_72999;rochani@tigo.net.bo;S;NICOLAS MATEO;ROCHA CORRALES ;Agente;bo_cc_72999;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_72829;herrerawm@tigo.net.bo;S;WILLY MAURICIO;HERRERA MENDEZ;Agente;bo_cc_72829;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_50880;cespedesl@tigo.net.bo;S;LUIS ENRIQUE;CESPEDES MENDEZ;Agente;bo_cc_team_50880;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_57070;caballerom@tigo.net.bo;S;MIRIAN;CABALLERO PADILLA;Agente;bo_cc_team_57070;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71702;arauzi@tigo.net.bo;S;IVONNE;ARAUZ OVANDO;Agente;bo_cc_71702;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71695;rocaanav@tigo.net.bo;S;ANA VALERIA;ROCA SOLAR;Agente;bo_cc_71695;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71701;gumuciog@tigo.net.bo;S;GIOVANNA;GUMUCIO MONTAÑO;Agente;bo_cc_71701;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71703;chavezjor@tigo.net.bo;N;JORGE LUIS;CHAVEZ VACA;Agente;bo_cc_71703;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71710;arimosar@tigo.net.bo;S;ROSIBEL;ARIMOSA VIRGUEZ;Agente;bo_cc_71710;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71714;zunay@tigo.net.bo;S;YENNY LAURA;ZUNA GUTIERREZ;Agente;bo_cc_71714;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64585;mercadoer@tigo.net.bo;S;ERICKA ;MERCADO IBAÑEZ;Agente;bo_cc_64585;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_49389;barberym@tigo.net.bo;S;MIRTHA LOREND;BARBERY HERBAS;Agente;bo_cc_49389;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_55936;elhageje@tigo.net.bo;S;LIJERON JESSICA;EL HAGE;Agente;bo_cc_55936;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_58396;mencarij@tigo.net.bo;S;JORGE ;MENCARI PEREIRA;Agente;bo_cc_58396;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_58780;salazarci@tigo.net.bo;S;CINTHIA VERONICA;SALAZAR CORONADO;Agente;bo_cc_58780;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_57710;zapatag@tigo.net.bo;S;GISELA FABIOLA;ZAPATA CANIDO;Agente;bo_cc_57710;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_59742;becerrac@tigo.net.bo;S;CARLOS EDUARDO;BECERRA PEREYRA;Agente;bo_cc_59742;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_60918;hurtadoang@tigo.net.bo;S;ANGELY ;HURTADO ROSEL;Agente;bo_cc_60918;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_60926;rocayc@tigo.net.bo;S;YAIN CARLA;ROCA PUTARE;Agente;bo_cc_60926;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_62337;chavezjj@tigo.net.bo;S;JOSE JHIMBER;CHAVEZ MIRANDA;Agente;bo_cc_62337;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_62784;surubij@tigo.net.bo;S;JORGE LUIS;SURUBI SALAZAR;Agente;bo_cc_62784;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_63841;torrezmar@tigo.net.bo;S;MARICELA ;TORREZ SEQUEBY;Agente;bo_cc_63841;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_63842;huayhuah@tigo.net.bo;S;HEIDY ;HUAYHUA QUISPE;Agente;bo_cc_63842;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64214;solizma@tigo.net.bo;S;MARIO EDUARDO;SOLIZ LEAÑOS;Agente;bo_cc_64214;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64201;riverodu@tigo.net.bo;S;DULCE OLIVIA;RIVERO SOTO;Agente;bo_cc_64201;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64197;rojasf@tigo.net.bo;S;FREDDY ;ROJAS PUERA;Agente;bo_cc_64197;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64188;cuellarjc@tigo.net.bo;S;JOSE CARLOS;CUELLAR CUELLAR;Agente;bo_cc_64188;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64185;uriartej@tigo.net.bo;S;JOSE JEAN;URIARTE COPA;Agente;bo_cc_64185;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64297;cuellark@tigo.net.bo;S;KATHERINE IVETH;CUELLAR JIMENEZ;Agente;bo_cc_64297;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64298;grajedad@tigo.net.bo;S;DEYANEIRA ;GRAJEDA TAPIA;Agente;bo_cc_64298;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64306;yaleg@tigo.net.bo;S;GROVER ;YALE ARANCIBIA;Agente;bo_cc_64306;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64574;duranja@tigo.net.bo;S;JUAN ANTONIO;DURAN PEÑA;Agente;bo_cc_64574;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64581;virreiray@tigo.net.bo;S;YOVANA JIMENA;VIRREIRA MORALES;Agente;bo_cc_64581;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64582;pintov@tigo.net.bo;S;VANIA KATERINE;PINTO MEJIA;Agente;bo_cc_64582;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_65092;mosqueiral@tigo.net.bo;S;LORENA ;MOSQUEIRA TARUPI;Agente;bo_cc_65092;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_65079;jimenezye@tigo.net.bo;S;YERLING ;JIMENEZ AÑEZ;Agente;bo_cc_65079;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_65091;suarezh@tigo.net.bo;S;HELEN ;SUAREZ LOLA;Agente;bo_cc_65091;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_66638;galiciad@tigo.net.bo;S;DANIELA ;GALICIA ROMERO;Agente;bo_cc_66638;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_66694;floresdd@tigo.net.bo;S;DEIMAR DIEGO;FLORES COAQUIRA;Agente;bo_cc_66694;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_66704;barrerov@tigo.net.bo;S;VANESSA LIZ;BARRERO VARGAS;Agente;bo_cc_66704;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_66699;tiradoc@tigo.net.bo;S;CESAR JUNIOR;TIRADO CACERES;Agente;bo_cc_66699;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68245;velascos@tigo.net.bo;S;SELENA ;VELASCO MERUBIA;Agente;bo_cc_68245;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68246;rodriguezye@tigo.net.bo;S;YESSENIA ;RODRIGUEZ ALCOCER;Agente;bo_cc_68246;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_53659;alpireed@tigo.net.bo;S;EDIL ;ALPIRE CANDIA;Agente;bo_cc_53659;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68403;yamparam@tigo.net.bo;S;MARIA CECILIA;YAMPARA MENDEZ;Agente;bo_cc_68403;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68405;galarzag@tigo.net.bo;S;GARY ROMEL;GALARZA GUZMAN;Agente;bo_cc_68405;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68407;machicados@tigo.net.bo;S;SAMARIA SINAY;MACHICADO CORTEZ;Agente;bo_cc_68407;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68411;ayalama@tigo.net.bo;S;MARCELO ALEJANDRO;AYALA CUELLAR;Agente;bo_cc_68411;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68401;mullucundok@tigo.net.bo;S;KATIHA ;MULLUCUNDO HUARACHI;Agente;bo_cc_68401;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68402;tudelama@tigo.net.bo;S;MARCELO ;TUDELA SIANI;Agente;bo_cc_68402;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68404;menachojo@tigo.net.bo;S;ERNESTO ;MENACHO JORGE;Agente;bo_cc_68404;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68406;diezd@tigo.net.bo;S;DANIELA ;DIEZ DORADO;Agente;bo_cc_68406;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68408;mejiamh@tigo.net.bo;S;MHARCELLY ;MEJIA JUSTINIANO;Agente;bo_cc_68408;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68410;chavarriaro@tigo.net.bo;S;ROBIN FERNANDO;CHAVARRIA MEDINA;Agente;bo_cc_68410;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68412;alvarezya@tigo.net.bo;S;YAKELINE ;ALVAREZ TOLEDO;Agente;bo_cc_68412;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68843;rodriguezer@tigo.net.bo;S;ERICK ;RODRIGUEZ PINTO;Agente;bo_cc_68843;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_50516;rocaca@tigo.net.bo;S;CARMELO ANDREZ;ROCA AGUILAR;Agente;bo_cc_50516;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68847;ramosy@tigo.net.bo;S;YOYARLINE ANDREA;RAMOS MORALES;Agente;bo_cc_68847;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68844;bautistani@tigo.net.bo;S;NIDIA MIREYA;BAUTISTA MARTINEZ;Agente;bo_cc_68844;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68845;cuellarrox@tigo.net.bo;S;ROXANA ;CUELLAR LOPEZ;Agente;bo_cc_68845;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_68848;ramosde@tigo.net.bo;S;DEANNE ;RAMOS FERRUFINO;Agente;bo_cc_68848;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_70249;menachohu@tigo.net.bo;S;HUGO DANIEL;MENACHO AÑEZ;Agente;bo_cc_70249;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_70372;cuellarjean@tigo.net.bo;S;JEANINNE ;CUELLAR ZABALA;Agente;bo_cc_70372;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71698;camposb@tigo.net.bo;S;BRENDA ;CAMPOS CALUSTRO;Agente;bo_cc_71698;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71704;rosalesjo@tigo.net.bo;S;JOSE BRANDY;ROSALES CABALLERO;Agente;bo_cc_71704;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71706;marquezke@tigo.net.bo;S;KELLY YORGINA;MARQUEZ LANZA;Agente;bo_cc_71706;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71708;lopezmaris@tigo.net.bo;S;MARISOL ;LOPEZ ROJAS;Agente;bo_cc_71708;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71711;solizru@tigo.net.bo;S;RUBEN DARIO;SOLIZ SAAVEDRA;Agente;bo_cc_71711;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71697;mendezau@tigo.net.bo;S;AUGUSTO ;MENDEZ MERIDA;Agente;bo_cc_71697;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71699;serrudoc@tigo.net.bo;S;CAROLINA ;SERRUDO VELASQUEZ;Agente;bo_cc_71699;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71707;romerolei@tigo.net.bo;S;LEIDY VANIA;ROMERO MORALES;Agente;bo_cc_71707;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71712;ledezmasa@tigo.net.bo;S;SARA ;LEDEZMA RIVERO;Agente;bo_cc_71712;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71755;uribeda@tigo.net.bo;S;DANITZA ISELA;URIBE JIMENEZ;Agente;bo_cc_71755;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_72154;vargaskel@tigo.net.bo;N;KELLY NICOLE;VARGAS GUTIERREZ;Agente;bo_cc_72154;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_72155;becerrar@tigo.net.bo;N;RONALD ERWIN;BECERRA PEREYRA;Agente;bo_cc_72155;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_team_39613;cuellarv@tigo.net.bo;S;VIVIAN VICTORIA;CUELLAR CAMACHO;Supervisor;bo_cc_team_39613;;Contact Center;Bolivia
+bo_cc_team_53658;sosal@tigo.net.bo;S;LUIS FERNANDO;SOSA PARADA;Supervisor;bo_cc_team_53658;;Contact Center;Bolivia
+bo_cc_team_37227;rojasjo@tigo.net.bo;S;JOSE ALEJANDRO;ROJAS RAMIREZ;Supervisor;bo_cc_team_37227;;Contact Center;Bolivia
+bo_cc_team_53824;silvama@tigo.net.bo;S;MARCO ANTONIO FERNANDO;SILVA ROJAS;Supervisor;bo_cc_team_53824;;Contact Center;Bolivia
+bo_cc_team_59742;becerrac@tigo.net.bo;S;CARLOS EDUARDO;BECERRA PEREYRA;Supervisor;bo_cc_team_59742;;Contact Center;Bolivia
+bo_cc_team_54361;peraltam@tigo.net.bo;S;MONICA;PERALTA RIVERA;Supervisor;bo_cc_team_54361;;Contact Center;Bolivia
+bo_cc_team_52032;hoyoski@tigo.net.bo;S;KIMERLY ALEJANDRA;HOYOS PEÑA;Supervisor;bo_cc_team_52032;;Contact Center;Bolivia
+bo_cc_64308;camarad@tigo.net.bo;S;DAYANA;CAMARA FIGUEROA;Agente;bo_cc_64308;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64314;ojedaf@tigo.net.bo;S;FABIOLA;OJEDA;Agente;bo_cc_64314;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_64947;saavedrare@tigo.net.bo;S;REIMY ARMANDO;SAAVEDRA LEIGUE;Agente;bo_cc_64947;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71694;pedrazaa@tigo.net.bo;S;ALEJANDRA;PEDRAZA MARIACA;Agente;bo_cc_71694;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71707;romerolei@tigo.net.bo;S;LEIDY VANIA;ROMERO MORALES;Agente;bo_cc_71707;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_57712;maldonadok@tigo.net.bo;S;KEVIN;MALDONADO SUAREZ;Agente;bo_cc_57712;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71767;gomezaf@tigo.net.bo;S;ANDRES FELIPE;GOMEZ BLANDON;Agente;bo_cc_71767;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71768;ramirezaf@tigo.net.bo;S;ANDRES FELIPE;RAMÍREZ BEDOYA;Agente;bo_cc_71768;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71769;vasquezam@tigo.net.bo;S;ANDRES MAURICIO;VASQUEZ RIVERA;Agente;bo_cc_71769;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71771;alzatee@tigo.net.bo;S;EDGAR ALEXANDER;ALZATE MARIN;Agente;bo_cc_71771;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71772;gonzalezel@tigo.net.bo;S;ELIANA;GONZALEZ SANCHEZ;Agente;bo_cc_71772;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71773;marchenae@tigo.net.bo;S;ERIKA PAOLA;MARCHENA GONZALEZ;Agente;bo_cc_71773;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71774;morenohv@tigo.net.bo;N;HEIVIS VANESSA;MORENO MOSQUERA;Agente;bo_cc_71774;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71775;navarrojf@tigo.net.bo;S;JOSE FERNANDO;NAVARRO RIVERA;Agente;bo_cc_71775;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71776;henaojf@tigo.net.bo;S;JUAN FELIPE;HENAO SALAZAR;Agente;bo_cc_71776;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71777;castanedaja@tigo.net.bo;S;JULIANA ANDREA;CASTAÑEDA GUAUÑA;Agente;bo_cc_71777;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71778;gilly@tigo.net.bo;S;LEIDY YESENIA;GIL ORTIZ;Agente;bo_cc_71778;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71779;morenola@tigo.net.bo;S;LUCY ANGELLY;MORENO MOSQUERA;Agente;bo_cc_71779;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71781;bustamantemc@tigo.net.bo;S;MARIA CAMILA;BUSTAMANTE VELASQUEZ;Agente;bo_cc_71781;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71780;prietoma@tigo.net.bo;S;MARCELA ANDREA;PRIETO HERNANDEZ;Agente;bo_cc_71780;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71782;munozmc@tigo.net.bo;S;MARIA CAMILA;MUÑOZ VELASQUEZ;Agente;bo_cc_71782;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_71786;posaday@tigo.net.bo;S;YURI VALENTINA;POSADA ORTIZ;Agente;bo_cc_71786;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_team_37893;castedoe@tigo.net.bo;S;ERIKA PATRICIA;CASTEDO BELTRAN;Supervisor;bo_cc_team_37893;;Contact Center;Bolivia
+bo_cc_team_35839;paniaguam@tigo.net.bo;S;MARIO MARCELO;PANIAGUA FILIPOVIC;Supervisor;bo_cc_team_35839;;Contact Center;Bolivia
+bo_cc_team_55461;antezanama@tigo.net.bo;S;MARIELA VANESSA;ANTEZANA CHAVARE;Supervisor;bo_cc_team_55461;;Contact Center;Bolivia
+bo_cc_60730;leone@tigo.net.bo;S;ESCARLETH;LEON VIVEROS;Agente;bo_cc_60730;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_55387;landivarjo@tigo.net.bo;S;JOSÉ MIGUEL;LANDIVAR PANIAGUA;Agente;bo_cc_55387;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_50617;espinozays@tigo.net.bo;S;ISRRAEL POOL;ESPINOZA GOMEZ;Agente;bo_cc_50617;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_59669;terrazasma@tigo.net.bo;S;MAICOL;TERRAZAS ZURITA;Agente;bo_cc_59669;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_56669;delavegam@tigo.net.bo;S;MELODY;DE LA VEGA VASQUEZ;Agente;bo_cc_56669;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_61243;contrerass@tigo.net.bo;S;SOPHIA CAROLINA;CONTRERAS CASTILLO;Agente;bo_cc_61243;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_68377;escuderos@tigo.net.bo;S;SILVIA EUGENIA;ESCUDERO ORTIZ;Agente;bo_cc_68377;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_68665;gomezpat@tigo.net.bo;S;PATRICIA GABRIELA;GOMEZ CABRERA;Agente;bo_cc_68665;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_64347;perezlu@tigo.net.bo;S;LIZ;PEREZ MAMANI;Agente;bo_cc_64347;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_56435;villarpandoj@tigo.net.bo;S;JUAN EUSEBIO;VILLARPANDO VELASQUEZ;Agente;bo_cc_56435;bo_cc_team_14702;Contact Center;Bolivia
+bo_cc_32463;ugartechej@tigo.net.bo;S;JESSICA;UGARTECHE ROJAS;Agente;bo_cc_32463;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_45047;guevaraka@tigo.net.bo;S;KAREN JIMENA;GUEVARA HURTADO;Agente;bo_cc_45047;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_46128;cespedesd@tigo.net.bo;S;DANIELA;CESPEDES COSTA;Agente;bo_cc_46128;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_50718;illescasf@tigo.net.bo;S;FRANZ MANUEL;ILLESCAS ORELLANA;Agente;bo_cc_50718;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_50983;anguloci@tigo.net.bo;S;CIRLEY;ANGULO MACHADO;Agente;bo_cc_50983;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_61245;lepenag@tigo.net.bo;S;GUERY GERSON;LEPEÑA VILLARROEL;Agente;bo_cc_61245;bo_cc_team_28627;Contact Center;Bolivia
+bo_cc_60981;espinozare@tigo.net.bo;S;REMEDIOS;ESPINOZA HURTADO;Agente;bo_cc_60981;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_63522;aguilarml@tigo.net.bo;S;MARY LIZETH;AGUILAR HIDALGO;Agente;bo_cc_63522;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_67839;suarezo@tigo.net.bo;N;OSCAR MOISES;SUAREZ SALAZAR;Agente;bo_cc_67839;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_63529;collazosj@tigo.net.bo;S;JUAN CARLOS;COLLAZOS SAAVEDRA;Agente;bo_cc_63529;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_49378;landivara@tigo.net.bo;S;CRISTA ANDIARA;LANDIVAR ROBIO;Agente;bo_cc_49378;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_62037;arceanl@tigo.net.bo;S;ANA LAURA;ARCE ALBA;Agente;bo_cc_62037;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_39606;aguilerag@tigo.net.bo;S;GLADYS;AGUILERA ARAMAYO;Agente;bo_cc_39606;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_66331;riverojc@tigo.net.bo;S;JANNETH CLAUDIA;RIVERO BLANCOURT;Agente;bo_cc_66331;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_57353;serranoj@tigo.net.bo;S;JAVIER ANDRE;SERRANO ALVARADO;Agente;bo_cc_57353;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_59234;ojopid@tigo.net.bo;S;DOUGLAS;OJOPI SALVATIERRA;Agente;bo_cc_59234;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_55769;guzmanyo@tigo.net.bo;S;YOSSELYN DAYHANA;GUZMAN CHILO;Agente;bo_cc_55769;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_62293;silesj@tigo.net.bo;S;JIMENA;SILES AYALA;Agente;bo_cc_62293;bo_cc_team_35363;Contact Center;Bolivia
+bo_cc_34053;vasquezju@tigo.net.bo;S;JUSTINA;VASQUEZ ONOFRE;Agente;bo_cc_34053;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_35345;pachecoc@tigo.net.bo;S;CARLOS ROLANDO;PACHECO TRIGO;Agente;bo_cc_35345;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_52126;romerojh@tigo.net.bo;S;JHOSELINE GABRIELA;ROMERO LUNA;Agente;bo_cc_52126;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_53956;castroru@tigo.net.bo;S;RUDDY;CASTRO AÑEZ;Agente;bo_cc_53956;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_54726;galeba@tigo.net.bo;S;AHMED;GALEB VILLAGOMEZ;Agente;bo_cc_54726;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_56431;ramireze@tigo.net.bo;S;EDUARDO;RAMIREZ ESPADA;Agente;bo_cc_56431;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_59199;medinay@tigo.net.bo;S;YONATHAN EDGARDO;MEDINA GUZMAN;Agente;bo_cc_59199;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_37995;tolae@tigo.net.bo;S;ELVIS;TOLA ZURITA;Agente;bo_cc_37995;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_41190;lorac@tigo.net.bo;S;CARMELO;LORA AGUILERA;Agente;bo_cc_41190;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_45221;duranjo@tigo.net.bo;S;JOSE JORGE;DURAN CHAVEZ;Agente;bo_cc_45221;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_53214;salazarlu@tigo.net.bo;S;LUIS ALBERTO;SALAZAR MENA;Agente;bo_cc_53214;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_54094;cortezmig@tigo.net.bo;S;MIGUEL ANGEL;CORTEZ VARGAS;Agente;bo_cc_54094;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_59221;romeror@tigo.net.bo;S;RAUL FERNANDO;ROMERO PARDO;Agente;bo_cc_59221;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_66334;floreser@tigo.net.bo;S;LUIS ERNESTO;FLORES SILVA;Agente;bo_cc_66334;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_55491;ortizarm@tigo.net.bo;S;ARMANDO;ORTIZ ARROYO;Agente;bo_cc_55491;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_49714;tejerinae@tigo.net.bo;S;EDGAR ROLANDO;TEJERINA SURRIABRE;Agente;bo_cc_49714;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_62624;lopezsa@tigo.net.bo;S;SANTIAGO;LOPEZ COLQUE;Agente;bo_cc_62624;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_54212;mejiara@tigo.net.bo;S;RICARDO MAURICIO;MEJIA MONTERO;Agente;bo_cc_54212;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_59197;chairag@tigo.net.bo;S;GABRIEL;CHAIRA ROJAS;Agente;bo_cc_59197;bo_cc_team_35852;Contact Center;Bolivia
+bo_cc_39460;montanoro@tigo.net.bo;S;ROBERTO;MONTAÑO RIBERA;Agente;bo_cc_39460;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_38263;escobare@tigo.net.bo;S;ELTY;ESCOBAR CESPEDES;Agente;bo_cc_38263;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_46216;penas@tigo.net.bo;S;SANDRA;PEÑA PEREZ;Agente;bo_cc_46216;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_35859;perezp@tigo.net.bo;S;CLAUDIA PATRICIA;PEREZ CABRERA;Agente;bo_cc_35859;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_35925;robless@tigo.net.bo;S;SIXTO DANIEL;ROBLES LAZO DE LA VEGA;Agente;bo_cc_35925;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_38529;romeroj@tigo.net.bo;S;JOSE MIGUEL;ROMERO DORADO;Agente;bo_cc_38529;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_40634;valverdey@tigo.net.bo;S;YAMILET;VALVERDE PEREZ;Agente;bo_cc_40634;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_46579;caceresa@tigo.net.bo;S;ALISON KAREN;CACERES TORREZ;Agente;bo_cc_46579;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_47521;balderramab@tigo.net.bo;S;BLANCA;BALDERRAMA ARIAS;Agente;bo_cc_47521;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_49192;salguerol@tigo.net.bo;S;LUIS RODRIGO;SALGUERO PARDO;Agente;bo_cc_49192;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_49580;soriae@tigo.net.bo;S;ELISEO;SORIA MALDONADO;Agente;bo_cc_49580;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_50616;parragap@tigo.net.bo;S;PEDRO;PARRAGA VACA DIEZ;Agente;bo_cc_50616;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_45006;guzmankg@tigo.net.bo;S;KATHERINE;GUZMÁN MENDOZA;Agente;bo_cc_45006;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_45140;pintoje@tigo.net.bo;S;JENNIFER KEITH;PINTO PAREJAS;Agente;bo_cc_45140;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_45145;cuellare@tigo.net.bo;S;ELAR;CUELLAR MERCADO;Agente;bo_cc_45145;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_48835;camposjo@tigo.net.bo;S;JORGE MARCELO;CAMPOS ROCA;Agente;bo_cc_48835;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_49375;coronadogi@tigo.net.bo;S;GIOVANA;CORONADO MENACHO;Agente;bo_cc_49375;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_55912;quintanillae@tigo.net.bo;S;EIMER MARIO;QUINTANILLA NAVA;Agente;bo_cc_55912;bo_cc_team_35854;Contact Center;Bolivia
+bo_cc_57657;lopezpa@tigo.net.bo;S;PABLO SALOMON;LOPEZ SALEK;Agente;bo_cc_57657;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_59215;landaetam@tigo.net.bo;S;MARCELO DAVID;LANDAETA SURCO;Agente;bo_cc_59215;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_33141;callaue@tigo.net.bo;S;EVELYN LAURA;CALLAU PANDO;Agente;bo_cc_33141;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_58544;fernandeze@tigo.net.bo;S;EVELIN;FERNANDEZ ARISPE;Agente;bo_cc_58544;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_54098;varasn@tigo.net.bo;S;NILIANS NURITH;VARAS FLORES;Agente;bo_cc_54098;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_59661;cespedess@tigo.net.bo;S;SULEMA;CESPEDES LAGUNO;Agente;bo_cc_59661;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_46575;sottojo@tigo.net.bo;S;JORGE LUIS;SOTTO ROCA;Agente;bo_cc_46575;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_59236;zuritab@tigo.net.bo;S;BILDAD;ZURITA VILLAGOMEZ;Agente;bo_cc_59236;bo_cc_team_35866;Contact Center;Bolivia
+bo_cc_49452;baldiviesom@tigo.net.bo;S;MELISSA;BALDIVIESO ROJAS;Agente;bo_cc_49452;bo_cc_team_35904;Contact Center;Bolivia
+bo_cc_64401;jaldinlu@tigo.net.bo;S;LUIS MIGUEL;JALDIN PANIAGUA;Agente;bo_cc_64401;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_49716;mercadoar@tigo.net.bo;S;ARACELY;MERCADO ANTEZANA;Agente;bo_cc_49716;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_49980;arauzro@tigo.net.bo;S;ROMINA;ARAUZ CABRAL;Agente;bo_cc_49980;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_51296;corderom@tigo.net.bo;S;MIRIAN;CORDERO ESPINOZA;Agente;bo_cc_51296;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_68217;rocayo@tigo.net.bo;S;YOHANA ANDREA;ROCA MIRANDA;Agente;bo_cc_68217;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_49221;corderoca@tigo.net.bo;S;CARLOS DANIEL;CORDERO UGARTE;Agente;bo_cc_49221;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_63213;clavijod@tigo.net.bo;S;DAHYANA GERALDINE;CLAVIJO MORENO;Agente;bo_cc_63213;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_41005;jaldinl@tigo.net.bo;S;LOIDA MELISSA;JALDIN LOPEZ;Agente;bo_cc_41005;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_68869;paradalu@tigo.net.bo;S;LUIS ANDRES;PARADA DIVIBAY;Agente;bo_cc_68869;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_63340;suarezls@tigo.net.bo;S;LIMBERTH SIDNEY;SUAREZ CLAROS;Agente;bo_cc_63340;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_65458;rodriguezdr@tigo.net.bo;S;DIANA RENGEL;RODRIGUEZ PAZ;Agente;bo_cc_65458;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_64345;garridof@tigo.net.bo;S;FABIOLA ROCIO;GARRIDO AGUIRRE;Agente;bo_cc_64345;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_51351;gutierrezmic@tigo.net.bo;S;MICHAEL ENRRIQUE;GUTIERREZ ZAPANA;Agente;bo_cc_51351;bo_cc_team_35977;Contact Center;Bolivia
+bo_cc_46641;mejiage@tigo.net.bo;S;GERMAN HELMUT;MEJIA SEAS;Agente;bo_cc_46641;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_55767;quirozk@tigo.net.bo;S;KEVIN RONY;QUIROZ LAZARTE;Agente;bo_cc_55767;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_1108;iriarter@tigo.net.bo;S;RONALD;IRIARTE SOLIZ;Agente;bo_cc_1108;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_1117;linoe@tigo.net.bo;S;ERMELINDA TEOFILA DE VAQUERO;LINO ESCOBAR;Agente;bo_cc_1117;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_31959;rocacar@tigo.net.bo;S;CARLOS MILAN;ROCA PELOZA;Agente;bo_cc_31959;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_34982;ordoneza@tigo.net.bo;S;ANAI;ORDOÑEZ SALCES;Agente;bo_cc_34982;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_35359;cortezn@tigo.net.bo;S;NANCY;CORTEZ MONTEJO;Agente;bo_cc_35359;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_35929;aguirrev@tigo.net.bo;S;VIVIAM MIREYTZA;AGUIRRE MENDIVIL;Agente;bo_cc_35929;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_35937;zaraten@tigo.net.bo;S;NILDA;ZARATE FERNANDEZ;Agente;bo_cc_35937;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_36833;rodase@tigo.net.bo;S;ERIKA BRENDA;RODAS GARZON;Agente;bo_cc_36833;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_37201;lopezt@tigo.net.bo;S;TATIANA;LOPEZ ALDANA;Agente;bo_cc_37201;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_38387;ramirezpa@tigo.net.bo;S;PAMELA;RAMÍREZ ROJAS;Agente;bo_cc_38387;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_46130;naviaa@tigo.net.bo;S;ALLAN MANUEL;NAVIA MONTAÑO;Agente;bo_cc_46130;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_48739;rojasviv@tigo.net.bo;S;VIVIAN;ROJAS SOTO;Agente;bo_cc_48739;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_52298;antunezj@tigo.net.bo;S;JOSE OFFMAN ROBERTH;ANTUNEZ GARECA;Agente;bo_cc_52298;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_52305;alvarezan@tigo.net.bo;S;MIRLA ANAHIR;ALVAREZ;Agente;bo_cc_52305;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_56218;adriany@tigo.net.bo;S;YHOSELINE BELEN;ADRIAN BILBAO LA VIEJA;Agente;bo_cc_56218;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_56422;figueroab@tigo.net.bo;S;BRUNO SERVANDO;FIGUEROA DURAN;Agente;bo_cc_56422;bo_cc_team_36133;Contact Center;Bolivia
+bo_cc_56150;ramirezli@tigo.net.bo;S;LILIAN PATRICIA;RAMIREZ MENDOZA;Agente;bo_cc_56150;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_61244;vargasg@tigo.net.bo;S;GABRIELA;VARGAS SIFUENTES;Agente;bo_cc_61244;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_65507;llanosmn@tigo.net.bo;S;MARY NEIDY;LLANOS CAHUASIRI;Agente;bo_cc_65507;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_66090;arrendondos@tigo.net.bo;S;SCARLET;ARREDONDO ROJAS;Agente;bo_cc_66090;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_51364;dominguezl@tigo.net.bo;S;LEIDY VANESSA;DOMINGUEZ CAMPOS;Agente;bo_cc_51364;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_64800;rojasa@tigo.net.bo;S;ANA PAOLA;ROJAS PAZ;Agente;bo_cc_64800;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_56154;sanchezca@tigo.net.bo;S;CARMEN LUISA;SÁNCHEZ CABRERA;Agente;bo_cc_56154;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_55388;moreirar@tigo.net.bo;S;ROSARIO;MOREIRA YUCRA;Agente;bo_cc_55388;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_51821;barrientosg@tigo.net.bo;S;GEORGINA CARLA;BARRIENTOS BECERRA;Agente;bo_cc_51821;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_68870;durexj@tigo.net.bo;S;JENNY;DUREX TOMICHA;Agente;bo_cc_68870;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_47546;melgaryu@tigo.net.bo;S;YUVIXZA;MELGAR MELGAR;Agente;bo_cc_47546;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_63914;sanchezka@tigo.net.bo;S;KARIN FABIOLA;SANCHEZ ARNEZ;Agente;bo_cc_63914;bo_cc_team_37893;Contact Center;Bolivia
+bo_cc_36829;jaujad@tigo.net.bo;S;DAMARIS;JAUJA URQUIDI;Agente;bo_cc_36829;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_59193;inturiase@tigo.net.bo;S;ERWIN;INTURIAS MELEAN;Agente;bo_cc_59193;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_56423;garciak@tigo.net.bo;S;KAREN RAQUEL;GARCIA MONASTERIO;Agente;bo_cc_56423;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_61865;yucram@tigo.net.bo;S;MARCELINA;YUCRA IPURANI;Agente;bo_cc_61865;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_63003;ortegan@tigo.net.bo;S;NOEL EDUARDO;ORTEGA ARANCIBIA;Agente;bo_cc_63003;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_59627;caceresj@tigo.net.bo;S;JESUS GUSTAVO;CACERES SUME;Agente;bo_cc_59627;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_65781;algaranazw@tigo.net.bo;S;WILVER DANIEL;ALGARAÑAZ ANTEZANA;Agente;bo_cc_65781;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_52037;aguirreh@tigo.net.bo;S;HIDALMI MELANIA;AGUIRRE TORREZ;Agente;bo_cc_52037;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_56471;bejaranoj@tigo.net.bo;S;JUAN PABLO;BEJARANO JUSTINIANO;Agente;bo_cc_56471;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_57665;dazac@tigo.net.bo;S;CARLOS ANTONIO;DAZA ALTAMIRANO;Agente;bo_cc_57665;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_58507;odelit@tigo.net.bo;S;THOMPSON OFOLUWA;ODELI SOLIZ;Agente;bo_cc_58507;bo_cc_team_37897;Contact Center;Bolivia
+bo_cc_63527;espinozaan@tigo.net.bo;S;ANDREA FLAVIA;ESPINOZA JIMENEZ;Agente;bo_cc_63527;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_32464;zanabriap@tigo.net.bo;S;PABLA ALEJANDRA;ZANABRIA TOMELIC;Agente;bo_cc_32464;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_52240;gutierrezsr@tigo.net.bo;S;SANDRA ROSMERY;GUTIERREZ SILES;Agente;bo_cc_52240;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_59448;arauzm@tigo.net.bo;S;MARCO ANTONIO;ARAUZ OTUVO;Agente;bo_cc_59448;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_35459;pereiraju@tigo.net.bo;S;JUAN PABLO;PEREIRA PEÑA;Agente;bo_cc_35459;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_59446;mendozaw@tigo.net.bo;S;WENDY DESSIREE;MENDOZA PEREZ;Agente;bo_cc_59446;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_68212;llanquea@tigo.net.bo;S;ALVARO ABEL;LLANQUE LAURA;Agente;bo_cc_68212;bo_cc_team_38126;Contact Center;Bolivia
+bo_cc_29016;quispea@tigo.net.bo;S;AIDA;QUISPE OVANDO;Agente;bo_cc_29016;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_46585;barretoy@tigo.net.bo;S;YECENIA;BARRETO MENDIETA;Agente;bo_cc_46585;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_49909;hurtadojos@tigo.net.bo;S;JOSE;HURTADO PALOMINO;Agente;bo_cc_49909;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_53952;valorianir@tigo.net.bo;S;ROMARIO;VALORIANI ESCOBAR;Agente;bo_cc_53952;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_55272;valdezl@tigo.net.bo;S;LUIS GUILLERMO;VALDEZ LUJAN;Agente;bo_cc_55272;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_63005;antezanar@tigo.net.bo;S;REBECA MELISSA;ANTEZANA PARA;Agente;bo_cc_63005;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_51058;bascopel@tigo.net.bo;S;LUIS JUNIOR;BASCOPE ZABALA;Agente;bo_cc_51058;bo_cc_team_38555;Contact Center;Bolivia
+bo_cc_58751;poncem@tigo.net.bo;S;MARCO ANTONIO;PONCE TRIGO;Agente;bo_cc_58751;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_35938;delgadoe@tigo.net.bo;S;ELVIS;DELGADO AVALOS;Agente;bo_cc_35938;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_46981;santeyanae@tigo.net.bo;S;ESTELA JENNY;SANTEYANA SALAS;Agente;bo_cc_46981;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_58156;costaleitee@tigo.net.bo;S;EDITH SANDI;COSTALEITE AGUILERA;Agente;bo_cc_58156;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_59660;velarded@tigo.net.bo;S;DAGNER GONZALO;VELARDE DURÁN;Agente;bo_cc_59660;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_62627;suarezrc@tigo.net.bo;S;ROBERTO CARLOS;SUAREZ ALVAREZ;Agente;bo_cc_62627;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_54728;parragac@tigo.net.bo;S;CARLA SABINA;PARRAGA GOMEZ;Agente;bo_cc_54728;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_65779;dominguezv@tigo.net.bo;S;VALERIA;DOMINGUEZ JUSTINIANO;Agente;bo_cc_65779;bo_cc_team_39060;Contact Center;Bolivia
+bo_cc_50959;justinianocd@tigo.net.bo;S;CARMEN DIANA;JUSTINIANO SUAREZ;Agente;bo_cc_50959;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_59872;ramirezra@tigo.net.bo;S;RAQUEL;RAMIREZ PEREZ;Agente;bo_cc_59872;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_68374;caceressa@tigo.net.bo;S;SAMUEL ANGEL;CACERES ARCIENEGA;Agente;bo_cc_68374;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_54473;burgosd@tigo.net.bo;S;DIEGO ARMANDO;BURGOS ALBA;Agente;bo_cc_54473;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_54731;anezal@tigo.net.bo;S;MOIRA ALEJANDRA;AÑEZ VACA;Agente;bo_cc_54731;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_55918;matiasm@tigo.net.bo;S;MONICA;MATIAS POMA;Agente;bo_cc_55918;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_59211;balcazars@tigo.net.bo;S;STEPHANIE VIVIANA;BALCAZAR GUTIERREZ;Agente;bo_cc_59211;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_54646;camposm@tigo.net.bo;S;MARIA CINTHIA;CAMPOS SOLAR;Agente;bo_cc_54646;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_63524;torrezk@tigo.net.bo;S;KAREN CECILIA;TORREZ ARAUZ;Agente;bo_cc_63524;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_66092;aramayod@tigo.net.bo;S;DIANA;ARAMAYO ZABALA;Agente;bo_cc_66092;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_49413;velardeja@tigo.net.bo;S;JANNINE;VELARDE CHOLIMA;Agente;bo_cc_49413;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_53983;riosm@tigo.net.bo;S;MARCOS RENE;RIOS SORAIDE;Agente;bo_cc_53983;bo_cc_team_41306;Contact Center;Bolivia
+bo_cc_57633;terrazasmau@tigo.net.bo;S;MAURICIO;TERRAZAS MENACHO;Agente;bo_cc_57633;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_47462;arzem@tigo.net.bo;N;MAGLENY;ARZE MORALES;Agente;bo_cc_47462;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_62528;vasquezje@tigo.net.bo;S;JESSICA;VASQUEZ RIVERO;Agente;bo_cc_62528;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_65312;mendezro@tigo.net.bo;S;ROSA LILIAN;MENDEZ PARADA;Agente;bo_cc_65312;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_52481;rodriguezdavi@tigo.net.bo;S;DAVID;RODRIGUEZ JUSTINIANO;Agente;bo_cc_52481;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_62033;espinozag@tigo.net.bo;S;GABRIELA;ESPINOZA AVALOS;Agente;bo_cc_62033;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_62292;aranoc@tigo.net.bo;S;CHRISTIE NICOLE;ARANO ARTEAGA;Agente;bo_cc_62292;bo_cc_team_45005;Contact Center;Bolivia
+bo_cc_52110;davalosr@tigo.net.bo;S;ROGER;DAVALOS VELASQUEZ;Agente;bo_cc_52110;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_56216;mauthea@tigo.net.bo;S;ALDO;MAUTHE MANSILLA;Agente;bo_cc_56216;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_62625;salvatierrac@tigo.net.bo;S;CARLOS EDUARDO;SALVATIERRA PAZ;Agente;bo_cc_62625;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_32150;alarconc@tigo.net.bo;S;CARLOS EDUARDO;ALARCON VASQUEZ;Agente;bo_cc_32150;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_56217;aguilarju@tigo.net.bo;S;JUAN SEBASTIAN;AGUILAR JALIL;Agente;bo_cc_56217;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_53110;alvaradog@tigo.net.bo;S;GERSON;ALVARADO ALVARADO;Agente;bo_cc_53110;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_45173;lozadam@tigo.net.bo;S;MARVIN FRANKLIN;LOZADA VEGA;Agente;bo_cc_45173;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_63739;hurtadoca@tigo.net.bo;S;CARLOS JHONEL;HURTADO ESCOBAR;Agente;bo_cc_63739;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_56426;ledezmaj@tigo.net.bo;S;JOSE ANDRES;LEDEZMA NEGRETE;Agente;bo_cc_56426;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_50466;villalobosl@tigo.net.bo;S;LUIS FERNANDO;VILLALOBOS PEREIRA;Agente;bo_cc_50466;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_59212;cabralj@tigo.net.bo;S;JULIO ALBERTO;CABRAL MONTAÑO;Agente;bo_cc_59212;bo_cc_team_45191;Contact Center;Bolivia
+bo_cc_55389;pedrazasd@tigo.net.bo;S;DANIELA;PEDRAZAS AVILA;Agente;bo_cc_55389;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_48752;condev@tigo.net.bo;S;VANESSA SARAH;CONDE GUTIERREZ;Agente;bo_cc_48752;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_68698;orellanas@tigo.net.bo;S;SARA ESTHER;ORELLANA GARCIA;Agente;bo_cc_68698;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_45834;linoa@tigo.net.bo;S;ANA PAOLA;LINO CACERES;Agente;bo_cc_45834;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_52296;romerog@tigo.net.bo;S;GRECIA MABEL;ROMERO LEON;Agente;bo_cc_52296;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_60980;banegasl@tigo.net.bo;S;MARIA LOURDES;BANEGAS FLORES;Agente;bo_cc_60980;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_56433;solizcr@tigo.net.bo;S;CLARA RAQUEL;SOLIZ YUCRA;Agente;bo_cc_56433;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_54642;rodama@tigo.net.bo;S;MARIA GUADALUPE;RODA CHAVEZ;Agente;bo_cc_54642;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_45314;aranibark@tigo.net.bo;S;KARLA XIMENA;ARANIBAR MORENO;Agente;bo_cc_45314;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_66333;barbacl@tigo.net.bo;S;CLAUDIA MARIA;BARBA MORENO;Agente;bo_cc_66333;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_65883;monterof@tigo.net.bo;S;FABIOLA;MONTERO LOPEZ;Agente;bo_cc_65883;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_50461;veraj@tigo.net.bo;S;JOSSAINE ANDREA;VERA PALMA;Agente;bo_cc_50461;bo_cc_team_46362;Contact Center;Bolivia
+bo_cc_55477;rojascl@tigo.net.bo;S;CLAUDIA STHEFANI;ROJAS ALVAREZ;Agente;bo_cc_55477;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_54457;floresma@tigo.net.bo;S;MARINES;FLORES CHAMO;Agente;bo_cc_54457;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_53213;penags@tigo.net.bo;S;GUIGLIOLA SARLY;PEÑA MORON;Agente;bo_cc_53213;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_48985;saavedrak@tigo.net.bo;S;KATHYA LIZZET;SAAVEDRA JUSTINIANO;Agente;bo_cc_48985;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_65000;justinianojg@tigo.net.bo;S;JORGE;JUSTINIANO OLMOS;Agente;bo_cc_65000;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_52235;lijeronm@tigo.net.bo;S;MARIA LAURA;LIJERON LIJERON;Agente;bo_cc_52235;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_45315;castillom@tigo.net.bo;S;MARCIA;CASTILLO ORTIZ;Agente;bo_cc_45315;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_59196;sanchezc@tigo.net.bo;S;CRISPIN ;SANCHEZ RODRIGUEZ;Agente;bo_cc_59196;bo_cc_team_46992;Contact Center;Bolivia
+bo_cc_59876;vacak@tigo.net.bo;S;KATHIANY;VACA OVANDO;Agente;bo_cc_59876;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_50462;perezmf@tigo.net.bo;S;MARIO FERNANDO;PEREZ GONZALES;Agente;bo_cc_50462;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_35464;salazarc@tigo.net.bo;S;CIELO VERONICA;SALAZAR PEREZ;Agente;bo_cc_35464;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_57326;velizm@tigo.net.bo;S;MAIRA BEATRIZ;VELIZ ARTEAGA;Agente;bo_cc_57326;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_50988;mamanisi@tigo.net.bo;S;SILVIA EUGENIA;MAMANI GOMEZ;Agente;bo_cc_50988;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_63523;guzmanhi@tigo.net.bo;S;HILDA;GUZMAN HONOR;Agente;bo_cc_63523;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_63917;romeromb@tigo.net.bo;S;MARIBEL;ROMERO IBAÑEZ;Agente;bo_cc_63917;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_55083;najayak@tigo.net.bo;S;KELVIN;NAJAYA TERRAZAS;Agente;bo_cc_55083;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_63219;saavedram@tigo.net.bo;S;MARIANA;SAAVEDRA FLORES;Agente;bo_cc_63219;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_56467;pizarror@tigo.net.bo;S;ROQUE ALBERTO;PIZARRO AMANCIO;Agente;bo_cc_56467;bo_cc_team_48543;Contact Center;Bolivia
+bo_cc_58932;mercadoa@tigo.net.bo;S;ALVARO;MERCADO SOLIZ;Agente;bo_cc_58932;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_41353;inquillom@tigo.net.bo;S;MIGUEL ALEJANDRO;INQUILLO AVILA;Agente;bo_cc_41353;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_45016;coaritem@tigo.net.bo;S;MARISABEL;COARITE TAMBO;Agente;bo_cc_45016;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_66715;ibarrak@tigo.net.bo;S;KAREN LILIANA;IBARRA ORTIZ;Agente;bo_cc_66715;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_58934;vargaske@tigo.net.bo;S;KEVIN ELOY;VARGAS CHUMACERO;Agente;bo_cc_58934;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_46648;guevaram@tigo.net.bo;S;MERCEDES;GUEVARA CABALLERO;Agente;bo_cc_46648;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_52031;guevarap@tigo.net.bo;S;PAOLA YOSELINE;GUEVARA RODRIGUEZ;Agente;bo_cc_52031;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_63214;osinagae@tigo.net.bo;S;EDUARDO ISIDRO;OSINAGA ALVIS;Agente;bo_cc_63214;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_63215;durando@tigo.net.bo;S;DONALDO;DURAN GIL;Agente;bo_cc_63215;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_63341;arandiak@tigo.net.bo;S;KARLA ELIZABETH;ARANDIA CABRERA;Agente;bo_cc_63341;bo_cc_team_51480;Contact Center;Bolivia
+bo_cc_66330;carrenoa@tigo.net.bo;S;ANA BELEN;CARREÑO ROJAS;Agente;bo_cc_66330;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_45827;barcow@tigo.net.bo;S;WENDY JESSICA;BARCO OLIVA;Agente;bo_cc_45827;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_54169;justinianov@tigo.net.bo;S;VICTORIA ALICIA;JUSTINIANO ZABALA;Agente;bo_cc_54169;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_68664;rojasmr@tigo.net.bo;S;MARIOLY;ROJAS BARBOZA;Agente;bo_cc_68664;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_40876;nogalesr@tigo.net.bo;S;ROMINA;NOGALES ORTIZ;Agente;bo_cc_40876;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_55100;marquezk@tigo.net.bo;S;KAREN EVELYN;MARQUEZ NUÑEZ;Agente;bo_cc_55100;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_56667;penadan@tigo.net.bo;S;DANITSA;PEÑA MAMANI;Agente;bo_cc_56667;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_50943;vargasliz@tigo.net.bo;S;LIZETH;VARGAS CONGO;Agente;bo_cc_50943;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_45979;arinezy@tigo.net.bo;S;YANINE;ARIÑEZ RIVERO;Agente;bo_cc_45979;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_48880;salinasm@tigo.net.bo;S;MARIA RENE;SALINAS NEUFELD;Agente;bo_cc_48880;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_52288;aneza@tigo.net.bo;S;ANDREA CAROLINA;AÑEZ QUITON;Agente;bo_cc_52288;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_53887;jaldinm@tigo.net.bo;S;MINERVA;JALDIN LLANOS;Agente;bo_cc_53887;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_63362;paucarar@tigo.net.bo;S;ROSALIA;PAUCARA TENORIO;Agente;bo_cc_63362;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_64795;javierm@tigo.net.bo;S;MIRIAM;JAVIER MAMANI;Agente;bo_cc_64795;bo_cc_team_56468;Contact Center;Bolivia
+bo_cc_65778;rochan@tigo.net.bo;S;NICOLAS MATEO;ROCHA CORRALES;Agente;bo_cc_65778;;Contact Center;Bolivia
+bo_cc_64389;quirozl@tigo.net.bo;S;LUIS ENRIQUE;QUIROZ ROJAS;Agente;bo_cc_64389;;Contact Center;Bolivia
+bo_cc_35340;terrazasyo@tigo.net.bo;S;YORKA;TERRAZAS RIVERO;Agente;bo_cc_35340;;Contact Center;Bolivia
+bo_cc_59877;mendezdi@tigo.net.bo;S;DIEGO ALEJANDRO;MENDEZ SUAREZ;Agente;bo_cc_59877;bo_cc_team_35839;Contact Center;Bolivia
+bo_cc_59239;gonzalesal@tigo.net.bo;S;ALEJANDRO;GONZALES VIERA;Agente;bo_cc_59239;;Contact Center;Bolivia
+bo_cc_59663;riberaga@tigo.net.bo;S;GABRIEL;RIBERA RODRIGUEZ;Agente;bo_cc_59663;;Contact Center;Bolivia
+bo_cc_63019;cortezis@tigo.net.bo;S;ISMAEL;CORTEZ RIVERO;Agente;bo_cc_63019;;Contact Center;Bolivia
+bo_cc_38428;perezed@tigo.net.bo;S;EDUAR;PEREZ VIDAL;Agente;bo_cc_38428;;Contact Center;Bolivia
+bo_cc_64798;penao@tigo.net.bo;S;OMAR ALEJANDRO;PEÑA PAZ;Agente;bo_cc_64798;;Contact Center;Bolivia
+bo_cc_53999;baldiviesoj@tigo.net.bo;S;JUAN PABLO;BALDIVIESO CHUVE;Agente;bo_cc_53999;;Contact Center;Bolivia
+bo_cc_54679;unzuetao@tigo.net.bo;S;OLINFA;UNZUETA LERA;Agente;bo_cc_54679;;Contact Center;Bolivia
+bo_cc_58517;moyaa@tigo.net.bo;S;ABIGAIL RUBI RE;MOYA VILLCA;Agente;bo_cc_58517;;Contact Center;Bolivia
+bo_cc_35932;sorichve@tigo.net.bo;S;VERONICA CECILIA;SORICH MORALES;Agente;bo_cc_35932;;Contact Center;Bolivia
+bo_cc_64234;nunezar@tigo.net.bo;S;ARACELY;NUÑEZ SAUCEDO;Agente;bo_cc_64234;;Contact Center;Bolivia
+bo_cc_57329;sanchezr@tigo.net.bo;S;REINILDA;SANCHEZ MARAZA;Agente;bo_cc_57329;;Contact Center;Bolivia
+bo_cc_63503;veizagap@tigo.net.bo;S;PAOLA ANDREA;VEIZAGA TORRICO;Agente;bo_cc_63503;;Contact Center;Bolivia
+bo_cc_55482;moscosoa@tigo.net.bo;S;ANDREA MICAELA;MOSCOSO SEJAS;Agente;bo_cc_55482;;Contact Center;Bolivia
+bo_cc_54766;salvatierraa@tigo.net.bo;S;ANA LUISA;SALVATIERRA MORENO;Agente;bo_cc_54766;;Contact Center;Bolivia
+bo_cc_61568;pedrazav@tigo.net.bo;S;VIVIAN;PEDRAZA RIBERA;Agente;bo_cc_61568;;Contact Center;Bolivia
+bo_cc_68214;zambranad@tigo.net.bo;S;DANIELA NINETH;ZAMBRANA MARQUEZ;Agente;bo_cc_68214;;Contact Center;Bolivia
+bo_cc_59201;ledezmak@tigo.net.bo;S;KARLA LORENA;LEDEZMA DURAN;Agente;bo_cc_59201;;Contact Center;Bolivia
+bo_cc_51962;vegam@tigo.net.bo;S;MARIO ALBERTO;VEGA VIDEZ;Agente;bo_cc_51962;;Contact Center;Bolivia
+bo_cc_62626;ardayaro@tigo.net.bo;S;RODRIGO;ARDAYA ROCA;Agente;bo_cc_62626;;Contact Center;Bolivia
+bo_cc_55234;ramirezd@tigo.net.bo;S;DIEGO;RAMIREZ TORQUEMADA;Agente;bo_cc_55234;;Contact Center;Bolivia
+bo_cc_64803;suarezjce@tigo.net.bo;S;JULIO CESAR;SUAREZ SOLIZ;Agente;bo_cc_64803;;Contact Center;Bolivia
+bo_cc_64790;borjad@tigo.net.bo;S;DANIEL;BORJA TAKEO;Agente;bo_cc_64790;;Contact Center;Bolivia
+bo_cc_48749;acostacl@tigo.net.bo;S;CLAUDIA ALEJANDRA;ACOSTA;Agente;bo_cc_48749;;Contact Center;Bolivia
+bo_cc_60977;heredian@tigo.net.bo;S;NADIA JANITZA;HEREDIA LOBO;Agente;bo_cc_60977;;Contact Center;Bolivia
+bo_cc_65884;vacaka@tigo.net.bo;S;KAROLINE;VACA OYOLA;Agente;bo_cc_65884;;Contact Center;Bolivia
+bo_cc_50465;zeballosm@tigo.net.bo;S;MAIRA ALEJANDRA;ZEBALLOS MONTERO;Agente;bo_cc_50465;;Contact Center;Bolivia
+bo_cc_63736;fallmann@tigo.net.bo;S;NINO ARMANDO;FALLMAN ALVAREZ;Agente;bo_cc_63736;;Contact Center;Bolivia
+bo_cc_65780;mirandak@tigo.net.bo;S;KAREN;MIRANDA GARCIA;Agente;bo_cc_65780;;Contact Center;Bolivia
+bo_cc_62422;montanojc@tigo.net.bo;S;JOSE CLAUDIO;MONTAÑO ROCABADO;Agente;bo_cc_62422;;Contact Center;Bolivia
+bo_cc_51163;nagataj@tigo.net.bo;S;JACOB;NAGATA ROJAS;Agente;bo_cc_51163;;Contact Center;Bolivia
+bo_cc_54951;rojasjul@tigo.net.bo;S;JULIA MELISSA;ROJAS OLIVA;Agente;bo_cc_54951;;Contact Center;Bolivia
+bo_cc_63365;senzanoj@tigo.net.bo;S;JEISON;SENZANO CUELLAR;Agente;bo_cc_63365;;Contact Center;Bolivia
+bo_cc_64005;nunezhr@tigo.net.bo;S;HECTOR RODOLFO JAVIER;NUÑEZ ENCINAS;Agente;bo_cc_64005;;Contact Center;Bolivia
+bo_cc_46139;rodriguezm@tigo.net.bo;S;MARIA ALEJANDRA;RODRIGUEZ LINO;Agente;bo_cc_46139;;Contact Center;Bolivia
+bo_cc_38083;angulog@tigo.net.bo;S;GLADYS PATRICIA;ANGULO APAZA;Agente;bo_cc_38083;;Contact Center;Bolivia
+bo_cc_60974;estradar@tigo.net.bo;S;RUTH;ESTRADA GARCIA;Agente;bo_cc_60974;;Contact Center;Bolivia
+bo_cc_68663;lujann@tigo.net.bo;S;NIMROD ERNESTO;LUJAN OLIVA;Agente;bo_cc_68663;;Contact Center;Bolivia
+bo_cc_53691;anezs@tigo.net.bo;S;SARINE;AÑEZ LANDIVAR;Agente;bo_cc_53691;;Contact Center;Bolivia
+bo_cc_37391;dacostam@tigo.net.bo;S;MARIA NANCY;DACOSTA IVA;Agente;bo_cc_37391;;Contact Center;Bolivia
+bo_cc_41212;pintoi@tigo.net.bo;S;IVAN LIONNEL;PINTO ORTEGA;Agente;bo_cc_41212;;Contact Center;Bolivia
+bo_cc_65782;gomezla@tigo.net.bo;S;LARISA YANIRA;GOMEZ SOQUERE;Agente;bo_cc_65782;;Contact Center;Bolivia
+bo_cc_59871;melgare@tigo.net.bo;S;EDUARDO;MELGAR AYALA;Agente;bo_cc_59871;;Contact Center;Bolivia
+bo_cc_64793;guzmancar@tigo.net.bo;S;CARLA;GUZMAN ESCOBAR;Agente;bo_cc_64793;;Contact Center;Bolivia
+bo_cc_59233;cortezw@tigo.net.bo;S;WALTER JUNIOR;CORTEZ MENESES;Agente;bo_cc_59233;;Contact Center;Bolivia
+bo_cc_team_14702;sueldol@tigo.net.bo;S;LESLIE;SUELDO CHAVEZ;Supervisor;bo_cc_team_14702;;Contact Center;Bolivia
+bo_cc_team_35363;ariasy@tigo.net.bo;S;YESSICA;ARIAS APONTE;Supervisor;bo_cc_team_35363;;Contact Center;Bolivia
+bo_cc_team_35852;aliendree@tigo.net.bo;S;ELOY ALEX;ALIENDRE GUZMAN;Supervisor;bo_cc_team_35852;;Contact Center;Bolivia
+bo_cc_team_35977;velize@tigo.net.bo;S;ELENIR SHARA;VELIZ ARRAZOLA;Supervisor;bo_cc_team_35977;;Contact Center;Bolivia
+bo_cc_team_37897;gomezpa@tigo.net.bo;S;PAOLA CECILIA;GOMEZ YABETA;Supervisor;bo_cc_team_37897;;Contact Center;Bolivia
+bo_cc_team_38126;riverorod@tigo.net.bo;N;RODRIGO;RIVERO ESTENSSORO;Supervisor;bo_cc_team_38126;;Contact Center;Bolivia
+bo_cc_team_38555;rossol@tigo.net.bo;S;ELBA LAURA;ROSSO BLANCO;Supervisor;bo_cc_team_38555;;Contact Center;Bolivia
+bo_cc_team_39060;justinianolu@tigo.net.bo;S;LUIS FERNANDO;JUSTINIANO VARGAS;Supervisor;bo_cc_team_39060;;Contact Center;Bolivia
+bo_cc_team_41306;rocajos@tigo.net.bo;S;JOSE MAURICIO;ROCA BLEICHNER;Supervisor;bo_cc_team_41306;;Contact Center;Bolivia
+bo_cc_team_45005;escobarv@tigo.net.bo;S;VALERIA VANESSA;ESCOBAR FUENTES;Supervisor;bo_cc_team_45005;;Contact Center;Bolivia
+bo_cc_team_46362;munizp@tigo.net.bo;S;PAUL GUILLERMO;MUÑIZ JIMENEZ;Supervisor;bo_cc_team_46362;;Contact Center;Bolivia
+bo_cc_team_46992;ruizw@tigo.net.bo;S;WALTER JESUS;RUIZ JUSTINIANO;Supervisor;bo_cc_team_46992;;Contact Center;Bolivia
+bo_cc_team_48543;gonzalesjl@tigo.net.bo;S;JOSE LUIS;GONZALEZ RUIZ;Supervisor;bo_cc_team_48543;;Contact Center;Bolivia
+bo_cc_team_51480;monasteriop@tigo.net.bo;S;PAUL;MONASTERIO LOPEZ;Supervisor;bo_cc_team_51480;;Contact Center;Bolivia
+bo_cc_team_51809;encinasal@tigo.net.bo;S;ALVARO JAVIER;ENCINAS FERNANDEZ;Supervisor;bo_cc_team_51809;;Contact Center;Bolivia
+bo_cc_team_36133;cocad@tigo.net.bo;S;DANILO;COCA GALLEGOS;Supervisor;bo_cc_team_36133;;Contact Center;Bolivia
+bo_cc_team_35854;balcazarjc@tigo.net.bo;S;JOSE CARLOS;BALCAZAR FRANCO;Supervisor;bo_cc_team_35854;;Contact Center;Bolivia
+bo_cc_team_39613;cuellarv@tigo.net.bo;S;VIVIAN VICTORIA;CUELLAR CAMACHO;Supervisor;bo_cc_team_39613;;Contact Center;Bolivia
+bo_cc_team_53383;salvatierrajl@tigo.net.bo;S;SALVATIERRA RIVERO;JORGE LUIS;Supervisor;bo_cc_team_53383;;Contact Center;Bolivia
+
+
