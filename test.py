@@ -304,7 +304,7 @@ class NewCSMS(tk.Frame):
         else:
             entra11 = self.entrada11.get()
 
-        if( entra5==None and entra3==None):
+        if( entra5==None or entra3==None):
             self.message['text'] = 'Login y Estado son necesarios'
         else:
             query = """INSERT INTO public."callback sms notifica"(usuario_id, rol_id, login, nombre, estado, "abm alta", "fecha alta", "abm baja", "fecha baja", "abm quitar", "fecha quitar") VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
@@ -1675,7 +1675,7 @@ class NewIEBS(tk.Frame):
         self.panelsup.columnconfigure(1, weight=1)
         self.panelsup.rowconfigure(0, weight=1)
 
-        self.subcuadro11 = LabelFrame(self.panelsup, background='white', text='Registrar CMS 19')
+        self.subcuadro11 = LabelFrame(self.panelsup, background='white', text='Registrar Integracion EBS')
 
         self.subcuadro11.grid(column=0, row=0, sticky='nsew')
 
@@ -1795,11 +1795,10 @@ class NewIEBS(tk.Frame):
         for element in records:
             self.tree.delete(element)
         # getting data
-        query = 'SELECT * FROM public."cms 19"  '
+        query = 'SELECT * FROM public."integracion ebs"  '
         db_rows = self.run_query(query)
-        db_rows['"campo 1"'] = db_rows['"campo 1"'].astype('Int64')
-        db_rows['"cod avaya"'] = db_rows['"cod avaya"'].astype('Int64')
-        db_rows['eh'] = db_rows['eh'].astype('Int64')
+        
+        
 
         # filling data
         self.tree['column'] = list(db_rows.columns)
@@ -1847,41 +1846,18 @@ class NewIEBS(tk.Frame):
             entra9 = None
         else:
             entra9 = self.entrada9.get()
-        if (len(self.entrada10.get()) == 0 or str(self.entrada10.get())=='None'  or str(self.entrada10.get())=='<NA>'):
+        if (len(self.entrada10.get()) == 0 or str(self.entrada10.get())=='None'  or str(self.entrada9.get())=='<NA>'):
             entra10 = None
         else:
             entra10 = self.entrada10.get()
-        if (len(self.entrada11.get()) == 0 or str(self.entrada11.get())=='None'  or str(self.entrada11.get())=='<NA>'):
-            entra11 = None
-        else:
-            entra11 = self.entrada11.get()
-        if (len(self.entrada12.get()) == 0 or str(self.entrada12.get())=='None'  or str(self.entrada12.get())=='<NA>'):
-            entra12 = None
-        else:
-            entra12 = self.entrada12.get()
-        if (len(self.entrada13.get()) == 0 or str(self.entrada13.get())=='None'  or str(self.entrada13.get())=='<NA>'):
-            entra13 = None
-        else:
-            entra13 = self.entrada13.get()
-        if (len(self.entrada14.get()) == 0 or str(self.entrada14.get())=='None'  or str(self.entrada14.get())=='<NA>'):
-            entra14 = None
-        else:
-            entra14 = self.entrada14.get()
-        if (len(self.entrada15.get()) == 0 or str(self.entrada15.get())=='None'  or str(self.entrada15.get())=='<NA>'):
-            entra15 = None
-        else:
-            entra15 = self.entrada15.get()
-        if (len(self.entrada16.get()) == 0 or str(self.entrada16.get())=='None'  or str(self.entrada16.get())=='<NA>'):
-            entra16 = None
-        else:
-            entra16 = self.entrada16.get()
+      
 
-        if( entra5==None and entra10==None):
-            self.message['text'] = 'EH y Estado son necesarios'
+        if( entra1==None or entra4==None):
+            self.message['text'] = 'USUARIO y ESTADO son necesarios'
         else:
-            query = """INSERT INTO public."cms 19"(
-	                "campo 1", campo2, campo3, campo4, eh, nombre, campo5, "cod avaya", campo6, estado, "abm alta", "fecha alta", "abm baja", "fecha baja", "abm quitar", "fecha quitar")
-	                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
+            query = """INSERT INTO public."integracion ebs"(
+	                "USUARIO", "NOMBRE", "ROL", "ESTADO", "abm alta", "fecha alta", "abm baja", "fecha baja", "abm quitar", "fecha quitar")
+	                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
             parameters = (entra1,
                       entra2,
                       entra3,
@@ -1891,13 +1867,7 @@ class NewIEBS(tk.Frame):
                       entra7,
                       entra8,
                       entra9,
-                      entra10,
-                      entra11,
-                      entra12,
-                      entra13,
-                      entra14,
-                      entra15,
-                      entra16
+                      entra10
                       )
             host = '127.0.0.1'
             user = 'postgres'
@@ -1921,12 +1891,7 @@ class NewIEBS(tk.Frame):
             self.entrada8.delete(0, END)
             self.entrada9.delete(0, END)
             self.entrada10.delete(0, END)
-            self.entrada11.delete(0, END)
-            self.entrada12.delete(0, END)
-            self.entrada13.delete(0, END)
-            self.entrada14.delete(0, END)
-            self.entrada15.delete(0, END)
-            self.entrada16.delete(0, END)
+            
             conn.commit()
             cursor.close()
             self.get_data()
@@ -1938,92 +1903,50 @@ class NewIEBS(tk.Frame):
         self.edit_wind = Toplevel(self.child)
         self.edit_wind.title = 'Edit'
 
-        Label(self.edit_wind, text='campo 1: ').grid(row=0, column=1)
+        Label(self.edit_wind, text='USUARIO: ').grid(row=0, column=1)
         new_entrada1 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[0]))
         new_entrada1.grid(row=0, column=2)
 
-        Label(self.edit_wind, text='campo2: ').grid(row=1, column=1)
+        Label(self.edit_wind, text='NOMBRE: ').grid(row=1, column=1)
         new_entrada2 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[1]))
         new_entrada2.grid(row=1, column=2)
 
-        Label(self.edit_wind, text='campo3: ').grid(row=2, column=1)
+        Label(self.edit_wind, text='ROL: ').grid(row=2, column=1)
         new_entrada3 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[2]))
         new_entrada3.grid(row=2, column=2)
 
-        Label(self.edit_wind, text='campo4: ').grid(row=3, column=1)
+        Label(self.edit_wind, text='ESTADO: ').grid(row=3, column=1)
         new_entrada4 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[3]))
         new_entrada4.grid(row=3, column=2)
 
-        Label(self.edit_wind, text='eh: ').grid(row=4, column=1)
+        Label(self.edit_wind, text='abm alta: ').grid(row=4, column=1)
         new_entrada5 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[4]))
         new_entrada5.grid(row=4, column=2)
 
-        Label(self.edit_wind, text='nombre: ').grid(row=5, column=1)
+        Label(self.edit_wind, text='fecha alta: ').grid(row=5, column=1)
         new_entrada6 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[5]))
         new_entrada6.grid(row=5, column=2)
 
-        Label(self.edit_wind, text='campo5: ').grid(row=6, column=1)
+        Label(self.edit_wind, text='abm baja: ').grid(row=6, column=1)
         new_entrada7 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[6]))
         new_entrada7.grid(row=6, column=2)
 
-        Label(self.edit_wind, text='cod avaya: ').grid(row=7, column=1)
+        Label(self.edit_wind, text='fecha baja: ').grid(row=7, column=1)
         new_entrada8 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[7]))
         new_entrada8.grid(row=7, column=2)
 
-        Label(self.edit_wind, text='campo6: ').grid(row=8, column=1)
+        Label(self.edit_wind, text='abm quitar: ').grid(row=8, column=1)
         new_entrada9 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[8]))
         new_entrada9.grid(row=8, column=2)
 
-        Label(self.edit_wind, text='estado: ').grid(row=9, column=1)
+        Label(self.edit_wind, text='fecha quitar: ').grid(row=9, column=1)
         new_entrada10 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[9]))
         new_entrada10.grid(row=9, column=2)
-
-        Label(self.edit_wind, text='abm alta: ').grid(row=10, column=1)
-        new_entrada11 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[10]))
-        new_entrada11.grid(row=10, column=2)
-        
-        Label(self.edit_wind, text='fecha alta: ').grid(row=11, column=1)
-        new_entrada12 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[11]))
-        new_entrada12.grid(row=11, column=2)
-        
-        Label(self.edit_wind, text='abm baja: ').grid(row=12, column=1)
-        new_entrada13 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[12]))
-        new_entrada13.grid(row=12, column=2)
-        
-        Label(self.edit_wind, text='fecha baja: ').grid(row=13, column=1)
-        new_entrada14 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[13]))
-        new_entrada14.grid(row=13, column=2)
-        
-        Label(self.edit_wind, text='abm quitar: ').grid(row=14, column=1)
-        new_entrada15 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[14]))
-        new_entrada15.grid(row=14, column=2)
-        
-        Label(self.edit_wind, text='fecha quitar: ').grid(row=15, column=1)
-        new_entrada16 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[15]))
-        new_entrada16.grid(row=15, column=2)
 
         self.messageedit = Label(self.edit_wind, text='', fg='red')
         self.messageedit.grid(row=16, column=0, columnspan=2, sticky=W + E)
         Button(self.edit_wind, text='Actualizar', command=lambda: self.edit_records(new_entrada1.get(),
-                                                                                    new_entrada2.get(),
-                                                                                    new_entrada3.get(),
-                                                                                    new_entrada4.get(),
-                                                                                    new_entrada5.get(),
-                                                                                    new_entrada6.get(),
-                                                                                    new_entrada7.get(),
-                                                                                    new_entrada8.get(),
-                                                                                    new_entrada9.get(),
-                                                                                    new_entrada10.get(),
-                                                                                    new_entrada11.get(),
-                                                                                    new_entrada12.get(),
-                                                                                    new_entrada13.get(),
-                                                                                    new_entrada14.get(),
-                                                                                    new_entrada15.get(),
-                                                                                    new_entrada16.get(),
-                                                                                    select[4],
-                                                                                    select[9]
-
-                                                                                    )).grid(row=17, column=2, sticky=W)
+                                              )).grid(row=17, column=2, sticky=W)
 
         self.edit_wind.mainloop()
 
@@ -2039,13 +1962,7 @@ class NewIEBS(tk.Frame):
                      var9,
                      var10,
                      var11,
-                     var12,
-                     var13,
-                     var14,
-                     var15,
-                     var16,
-                     var17,
-                     var18
+                     var12
                      ):
         if (len(var1) == 0 or str(var1) == 'None' or str(var1) == '<NA>'):
             entra1 = None
@@ -2098,39 +2015,15 @@ class NewIEBS(tk.Frame):
             entra12 = None
         else:
             entra12 = var12
-        if (len(var13) == 0 or str(var13) == 'None' or str(
-                var13) == '<NA>'):
-            entra13 = None
-        else:
-            entra13 = var13
-        if (len(var14) == 0 or str(var14) == 'None' or str(
-                var14) == '<NA>'):
-            entra14 = None
-        else:
-            entra14 = var14
-        if (len(var15) == 0 or str(var15) == 'None' or str(
-                var15) == '<NA>'):
-            entra15 = None
-        else:
-            entra15 = var15
-        if (len(var16) == 0 or str(var16) == 'None' or str(
-                var16) == '<NA>'):
-            entra16 = None
-        else:
-            entra16 = var16
+        
 
-        if (entra5 == None or entra10 == None):
-            self.messageedit['text'] = 'EH y Estado son necesarios'
+        if (entra1 == None or entra4 == None):
+            self.messageedit['text'] = 'USUARIO y Estado son necesarios'
         else:
-            query = 'UPDATE public."cms 19" SET "campo 1"=%s, campo2=%s, campo3=%s, campo4=%s, eh=%s, nombre=%s, campo5=%s, "cod avaya"=%s, campo6=%s, estado=%s, "abm alta"=%s, "fecha alta"=%s, "abm baja"=%s, "fecha baja"=%s, "abm quitar"=%s, "fecha quitar"=%s WHERE estado = %s AND eh= %s'
+            query = 'UPDATE public."integracion ebs" SET "USUARIO"=%s, "NOMBRE"=%s, "ROL"=%s, "ESTADO"=%s, "abm alta"=%s, "fecha alta"=%s, "abm baja"=%s, "fecha baja"=%s, "abm quitar"=%s, "fecha quitar"=%s WHERE estado = %s AND eh= %s'
             parameters = (
             entra1, entra2, entra3, entra4, entra5, entra6, entra7, entra8, entra9, entra10, entra11,
-            entra12,
-            entra13,
-            entra14, 
-            entra15,
-            entra16,
-            var18,var17)
+            entra12)
             host = '127.0.0.1'
             user = 'postgres'
             password = 'postgres'
@@ -2154,7 +2047,7 @@ class NewIEBS(tk.Frame):
         records = self.tree.get_children()
         for element in records:
             self.tree.delete(element)
-        mask = dfdb['estado'].str.contains(search_term, case=False, na=False)
+        mask = dfdb['ESTADO'].str.contains(search_term, case=False, na=False)
 
         self.tree['column'] = list(dfdb[mask].columns)
         for columna2 in self.tree['column']:
@@ -2167,9 +2060,9 @@ class NewIEBS(tk.Frame):
     def delete(self):
 
         select = self.tree.item(self.tree.selection())['values']
-        query = 'UPDATE public."cms 19" SET  estado=%s  WHERE   eh= %s'
+        query = 'UPDATE public."integracion ebs" SET  ESTADO=%s  WHERE USUARIO= %s'
         parameters = ('f',
-            select[4])
+            select[0])
         host = '127.0.0.1'
         user = 'postgres'
         password = 'postgres'
@@ -2207,31 +2100,31 @@ class NewLM(tk.Frame):
         self.panelsup.columnconfigure(1, weight=1)
         self.panelsup.rowconfigure(0, weight=1)
 
-        self.subcuadro11 = LabelFrame(self.panelsup, background='white', text='Registrar Callback SMS Notificacion')
+        self.subcuadro11 = LabelFrame(self.panelsup, background='white', text='Registrar Callback Llamadas molestosas')
 
         self.subcuadro11.grid(column=0, row=0, sticky='nsew')
 
-        Label(self.subcuadro11, text='usuario_id: ').grid(row=1, column=0)
+        Label(self.subcuadro11, text='codigo: ').grid(row=1, column=0)
         self.entrada1 = Entry(self.subcuadro11)
         self.entrada1.focus()
         self.entrada1.grid(row=1, column=1)
 
-        Label(self.subcuadro11, text='rol_id: ').grid(row=2, column=0)
+        Label(self.subcuadro11, text='codigoperfil: ').grid(row=2, column=0)
         self.entrada2 = Entry(self.subcuadro11)
         self.entrada2.focus()
         self.entrada2.grid(row=2, column=1)
 
-        Label(self.subcuadro11, text='login: ').grid(row=3, column=0)
+        Label(self.subcuadro11, text='nombrecompleto: ').grid(row=3, column=0)
         self.entrada3 = Entry(self.subcuadro11)
         self.entrada3.focus()
         self.entrada3.grid(row=3, column=1)
 
-        Label(self.subcuadro11, text='nombre: ').grid(row=4, column=0)
+        Label(self.subcuadro11, text='estado: ').grid(row=4, column=0)
         self.entrada4 = Entry(self.subcuadro11)
         self.entrada4.focus()
         self.entrada4.grid(row=4, column=1)
 
-        Label(self.subcuadro11, text='estado: ').grid(row=5, column=0)
+        Label(self.subcuadro11, text='fechaalta: ').grid(row=5, column=0)
         self.entrada5 = Entry(self.subcuadro11)
         self.entrada5.focus()
         self.entrada5.grid(row=5, column=1)
@@ -2269,7 +2162,7 @@ class NewLM(tk.Frame):
         self.message = Label(self.subcuadro11, text='', fg='red')
         self.message.grid(row=12, column=0, columnspan=2, sticky=W + E)
         ttk.Button(self.subcuadro11, text='Save', command=self.add).grid(row=13, columnspan=2, sticky=W + E)
-        ttk.Button(self.subcuadro11, text='DELETE').grid(row=14, column=0, sticky=W + E)
+        ttk.Button(self.subcuadro11, text='DELETE', command=self.delete).grid(row=14, column=0, sticky=W + E)
         ttk.Button(self.subcuadro11, text='EDIT', command=self.edit).grid(row=14, column=1, sticky=W + E)
 
         self.subcuadro12 = LabelFrame(self.panelsup, background='white', text='Filtro')
@@ -2330,10 +2223,10 @@ class NewLM(tk.Frame):
         for element in records:
             self.tree.delete(element)
         # getting data
-        query = 'SELECT * FROM public."callback sms notifica" '
+        query = 'SELECT * FROM public."llamadas molestosas" '
         db_rows = self.run_query(query)
-        db_rows['rol_id'] = db_rows['rol_id'].astype('Int64')
-        db_rows['usuario_id'] = db_rows['usuario_id'].astype('Int64')
+        db_rows['codigoperfil'] = db_rows['codigoperfil'].astype('Int64')
+        
 
         # filling data
         self.tree['column'] = list(db_rows.columns)
@@ -2393,7 +2286,9 @@ class NewLM(tk.Frame):
         if( entra5==None and entra3==None):
             self.message['text'] = 'Login y Estado son necesarios'
         else:
-            query = """INSERT INTO public."callback sms notifica"(usuario_id, rol_id, login, nombre, estado, "abm alta", "fecha alta", "abm baja", "fecha baja", "abm quitar", "fecha quitar") VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
+            query = """INTO public."llamadas molestosas"(
+	        codigo, codigoperfil, nombrecompleto, estado, fechaalta, "abm alta", "fecha alta", "abm baja", "fecha baja", "abm quitar", "fecha quitar")
+	        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"""
             parameters = (entra1,
                       entra2,
                       entra3,
@@ -2440,19 +2335,19 @@ class NewLM(tk.Frame):
         self.edit_wind = Toplevel(self.child)
         self.edit_wind.title = 'Edit'
 
-        Label(self.edit_wind, text='usuario_id: ').grid(row=0, column=1)
+        Label(self.edit_wind, text='codigo: ').grid(row=0, column=1)
         new_entrada1 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[0]))
         new_entrada1.grid(row=0, column=2)
 
-        Label(self.edit_wind, text='rol_id: ').grid(row=1, column=1)
+        Label(self.edit_wind, text='codigoperfil: ').grid(row=1, column=1)
         new_entrada2 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[1]))
         new_entrada2.grid(row=1, column=2)
 
-        Label(self.edit_wind, text='login: ').grid(row=2, column=1)
+        Label(self.edit_wind, text='nombrecompleto: ').grid(row=2, column=1)
         new_entrada3 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[2]))
         new_entrada3.grid(row=2, column=2)
 
-        Label(self.edit_wind, text='nombre: ').grid(row=3, column=1)
+        Label(self.edit_wind, text='fechaalta: ').grid(row=3, column=1)
         new_entrada4 = Entry(self.edit_wind, textvariable=StringVar(self.edit_wind, value=select[3]))
         new_entrada4.grid(row=3, column=2)
 
@@ -2497,8 +2392,8 @@ class NewLM(tk.Frame):
                                                                                     new_entrada9.get(),
                                                                                     new_entrada10.get(),
                                                                                     new_entrada11.get(),
-                                                                                    select[0],
-                                                                                    select[2]
+                                                                                    select[1],
+                                                                                    select[3]
 
                                                                                     )).grid(row=12, column=2, sticky=W)
 
