@@ -1,110 +1,141 @@
-from tkinter import Tk, Label, Button, Frame, messagebox, filedialog, ttk, Scrollbar, VERTICAL, HORIZONTAL
+from tkinter import Tk, Entry, Label, Button, Frame, messagebox, filedialog, ttk, Scrollbar, VERTICAL, HORIZONTAL
 import pandas as pd
+import tkinter as tk
+import sqlalchemy
+import psycopg2
+from sqlalchemy import create_engine
+import datetime
 
+user = 'postgres'
+password ='12345678'
+host='127.0.0.1'
+database='testabm'
+ventana = tk.Tk()
+ventana.config(bg='yellow')
 
-ventana = Tk()
-ventana.config(bg='black')
-ventana.geometry('600x400')
-ventana.minsize(width=600, height=400)
-ventana.title('Leer datos excel')
+ventana.title('CARGA')
+ventana.configure(background='black')
+ventana.focus_set()
 
+engine =create_engine("postgresql+psycopg2://postgres:12345678@localhost:5432/testabm")
 
+def sheets(datos,archivo):
+    if(datos == 'todos'):
+        df = pd.read_excel(archivo,datos)
+        df.to_sql(name='todos',con=engine, if_exists='append',index=False)
+    elif(datos == 'llamadas molestosas'):
+        df = pd.read_excel(archivo,datos)
+        df.to_sql(name='llamadas molestosas',con=engine, if_exists='append',index=False)
+    elif (datos == 'TR4'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='tr4', con=engine, if_exists='append', index=False)
+    elif (datos == 'Tallycode'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='tallycode', con=engine, if_exists='append', index=False)
+    elif (datos == 'Callbackhvc'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='callbackhvc', con=engine, if_exists='append', index=False)
+    elif (datos == 'rellamadas'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='rellamadas', con=engine, if_exists='append', index=False)
+    elif (datos == 'callback sms notifica'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='callback sms notifica', con=engine, if_exists='append', index=False)
+    elif (datos == 'integracion ebs'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='integracion ebs', con=engine, if_exists='append', index=False)
+    elif (datos == 'Requerimientos Fiscales'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='requerimientos fiscales', con=engine, if_exists='append', index=False)
+    elif (datos == 'SMS Notifica'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='sms notifica', con=engine, if_exists='append', index=False)
+    elif (datos == 'App Informativa'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='app informativa', con=engine, if_exists='append', index=False)
+    elif (datos == 'CMS 19'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='cms 19', con=engine, if_exists='append', index=False)
+    elif (datos == 'CMS17'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='cms17', con=engine, if_exists='append', index=False)
+    elif (datos == 'WFO'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='wfo', con=engine, if_exists='append', index=False)
+    elif (datos == 'WFO ACR'):
+        df = pd.read_excel(archivo, datos)
+        df.to_sql(name='wfo acr', con=engine, if_exists='append', index=False)
 
-ventana.columnconfigure(0, weight=25)
-ventana.rowconfigure(0, weight=25)
-ventana.columnconfigure(0, weight=1)
-ventana.rowconfigure(1, weight=1)
+def sqlcol(dfparam):  # Creacion de columnas con su tipo correspondiente de acuerdo al tipo de dato entregado por el DataFrame
 
-frame1 = Frame(ventana, bg='blue')
-frame1.grid(column=0, row=0, sticky='nsew')
-frame2 = Frame(ventana, bg='gray26')
-frame2.grid(column=0, row=1, sticky='nsew')
+    dtypedict = {}
+    for i, j in zip(dfparam.columns, dfparam.dtypes):
+        if ("fecha" in str(i)):
+            dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
-frame1.columnconfigure(0, weight=1)
-frame1.rowconfigure(0, weight=1)
+        else:
+            if "object" in str(j):
+                dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
-frame2.columnconfigure(0, weight=1)
-frame2.rowconfigure(0, weight=1)
-frame2.columnconfigure(1, weight=1)
-frame2.rowconfigure(0, weight=1)
+            if "datetime" in str(j):
+                dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
-frame2.columnconfigure(2, weight=1)
-frame2.rowconfigure(0, weight=1)
+            if "float" in str(j):
+                dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
-frame2.columnconfigure(3, weight=2)
-frame2.rowconfigure(0, weight=1)
+            if "int" in str(j):
+                dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
+            if "real" in str(j):
+                dtypedict.update({i: sqlalchemy.types.VARCHAR(length=255)})
 
-def abrir_archivo():
-    archivo = filedialog.askopenfilename(initialdir='/', title='Seleccione archivo', filetype=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
-    indica['text'] = archivo
+    return dtypedict
 
-
-def datos_excel():
-
-    datos_obtenidos = indica['text']
+def procesar(table,xl):
+    df = pd.read_excel(xl, table)
+    engine = create_engine(f'postgresql+psycopg2://{user}:{password}@{host}/{database}', pool_recycle=3600);
+    cnx = engine.connect();
+    table_engine = table
     try:
-        archivoexcel = r'{}'.format(datos_obtenidos)
-        df = pd.read_excel(archivoexcel)
-        xl = pd.ExcelFile(archivoexcel)
-        print(xl.sheet_names)
-
-    except ValueError:
-        messagebox.showerror('Informacion', 'Formato incorrecto')
-        return None
-
-    except FileNotFoundError:
-        messagebox.showerror('Informacion', 'El archivo está \n corrupto')
-        return None
-
-    Limpiar()
-
-    tabla['column'] = list(df.columns)
-    tabla['show'] = "headings"
+        format = sqlcol(df)
+        frame = df.to_sql(table_engine, cnx, if_exists='append', index=False, dtype=format);
+    except Exception as ex:
+        print(ex)
+    else:
+        print('Datos ingresados')
+    finally:
+        cnx.close()
 
 
-    for columna in tabla['column']:
-        tabla.heading(columna, text= columna)
-
-    df_fila = df.to_numpy().tolist()
-    for fila in df_fila:
-        tabla.insert('', 'end', values =fila)
 
 
-def Limpiar():
-    tabla.delete(*tabla.get_children())
+
+def datos_db():
+    archivo = filedialog.askopenfilename(initialdir='/',
+                                         title='Seleccione archivo',
+                                         filetypes=(('xlsx files', '*.xlsx*'), ('All files', '*.*')))
+    etiqueta['text'] = archivo
+
+    global archivoexcel
+    archivoexcel = r'{}'.format(archivo)
+    print(archivoexcel)
+
+    global xl
+    xl = pd.ExcelFile(archivoexcel)
+
+    list_sheet = xl.sheet_names
+    print(list_sheet)
+def process():
+    for sheet in xl.sheet_names:
+        procesar(sheet,xl)
 
 
-tabla = ttk.Treeview(frame1, height=10)
-tabla.grid(column=0, row=0, sticky='nsew')
 
-ladox = Scrollbar(frame1, orient=HORIZONTAL, command=tabla.xview)
-ladox.grid(column=0, row=1, sticky='ew')
-
-ladoy = Scrollbar(frame1, orient=VERTICAL, command=tabla.yview)
-ladoy.grid(column=1, row=0, sticky='ns')
-
-tabla.configure(xscrollcommand = ladoy.set, yscrollcommand=ladoy.set)
-
-estilo = ttk.Style(frame1)
-estilo.theme_use('clam') # ('clam', 'alt', 'default', 'classic')
-estilo.configure(".", font=('Arial', 14), foreground='red2')
-estilo.configure("Treeview", font= ('Helvetica', 12), foreground='black', background='white')
-estilo.map('Treeview', background=[('selected', 'green2')], foreground=[('selected', 'black')])
+Button(ventana, text='Cargar', bg='magenta', command=datos_db).grid(column=0, row=0, sticky='nsew', padx=5, pady=5)
+etiqueta = Label(ventana)
+etiqueta.grid(row=0, column=1)
+Button(ventana, text='Procesar', bg='magenta', command=process).grid(column=0, row=1, sticky='nsew', padx=5, pady=5)
 
 
-boton1 = Button(frame2, text='Abrir', bg='green2', command=abrir_archivo)
-boton1.grid(column=0, row=0, sticky='nsew', padx=10, pady=10)
-
-boton2 = Button(frame2, text='Mostrar', bg='red', command=datos_excel)
-boton2.grid(column=1, row=0, sticky='nsew', padx=10, pady=10)
-
-boton1 = Button(frame2, text='Limpiar', bg='magenta', command=Limpiar)
-boton1.grid(column=2, row=0, sticky='nsew', padx=10, pady=10)
-
-indica = Label(frame2, fg='white', bg='gray26', text='Ubicacion del archivo', font=('Arial',10,'bold'))
-indica.grid(column=3, row=0)
 
 ventana.mainloop()
-
-
